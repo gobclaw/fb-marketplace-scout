@@ -12,7 +12,7 @@ CATEGORIES = {
     "Original": ["vw bug", "vw bus", "toyota land cruiser", "ford bronco", "jeep wagoneer", "toyota pickup"],
     "Jeep / Off-Road": ["jeep cj", "jeep cherokee xj", "land rover defender"],
     "Trucks": ["chevy k10", "ford f100", "dodge power wagon", "chevy c10"],
-    "Wagons / Land Yachts": ["oldsmobile vista cruiser", "buick estate wagon", "pontiac safari wagon"],
+    "Boats & Off-Road": ["jet boat", "sandrail"],
     "Small / Economy": ["datsun 510", "volkswagen rabbit", "toyota corolla", "honda civic classic"],
     "VW Adjacent": ["vw thing", "vw karmann ghia"],
 }
@@ -32,9 +32,8 @@ RELEVANCE_KEYWORDS = {
     "ford f100": ["f100", "f-100", "f250", "f-250", "ford"],
     "dodge power wagon": ["dodge", "power wagon", "w200", "w100", "d150", "ramcharger"],
     "chevy c10": ["c10", "c-10", "chevy", "chevrolet", "cheyenne", "gmc", "square body"],
-    "oldsmobile vista cruiser": ["oldsmobile", "olds", "vista cruiser", "cutlass", "delta"],
-    "buick estate wagon": ["buick", "roadmaster", "estate"],
-    "pontiac safari wagon": ["pontiac", "safari", "lemans"],
+    "jet boat": ["jet boat", "jetboat", "jet", "boat"],
+    "sandrail": ["sandrail", "sand rail", "dune buggy", "buggy", "rail"],
     "datsun 510": ["datsun", "nissan 510", "510"],
     "volkswagen rabbit": ["rabbit", "vw", "volkswagen"],
     "toyota corolla": ["corolla", "toyota"],
@@ -179,8 +178,32 @@ for l in all_listings:
 
 stale_listings = [l for l in all_listings if l.get('days_on_market', 0) >= 5]
 
-# --- Update seen file ---
+# --- Detect sold listings (in prev_seen but missing 2+ days from scrape) ---
+sold_listings = []
+current_ids = set(l['id'] for l in all_listings)
+for lid, data in prev_seen.items():
+    if lid not in current_ids and not data.get('sold'):
+        last_seen = data.get('last_seen', today)
+        days_gone = (datetime.now() - datetime.strptime(last_seen, '%Y-%m-%d')).days
+        if days_gone >= 2:
+            first_seen = data.get('first_seen', today)
+            days_on = (datetime.strptime(last_seen, '%Y-%m-%d') - datetime.strptime(first_seen, '%Y-%m-%d')).days
+            sold_listings.append({
+                'id': lid, 'title': data.get('title', '(unknown)'),
+                'price': data.get('price', 0), 'price_raw': '',
+                'location': '', 'first_seen': first_seen,
+                'last_seen': last_seen,
+                'days_on_market': days_on,
+                'url': f'https://www.facebook.com/marketplace/item/{lid}/',
+                'search_terms': data.get('search_terms', []),
+                'is_parts': False, 'sold': True
+            })
+sold_vehicles = [l for l in sold_listings if not is_parts_listing(l)]
+sold_vehicles.sort(key=lambda x: x.get('days_on_market', 0))
+
+# --- Update seen file (preserve missing listings until sold, track sold) ---
 new_seen = {}
+# Active listings
 for l in all_listings:
     new_seen[l['id']] = {
         'price': l['price'], 'title': l['title'],
@@ -188,6 +211,15 @@ for l in all_listings:
         'last_seen': today,
         'search_terms': l.get('search_terms', [])
     }
+# Carry forward missing listings (not yet 2 days gone) so we can detect sold later
+for lid, data in prev_seen.items():
+    if lid not in current_ids and not data.get('sold'):
+        last_seen = data.get('last_seen', today)
+        days_gone = (datetime.now() - datetime.strptime(last_seen, '%Y-%m-%d')).days
+        if days_gone < 2:
+            new_seen[lid] = data  # keep tracking, might reappear
+        else:
+            new_seen[lid] = {**data, 'sold': True, 'sold_date': today}  # mark as sold
 save_seen(new_seen)
 
 # --- Classify parts vs vehicles ---
@@ -262,6 +294,8 @@ def listing_row(l, show_badge=None, show_deal=False):
         badge = f'<span class="badge drop">↓{l.get("drop_pct",0)}%</span>'
     elif show_badge == 'stale':
         badge = f'<span class="badge stale">{l.get("days_on_market",0)}d</span>'
+    elif show_badge == 'sold':
+        badge = '<span class="badge sold">SOLD</span>'
     if show_deal and l.get('is_deal'):
         badge += '<span class="badge deal">DEAL</span>'
     price_html = fmt_price(l['price'])
@@ -269,10 +303,13 @@ def listing_row(l, show_badge=None, show_deal=False):
         price_html = f'{fmt_price(l["price"])} <s class="old-price">{fmt_price(l["old_price"])}</s>'
     searches = ', '.join(l.get('search_terms', []))
     is_part = 'parts' if l.get('is_parts') else 'vehicle'
+    dom = l.get('days_on_market', 0)
+    dom_html = f'<span class="dom">{dom}d</span>' if dom > 0 else '<span class="dom">new</span>'
     return f'''<tr class="listing-row" data-search="{searches}" data-type="{is_part}" data-price="{l['price']}" data-title="{(l.get('title') or '').lower()}" data-location="{(l.get('location') or '').lower()}">
         <td>{badge} <a href="{l['url']}" target="_blank">{l['title'] or '(untitled)'}</a></td>
         <td class="price">{price_html}</td>
         <td>{l['location']}</td>
+        <td>{dom_html}</td>
     </tr>'''
 
 def section_table(items, badge_type=None, empty_msg="Nothing yet — check back tomorrow.", show_deal=False):
@@ -280,7 +317,7 @@ def section_table(items, badge_type=None, empty_msg="Nothing yet — check back 
         return f'<p class="empty">{empty_msg}</p>'
     rows = '\n'.join(listing_row(l, badge_type, show_deal) for l in items)
     return f'''<table class="listing-table">
-        <thead><tr><th>Listing</th><th>Price</th><th>Location</th></tr></thead>
+        <thead><tr><th>Listing</th><th>Price</th><th>Location</th><th>Age</th></tr></thead>
         <tbody>{rows}</tbody>
     </table>'''
 
@@ -313,6 +350,7 @@ html = f'''<!DOCTYPE html>
     .stat.new .num {{ color: #4ade80; }}
     .stat.drop .num {{ color: #f59e0b; }}
     .stat.stale .num {{ color: #ef4444; }}
+    .stat.sold .num {{ color: #c084fc; }}
     .stat.clickable {{ cursor: pointer; transition: border-color 0.15s; }}
     .stat.clickable:hover {{ border-color: #555; }}
     .section {{ margin-bottom: 32px; }}
@@ -349,6 +387,8 @@ html = f'''<!DOCTYPE html>
     .badge.drop {{ background: #451a03; color: #f59e0b; }}
     .badge.stale {{ background: #450a0a; color: #ef4444; }}
     .badge.deal {{ background: #1e1b4b; color: #a78bfa; }}
+    .badge.sold {{ background: #3b0764; color: #c084fc; }}
+    .dom {{ color: #555; font-size: 0.8em; white-space: nowrap; }}
     .empty {{ color: #555; font-style: italic; padding: 12px 0; }}
     .day-one-note {{ background: #1a1a2e; border: 1px solid #2a2a4e; border-radius: 8px; padding: 14px 18px; margin-bottom: 24px; color: #a0a0d0; font-size: 0.9em; }}
     @media (max-width: 768px) {{
@@ -380,6 +420,7 @@ html = f'''<!DOCTYPE html>
     <div class="stat new clickable" onclick="scrollToSection('section-new')"><div class="num">{total_new}</div><div class="label">New Today</div></div>
     <div class="stat drop clickable" onclick="scrollToSection('section-drops')"><div class="num">{total_drops}</div><div class="label">Price Drops</div></div>
     <div class="stat stale clickable" onclick="scrollToSection('section-stale')"><div class="num">{total_stale}</div><div class="label">Stale (5d+)</div></div>
+    <div class="stat sold clickable" onclick="scrollToSection('section-sold')"><div class="num">{len(sold_vehicles)}</div><div class="label">Sold</div></div>
     <div class="stat"><div class="num">{total_vehicles}</div><div class="label">Vehicles</div></div>
     <div class="stat"><div class="num">{total_parts}</div><div class="label">Parts</div></div>
 </div>
@@ -411,6 +452,14 @@ html += f'''<div class="section" id="section-stale">
 <h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Getting Stale (5+ days) <span class="count">({len(stale_vehicles)})</span></h2>
 <div style="display:none">
 {section_table(stale_vehicles, 'stale', "No stale listings yet — needs 5+ days of tracking.")}
+</div>
+</div>'''
+
+# Sold section
+html += f'''<div class="section" id="section-sold">
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Recently Sold <span class="count">({len(sold_vehicles)})</span></h2>
+<div style="display:none">
+{section_table(sold_vehicles, 'sold', "No sold listings detected yet — needs 2+ days of tracking.")}
 </div>
 </div>'''
 
