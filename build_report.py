@@ -425,11 +425,11 @@ for cat_name, search_terms in CATEGORIES.items():
         st_title = st.replace('_', ' ').title()
         html += f'''<div class="search-group">
         <h4 onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'">
-            <span class="arrow open">&#9654;</span> {st_title}
+            <span class="arrow">&#9654;</span> {st_title}
             <span class="st-count">({len(vehs)} vehicles{", " + str(len(parts)) + " parts" if parts else ""})</span>
             <span class="st-avg">avg {fmt_price(st_stats.get("avg",0))}</span>
         </h4>
-        <div class="search-group-body">
+        <div class="search-group-body" style="display:none">
         '''
         if vehs:
             html += section_table(vehs, show_deal=True)
