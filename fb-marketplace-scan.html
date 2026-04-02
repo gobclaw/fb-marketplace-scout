@@ -29,6 +29,8 @@
     .stat.clickable:hover { border-color: #555; }
     .section { margin-bottom: 32px; }
     .section > h2 { font-size: 1.2em; color: #fff; margin-bottom: 12px; padding-bottom: 6px; border-bottom: 1px solid #333; }
+    .section > h2.collapsible { cursor: pointer; }
+    .section > h2.collapsible:hover { color: #60a5fa; }
     .section h2 .count { color: #666; font-weight: 400; font-size: 0.8em; }
     .category { margin-bottom: 32px; border: 1px solid #222; border-radius: 10px; padding: 16px; background: #0d0d0d; }
     .category > h3 { font-size: 1.1em; color: #fff; margin-bottom: 4px; }
@@ -94,14 +96,20 @@
     <div class="stat"><div class="num">27</div><div class="label">Parts</div></div>
 </div>
 <div class="section" id="section-new">
-<h2>New Today <span class="count">(0 vehicles)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> New Today <span class="count">(0 vehicles)</span></h2>
+<div style="display:none">
 <p class="empty">Day 1 baseline — everything is new. Check back tomorrow for true new listings.</p>
+</div>
 </div><div class="section" id="section-drops">
-<h2>Price Drops <span class="count">(0)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Price Drops <span class="count">(0)</span></h2>
+<div style="display:none">
 <p class="empty">No price drops detected yet — tracking starts after day 1.</p>
+</div>
 </div><div class="section" id="section-stale">
-<h2>Getting Stale (5+ days) <span class="count">(0)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Getting Stale (5+ days) <span class="count">(0)</span></h2>
+<div style="display:none">
 <p class="empty">No stale listings yet — needs 5+ days of tracking.</p>
+</div>
 </div><div class="section"><h2>All Listings by Category</h2></div><div class="category">
     <h3>Original <span class="count">(101 vehicles, 6 parts)</span></h3>
     <div class="cat-stats">Vehicle avg: $7,114 &middot; Range: $550 – $15,000</div>
@@ -2257,7 +2265,17 @@
 <script>
 function scrollToSection(id) {
     var el = document.getElementById(id);
-    if (el) el.scrollIntoView({behavior: 'smooth', block: 'start'});
+    if (!el) return;
+    var h2 = el.querySelector('h2.collapsible');
+    if (h2) {
+        var body = h2.nextElementSibling;
+        if (body && body.style.display === 'none') {
+            body.style.display = 'block';
+            var arrow = h2.querySelector('.arrow');
+            if (arrow) arrow.classList.add('open');
+        }
+    }
+    el.scrollIntoView({behavior: 'smooth', block: 'start'});
 }
 function togglePill(el) {
     el.classList.toggle('active');

@@ -317,6 +317,8 @@ html = f'''<!DOCTYPE html>
     .stat.clickable:hover {{ border-color: #555; }}
     .section {{ margin-bottom: 32px; }}
     .section > h2 {{ font-size: 1.2em; color: #fff; margin-bottom: 12px; padding-bottom: 6px; border-bottom: 1px solid #333; }}
+    .section > h2.collapsible {{ cursor: pointer; }}
+    .section > h2.collapsible:hover {{ color: #60a5fa; }}
     .section h2 .count {{ color: #666; font-weight: 400; font-size: 0.8em; }}
     .category {{ margin-bottom: 32px; border: 1px solid #222; border-radius: 10px; padding: 16px; background: #0d0d0d; }}
     .category > h3 {{ font-size: 1.1em; color: #fff; margin-bottom: 4px; }}
@@ -387,23 +389,29 @@ html = f'''<!DOCTYPE html>
 new_vehicles = [l for l in new_listings if not l.get('is_parts')] if not is_day_one else []
 new_vehicles.sort(key=lambda x: (x['price'] == 0, x['price']))
 html += f'''<div class="section" id="section-new">
-<h2>New Today <span class="count">({len(new_vehicles)} vehicles)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> New Today <span class="count">({len(new_vehicles)} vehicles)</span></h2>
+<div style="display:none">
 {section_table(new_vehicles, 'new', "Day 1 baseline — everything is new. Check back tomorrow for true new listings.", show_deal=True)}
+</div>
 </div>'''
 
 # Price Drops section
 price_drops.sort(key=lambda x: x.get('drop_pct', 0), reverse=True)
 html += f'''<div class="section" id="section-drops">
-<h2>Price Drops <span class="count">({total_drops})</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Price Drops <span class="count">({total_drops})</span></h2>
+<div style="display:none">
 {section_table(price_drops, 'drop', "No price drops detected yet — tracking starts after day 1.")}
+</div>
 </div>'''
 
 # Stale section
 stale_vehicles = [l for l in stale_listings if not l.get('is_parts')]
 stale_vehicles.sort(key=lambda x: x.get('days_on_market', 0), reverse=True)
 html += f'''<div class="section" id="section-stale">
-<h2>Getting Stale (5+ days) <span class="count">({len(stale_vehicles)})</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Getting Stale (5+ days) <span class="count">({len(stale_vehicles)})</span></h2>
+<div style="display:none">
 {section_table(stale_vehicles, 'stale', "No stale listings yet — needs 5+ days of tracking.")}
+</div>
 </div>'''
 
 # Full listings: Category > Search Term > Vehicles / Parts
@@ -448,7 +456,17 @@ html += '''
 <script>
 function scrollToSection(id) {
     var el = document.getElementById(id);
-    if (el) el.scrollIntoView({behavior: 'smooth', block: 'start'});
+    if (!el) return;
+    var h2 = el.querySelector('h2.collapsible');
+    if (h2) {
+        var body = h2.nextElementSibling;
+        if (body && body.style.display === 'none') {
+            body.style.display = 'block';
+            var arrow = h2.querySelector('.arrow');
+            if (arrow) arrow.classList.add('open');
+        }
+    }
+    el.scrollIntoView({behavior: 'smooth', block: 'start'});
 }
 function togglePill(el) {
     el.classList.toggle('active');
