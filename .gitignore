@@ -2,3 +2,4 @@ seen-listings.json
 scrape_results.txt
 fb-report-b64.txt
 __pycache__/
+.vercel

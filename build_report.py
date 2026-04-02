@@ -9,12 +9,38 @@ SEEN_FILE = os.path.join(BASE_DIR, "seen-listings.json")
 OUTPUT_FILE = os.path.join(BASE_DIR, "fb-marketplace-scan.html")
 
 CATEGORIES = {
-    "Original": ["vw bug", "vw bus", "toyota land cruiser", "ford bronco", "international scout", "jeep wagoneer", "toyota pickup"],
-    "Jeep / Off-Road": ["jeep cj", "jeep cherokee xj", "land rover defender", "ford bronco ii"],
+    "Original": ["vw bug", "vw bus", "toyota land cruiser", "ford bronco", "jeep wagoneer", "toyota pickup"],
+    "Jeep / Off-Road": ["jeep cj", "jeep cherokee xj", "land rover defender"],
     "Trucks": ["chevy k10", "ford f100", "dodge power wagon", "chevy c10"],
     "Wagons / Land Yachts": ["oldsmobile vista cruiser", "buick estate wagon", "pontiac safari wagon"],
     "Small / Economy": ["datsun 510", "volkswagen rabbit", "toyota corolla", "honda civic classic"],
-    "VW Adjacent": ["vw thing", "vw karmann ghia", "porsche 914"],
+    "VW Adjacent": ["vw thing", "vw karmann ghia"],
+}
+
+# Title-relevance keywords: a listing must contain at least one keyword to stay under a search term
+RELEVANCE_KEYWORDS = {
+    "vw bug": ["vw", "volkswagen", "beetle", "bug"],
+    "vw bus": ["vw", "volkswagen", "bus", "vanagon", "baywindow", "splitwindow", "type 2", "eurovan", "westfalia"],
+    "toyota land cruiser": ["land cruiser", "landcruiser", "fj40", "fj60", "fj80", "fzj80", "lx 470", "lx470"],
+    "ford bronco": ["bronco"],
+    "jeep wagoneer": ["wagoneer", "willys"],
+    "toyota pickup": ["toyota", "tacoma", "hilux", "pickup", "pick up"],
+    "jeep cj": ["cj", "cj5", "cj7", "cj-5", "cj-7"],
+    "jeep cherokee xj": ["cherokee", "xj"],
+    "land rover defender": ["land rover", "landrover", "defender", "discovery", "range rover", "lr3", "lr4"],
+    "chevy k10": ["chevy", "chevrolet", "k10", "k20", "silverado", "gmc", "square body"],
+    "ford f100": ["f100", "f-100", "f250", "f-250", "ford"],
+    "dodge power wagon": ["dodge", "power wagon", "w200", "w100", "d150", "ramcharger"],
+    "chevy c10": ["c10", "c-10", "chevy", "chevrolet", "cheyenne", "gmc", "square body"],
+    "oldsmobile vista cruiser": ["oldsmobile", "olds", "vista cruiser", "cutlass", "delta"],
+    "buick estate wagon": ["buick", "roadmaster", "estate"],
+    "pontiac safari wagon": ["pontiac", "safari", "lemans"],
+    "datsun 510": ["datsun", "nissan 510", "510"],
+    "volkswagen rabbit": ["rabbit", "vw", "volkswagen"],
+    "toyota corolla": ["corolla", "toyota"],
+    "honda civic classic": ["honda", "civic"],
+    "vw thing": ["thing", "vw", "volkswagen"],
+    "vw karmann ghia": ["karmann", "ghia", "vw", "volkswagen"],
 }
 
 def parse_price(raw):
@@ -94,6 +120,16 @@ listings_by_search = defaultdict(list)
 current_search = None
 today = datetime.now().strftime('%Y-%m-%d')
 
+def is_relevant(listing, search_term):
+    """Check if a listing title is relevant to the search term."""
+    keywords = RELEVANCE_KEYWORDS.get(search_term)
+    if not keywords:
+        return True  # no filter defined, keep everything
+    title = (listing.get('title') or '').lower()
+    if not title or title.startswith('(listing'):
+        return True  # can't filter untitled listings, keep them
+    return any(kw in title for kw in keywords)
+
 with open(SCRAPE_FILE) as f:
     for line in f:
         line = line.strip()
@@ -104,7 +140,7 @@ with open(SCRAPE_FILE) as f:
             continue
         if current_search:
             listing = parse_line(line)
-            if listing:
+            if listing and is_relevant(listing, current_search):
                 listings_by_search[current_search].append(listing)
 
 # --- Deduplicate across all searches ---
