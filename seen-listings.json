@@ -3,74 +3,94 @@
     "price": 3000.0,
     "title": "(Listing 17498237...)",
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug",
       "vw karmann ghia"
-    ]
-  },
-  "224585234082912": {
-    "price": 1500.0,
-    "title": "(Listing 22458523...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug",
-      "vw karmann ghia"
-    ]
-  },
-  "1879785832902825": {
-    "price": 1.0,
-    "title": "(Listing 18797858...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug"
     ]
   },
   "33974021798863662": {
     "price": 1500.0,
     "title": "(Listing 33974021...)",
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug"
     ]
   },
-  "4429282610636890": {
-    "price": 4500.0,
-    "title": "1966 Volkswagen fastback",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
+  "1879785832902825": {
+    "price": 1.0,
+    "title": "(Listing 18797858...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug"
+    ]
+  },
+  "1742134990096187": {
+    "price": 8500.0,
+    "title": "68 vw.  Conv ghia",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug",
+      "vw bus",
+      "vw thing",
+      "vw karmann ghia"
     ]
   },
   "1934848260666484": {
     "price": 900.0,
     "title": "(Listing 19348482...)",
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug"
     ]
   },
-  "1496804285124533": {
-    "price": 11000.0,
-    "title": "(Listing 14968042...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
+  "224585234082912": {
+    "price": 1500.0,
+    "title": "(Listing 22458523...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug",
       "vw thing",
       "vw karmann ghia"
     ]
   },
+  "965774685914323": {
+    "price": 1500.0,
+    "title": "1975 Volkswagen bug",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
   "2118789008953049": {
     "price": 1800.0,
     "title": "(Listing 21187890...)",
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "1269276168026888": {
+    "price": 4900.0,
+    "title": "1972 Volkswagen Beetle Bug Truck",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "938021775635395": {
+    "price": 11500.0,
+    "title": "1967 VW Beetle",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug"
     ]
@@ -79,7 +99,7 @@
     "price": 7900.0,
     "title": "1969 Volkswagen squareback",
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug",
       "vw bus",
@@ -87,22 +107,39 @@
       "vw karmann ghia"
     ]
   },
-  "1742134990096187": {
-    "price": 8500.0,
-    "title": "68 vw.  Conv ghia",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
+  "1899125000723026": {
+    "price": 6000.0,
+    "title": "Classic Volkswagen Beetle 1973",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "1875654089995279": {
+    "price": 7000.0,
+    "title": "Volkswagen Karmenn Ghia",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug",
-      "vw thing",
       "vw karmann ghia"
     ]
   },
-  "907831651868148": {
-    "price": 1000.0,
-    "title": "1963 Volkswagen #PinkBeetle Convert",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
+  "1366242972207667": {
+    "price": 1500.0,
+    "title": "1974 Volkswagen beetle 1.8T S Hatch",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "1366466625525959": {
+    "price": 7000.0,
+    "title": "1971 Volkswagen beetle",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
     "search_terms": [
       "vw bug"
     ]
@@ -110,6 +147,3019 @@
   "1445223197304355": {
     "price": 1800.0,
     "title": "(Listing 14452231...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "907831651868148": {
+    "price": 1000.0,
+    "title": "1963 Volkswagen #PinkBeetle Convert",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "1466987011678778": {
+    "price": 1.0,
+    "title": "1958 Volkswagen beetle 1.8T Classic",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bug"
+    ]
+  },
+  "1899865257323377": {
+    "price": 30.0,
+    "title": "VW bus bong",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "2341741676346637": {
+    "price": 5000.0,
+    "title": "1975 Volkswagen baywindow bus",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1416509866353790": {
+    "price": 12000.0,
+    "title": "1979 Volkswagen bus",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "935001459011547": {
+    "price": 400.0,
+    "title": "(Listing 93500145...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus",
+      "vw thing"
+    ]
+  },
+  "1410160520722442": {
+    "price": 12000.0,
+    "title": "(Listing 14101605...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "2013063209240497": {
+    "price": 13000.0,
+    "title": "1958 Volkswagen type 2 panel bus Pa",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1212009477589925": {
+    "price": 4000.0,
+    "title": "1974 Volkswagen bus",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1677705056917745": {
+    "price": 15000.0,
+    "title": "1974 Volkswagen bus",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1999530803866294": {
+    "price": 15000.0,
+    "title": "(Listing 19995308...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1343534806749972": {
+    "price": 7500.0,
+    "title": "(Listing 13435348...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus",
+      "vw thing",
+      "vw karmann ghia"
+    ]
+  },
+  "2012150616405406": {
+    "price": 1000.0,
+    "title": "VW bus",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1631551278054463": {
+    "price": 10000.0,
+    "title": "(Listing 16315512...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus",
+      "volkswagen rabbit",
+      "vw thing",
+      "vw karmann ghia"
+    ]
+  },
+  "24484259254582614": {
+    "price": 13500.0,
+    "title": "1969 Volkswagen eurovan",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "2192078331274521": {
+    "price": 15000.0,
+    "title": "(Listing 21920783...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus"
+    ]
+  },
+  "1331801755366446": {
+    "price": 14000.0,
+    "title": "1971 Volkswagen type 3 squareback",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus",
+      "vw thing"
+    ]
+  },
+  "1641614076846999": {
+    "price": 10000.0,
+    "title": "1974 Volkswagen thing",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw bus",
+      "volkswagen rabbit",
+      "vw thing",
+      "vw karmann ghia"
+    ]
+  },
+  "1249357033493194": {
+    "price": 14000.0,
+    "title": "1971 Toyota land cruiser",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "1478119597227021": {
+    "price": 14500.0,
+    "title": "(Listing 14781195...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "2046223879281433": {
+    "price": 7500.0,
+    "title": "1999 Toyota land cruiser Sport Util",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "794950776254855": {
+    "price": 1.0,
+    "title": "Toyota land cruiser",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "1347128247220064": {
+    "price": 12950.0,
+    "title": "(Listing 13471282...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "1121929073318150": {
+    "price": 7200.0,
+    "title": "(Listing 11219290...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "1543096133432515": {
+    "price": 1.0,
+    "title": "1967 Toyota land cruiser",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "914584927821711": {
+    "price": 13000.0,
+    "title": "(Listing 91458492...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "900194292920910": {
+    "price": 12900.0,
+    "title": "(Listing 90019429...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "1327652479193067": {
+    "price": 1000.0,
+    "title": "1978 Toyota land cruiser FJ40",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "4307492026188984": {
+    "price": 10000.0,
+    "title": "1992 Toyota land cruiser Sport Util",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "2412259882633426": {
+    "price": 11500.0,
+    "title": "(Listing 24122598...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota land cruiser"
+    ]
+  },
+  "1671167863915324": {
+    "price": 13950.0,
+    "title": "2023 Ford bronco sport Big Bend Spo",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1323990372892386": {
+    "price": 7500.0,
+    "title": "1990 Ford Bronco",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1344238600300728": {
+    "price": 3500.0,
+    "title": "(Listing 13442386...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "941956968343436": {
+    "price": 14990.0,
+    "title": "2021 Ford bronco sport Big Bend Spo",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1243151831337803": {
+    "price": 9800.0,
+    "title": "1988 Ford bronco sport XLT",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1500917231666966": {
+    "price": 2500.0,
+    "title": "1987 Ford bronco",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1573186460404927": {
+    "price": 9500.0,
+    "title": "(Listing 15731864...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "3289445111216413": {
+    "price": 9000.0,
+    "title": "(Listing 32894451...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1480025026823019": {
+    "price": 5000.0,
+    "title": "1989 Ford Bronco (full size)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1583475879640176": {
+    "price": 5000.0,
+    "title": "1985 Ford bronco Badlands Sport Uti",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "2155280708625045": {
+    "price": 5000.0,
+    "title": "1989 Ford bronco Eddie Bauer",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "803034729009832": {
+    "price": 2500.0,
+    "title": "1985 Ford bronco Sport Utility 4D",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "2306933073110619": {
+    "price": 3800.0,
+    "title": "1985 Ford bronco Badlands Sport Uti",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1012663201015742": {
+    "price": 7000.0,
+    "title": "(Listing 10126632...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1408384890773413": {
+    "price": 14995.0,
+    "title": "(Listing 14083848...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1454048099417038": {
+    "price": 5800.0,
+    "title": "(Listing 14540480...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1159750445973471": {
+    "price": 9500.0,
+    "title": "(Listing 11597504...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford bronco"
+    ]
+  },
+  "1481181683511255": {
+    "price": 8500.0,
+    "title": "1987 Jeep grand wagoneer Obsidian S",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "3463602697129459": {
+    "price": 2500.0,
+    "title": "(Listing 34636026...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1862061081036752": {
+    "price": 3200.0,
+    "title": "(Listing 18620610...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "894686206476203": {
+    "price": 3600.0,
+    "title": "(Listing 89468620...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "4152089681784938": {
+    "price": 9000.0,
+    "title": "(Listing 41520896...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1656851015498640": {
+    "price": 4500.0,
+    "title": "(Listing 16568510...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1246020444374463": {
+    "price": 11000.0,
+    "title": "1960 Willys overland wagon Jeep",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1952695178615276": {
+    "price": 5500.0,
+    "title": "(Listing 19526951...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "3323659511116235": {
+    "price": 4500.0,
+    "title": "(Listing 33236595...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer",
+      "dodge power wagon"
+    ]
+  },
+  "2734188060275059": {
+    "price": 5700.0,
+    "title": "(Listing 27341880...)",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "938009091947887": {
+    "price": 20.0,
+    "title": "(Listing 93800909...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1499439097975938": {
+    "price": 2400.0,
+    "title": "(Listing 14994390...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "681793428317521": {
+    "price": 3500.0,
+    "title": "2022 Jeep wagoneer Series II Sport",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "882809454607793": {
+    "price": 1095.0,
+    "title": "(Listing 88280945...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1180999660654614": {
+    "price": 3500.0,
+    "title": "2022 Jeep grand wagoneer",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1799937754016440": {
+    "price": 14000.0,
+    "title": "(Listing 17999377...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "818290380678458": {
+    "price": 950.0,
+    "title": "(Listing 81829038...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "4461122967465648": {
+    "price": 123.0,
+    "title": "Wagoneer Parts",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep wagoneer"
+    ]
+  },
+  "1464556735128044": {
+    "price": 1.0,
+    "title": "1986 Toyota pickup part out",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1549167899629182": {
+    "price": 1200.0,
+    "title": "1983 Toyota tacoma regular cab Pick",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1384163426581803": {
+    "price": 3500.0,
+    "title": "1996 Toyota tacoma regular cab Pick",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1522876196109004": {
+    "price": 4000.0,
+    "title": "1991 Toyota tacoma Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "4462028084081651": {
+    "price": 8000.0,
+    "title": "1999 Toyota tacoma SR5 Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1250090067309679": {
+    "price": 4000.0,
+    "title": "1998 Toyota tacoma SR5 Pickup",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "2096819364491727": {
+    "price": 4500.0,
+    "title": "1998 Toyota tacoma SR5 Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "685354167497822": {
+    "price": 5900.0,
+    "title": "(Listing 68535416...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "862683820148280": {
+    "price": 7000.0,
+    "title": "(Listing 86268382...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1252311306427627": {
+    "price": 10000.0,
+    "title": "2006 Toyota tacoma TRD Sport Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "944833451232833": {
+    "price": 7800.0,
+    "title": "(Listing 94483345...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "829779566816403": {
+    "price": 1234.0,
+    "title": "1988 Toyota single cab Sr5",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1575366736879151": {
+    "price": 5000.0,
+    "title": "1998 Toyota tacoma SR5 Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "2251997601974988": {
+    "price": 2.0,
+    "title": "1985 Toyota pick up",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "911204028256531": {
+    "price": 9500.0,
+    "title": "(Listing 91120402...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "1712700456386252": {
+    "price": 8500.0,
+    "title": "1986 Toyota tacoma Limited Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota pickup"
+    ]
+  },
+  "917566617703589": {
+    "price": 2000.0,
+    "title": "1972 Jeep cj5",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "2348339172299099": {
+    "price": 5500.0,
+    "title": "(Listing 23483391...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1603318887570197": {
+    "price": 4000.0,
+    "title": "1980 Jeep cj7",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1635477267496311": {
+    "price": 2500.0,
+    "title": "(Listing 16354772...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "2421141588314114": {
+    "price": 3500.0,
+    "title": "(Listing 24211415...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "932025572950532": {
+    "price": 13000.0,
+    "title": "(Listing 93202557...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1719017692870956": {
+    "price": 4500.0,
+    "title": "(Listing 17190176...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1286879113385147": {
+    "price": 3500.0,
+    "title": "(Listing 12868791...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "941719928743285": {
+    "price": 5000.0,
+    "title": "1976 Jeep cj5",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "2115754569279402": {
+    "price": 3000.0,
+    "title": "Jeep CJ Off-Road Build",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1166654628974466": {
+    "price": 5500.0,
+    "title": "1955 Jeep cj-5 Willys Sport SUV 2D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "4494044980865020": {
+    "price": 3200.0,
+    "title": "(Listing 44940449...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1506552970433780": {
+    "price": 400.0,
+    "title": "(Listing 15065529...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1490457496038258": {
+    "price": 5500.0,
+    "title": "(Listing 14904574...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1214440390459714": {
+    "price": 6500.0,
+    "title": "1977 Jeep CJ-5",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "2554329558301926": {
+    "price": 6000.0,
+    "title": "(Listing 25543295...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "753993363790147": {
+    "price": 5000.0,
+    "title": "(Listing 75399336...)",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cj"
+    ]
+  },
+  "1433587124721138": {
+    "price": 4000.0,
+    "title": "1996 Jeep cherokee Classic Sport Ut",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "1769361130655619": {
+    "price": 3500.0,
+    "title": "(Listing 17693611...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "2418521208620769": {
+    "price": 3500.0,
+    "title": "(Listing 24185212...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "4421772848075572": {
+    "price": 4800.0,
+    "title": "1997 Jeep cherokee Sport SUV 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "1518742926310364": {
+    "price": 8000.0,
+    "title": "1999 Jeep cherokee Limited Sport Ut",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "1477954383697863": {
+    "price": 5900.0,
+    "title": "1999 Jeep cherokee Sport 4D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "971708162196487": {
+    "price": 4500.0,
+    "title": "1995 Jeep Cherokee XJ 4x4",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "948791684293975": {
+    "price": 3200.0,
+    "title": "1996 Jeep cherokee SE Sport Utility",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "2815160125504605": {
+    "price": 3300.0,
+    "title": "1994 Jeep cherokee",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "2692068567846007": {
+    "price": 4500.0,
+    "title": "1996 Jeep cherokee 75th Anniversary",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "1442726027205189": {
+    "price": 6000.0,
+    "title": "(Listing 14427260...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "4192049597722175": {
+    "price": 4000.0,
+    "title": "(Listing 41920495...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "1533040965489039": {
+    "price": 3000.0,
+    "title": "Jeep Cherokee",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "2388056108364746": {
+    "price": 2800.0,
+    "title": "1996 Jeep cherokee Sport 2D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "1437223321416201": {
+    "price": 5250.0,
+    "title": "(Listing 14372233...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "778277471749037": {
+    "price": 5800.0,
+    "title": "(Listing 77827747...)",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "945936084464997": {
+    "price": 8800.0,
+    "title": "2001 Jeep cherokee Sport 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jeep cherokee xj"
+    ]
+  },
+  "2161343911358866": {
+    "price": 10400.0,
+    "title": "1976 Land Rover defender Sport Util",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "719709493798570": {
+    "price": 10400.0,
+    "title": "1976 Land Rover defender 88",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1510440343968624": {
+    "price": 5800.0,
+    "title": "2010 Land Rover lr4 HSE Silver Edit",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "2751718025226287": {
+    "price": 60.0,
+    "title": "2020-2026 Land Rover/ Ranger rover",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1896159330931568": {
+    "price": 9500.0,
+    "title": "(Listing 18961593...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1429972698658330": {
+    "price": 7500.0,
+    "title": "2001 Land Rover discovery series ii",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "2579812555715634": {
+    "price": 2400.0,
+    "title": "2024 Land Rover Defender (5) Wheels",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1822523938456903": {
+    "price": 995.0,
+    "title": "Defender Roof Rack",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "940979514926198": {
+    "price": 15000.0,
+    "title": "1995 Land Rover range rover County",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "4009821882495831": {
+    "price": 1790.0,
+    "title": "(Listing 40098218...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1375206837540224": {
+    "price": 800.0,
+    "title": "Michelin Tires Land Rover Defender",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1907375110202666": {
+    "price": 14800.0,
+    "title": "2021 Land Rover defender 110 x-dyna",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "951671204179516": {
+    "price": 1200.0,
+    "title": "1946-47 Higgins Land Rover Pop Up C",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1653214299004240": {
+    "price": 1350.0,
+    "title": "(Listing 16532142...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "2237163776810462": {
+    "price": 13995.0,
+    "title": "(Listing 22371637...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "3804290153204221": {
+    "price": 100.0,
+    "title": "Defender tire cover",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "land rover defender"
+    ]
+  },
+  "1615657829359367": {
+    "price": 8000.0,
+    "title": "(Listing 16156578...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1598127871394774": {
+    "price": 4500.0,
+    "title": "(Listing 15981278...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "4235788696663122": {
+    "price": 10500.0,
+    "title": "1986 Chevrolet silverado",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1715844136244165": {
+    "price": 5400.0,
+    "title": "(Listing 17158441...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1284726003802153": {
+    "price": 3500.0,
+    "title": "(Listing 12847260...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "956475923476788": {
+    "price": 7000.0,
+    "title": "Chevy 1983",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10",
+      "chevy c10"
+    ]
+  },
+  "26222118714090270": {
+    "price": 10000.0,
+    "title": "(Listing 26222118...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1815089772520406": {
+    "price": 1000.0,
+    "title": "Short bed 1980 Chevy k10",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1411581547017778": {
+    "price": 12000.0,
+    "title": "1980 Chevrolet k10 Scottsdale",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "2232559347239788": {
+    "price": 15000.0,
+    "title": "(Listing 22325593...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1229665295902992": {
+    "price": 4500.0,
+    "title": "(Listing 12296652...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10",
+      "chevy c10"
+    ]
+  },
+  "2102153287210800": {
+    "price": 6500.0,
+    "title": "(Listing 21021532...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "2648257578868678": {
+    "price": 7500.0,
+    "title": "1986 Chevrolet silverado (classic)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "1272217551467781": {
+    "price": 6500.0,
+    "title": "1986 Chevrolet 1500 regular cab Lon",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "2947945688735535": {
+    "price": 9500.0,
+    "title": "1978 Chevy square body",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "790598427421327": {
+    "price": 4000.0,
+    "title": "1977 Chevrolet classic",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10",
+      "chevy c10"
+    ]
+  },
+  "1543355243422234": {
+    "price": 6800.0,
+    "title": "(Listing 15433552...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "2334457966978413": {
+    "price": 6500.0,
+    "title": "(Listing 23344579...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy k10"
+    ]
+  },
+  "738015992506383": {
+    "price": 4900.0,
+    "title": "(Listing 73801599...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1616825986361542": {
+    "price": 5800.0,
+    "title": "1971 Ford f100 longbed",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "26616995631227256": {
+    "price": 2500.0,
+    "title": "1969 Ford f100",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "828331070297606": {
+    "price": 7800.0,
+    "title": "1969 Ford F100",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1143830661275327": {
+    "price": 8500.0,
+    "title": "(Listing 11438306...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "3384571991705617": {
+    "price": 13500.0,
+    "title": "1955 Ford f1",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "682932634700223": {
+    "price": 3000.0,
+    "title": "(Listing 68293263...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "856083880160479": {
+    "price": 1000.0,
+    "title": "(Listing 85608388...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1614001033104203": {
+    "price": 4900.0,
+    "title": "1970 Ford f100 shortbed",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1876516626386669": {
+    "price": 8500.0,
+    "title": "1953 Ford f-100",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "2943604662476830": {
+    "price": 3100.0,
+    "title": "1973 Ford f-100 Supervan",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1954778252121497": {
+    "price": 10000.0,
+    "title": "72 Ford F-100 sport custom",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "2035651740693277": {
+    "price": 6800.0,
+    "title": "1993 Ford f-250",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "962492152930686": {
+    "price": 3500.0,
+    "title": "1966 Ford f1",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1730255824284641": {
+    "price": 5500.0,
+    "title": "(Listing 17302558...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1186256536816193": {
+    "price": 5500.0,
+    "title": "1972 F250 Camper Special - Manual",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "26073543608968641": {
+    "price": 4500.0,
+    "title": "1949 Ford f1",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "2326991434436897": {
+    "price": 10000.0,
+    "title": "(Listing 23269914...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "1817547218906707": {
+    "price": 3500.0,
+    "title": "1965 Ford f1",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "ford f100"
+    ]
+  },
+  "4133254720151310": {
+    "price": 7000.0,
+    "title": "1966 Dodge Power Wagon 4x4 Truck",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "936887638996782": {
+    "price": 15000.0,
+    "title": "1962 Dodge power wagon / town wagon",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "926587736378717": {
+    "price": 2500.0,
+    "title": "1979 Dodge power wagon 150",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "893833073139596": {
+    "price": 2500.0,
+    "title": "1942 Dodge power wagon AZ Title",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "1638203403891152": {
+    "price": 2999.0,
+    "title": "1976 Dodge 4x4 power wagon Short Be",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "979836508049347": {
+    "price": 5500.0,
+    "title": "1979 Dodge w200 Power Wagon",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "673680769123014": {
+    "price": 12200.0,
+    "title": "1951 Dodge ram wagon b350",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "2057076625245666": {
+    "price": 8000.0,
+    "title": "(Listing 20570766...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "1408843777650960": {
+    "price": 6500.0,
+    "title": "1979 Dodge w200 m880",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "1221696963200709": {
+    "price": 12900.0,
+    "title": "1977 Dodge power wagon",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "963474873296178": {
+    "price": 11000.0,
+    "title": "(Listing 96347487...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "1450283506833817": {
+    "price": 3100.0,
+    "title": "2 1942 dodge wc open cab power wago",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "1224177722627380": {
+    "price": 6000.0,
+    "title": "(Listing 12241777...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "1338585837949735": {
+    "price": 4000.0,
+    "title": "(Listing 13385858...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "2675977066134823": {
+    "price": 12000.0,
+    "title": "(Listing 26759770...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "2277264259465114": {
+    "price": 9000.0,
+    "title": "1988 Dodge d150",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "dodge power wagon"
+    ]
+  },
+  "2310877559423454": {
+    "price": 4000.0,
+    "title": "1974 Chevy half ton pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "818977397834877": {
+    "price": 4600.0,
+    "title": "1986 Chevrolet c10",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "1568728981009888": {
+    "price": 100.0,
+    "title": "Chevy C10",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "4377615689143309": {
+    "price": 2400.0,
+    "title": "(Listing 43776156...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "1604283900776398": {
+    "price": 10000.0,
+    "title": "1975 Chevrolet C10",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "1379192906753125": {
+    "price": 6000.0,
+    "title": "(Listing 13791929...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "875123945578435": {
+    "price": 12900.0,
+    "title": "1965 Chevrolet chevy c10 v8 swap",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "25362585406715789": {
+    "price": 5000.0,
+    "title": "Chevrolet Cheyenne 1972",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "960861426315445": {
+    "price": 4000.0,
+    "title": "69 C-10",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "907791808783300": {
+    "price": 2500.0,
+    "title": "1964 Chevrolet chevy van g10",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "897190902916282": {
+    "price": 4500.0,
+    "title": "(Listing 89719090...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "951991170709611": {
+    "price": 7500.0,
+    "title": "1971 Chevrolet c-10",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "806008679100500": {
+    "price": 13500.0,
+    "title": "1978 Chevrolet C10",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "4346009745719230": {
+    "price": 5000.0,
+    "title": "1963 Chevrolet chevy van g10",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "2146068085931337": {
+    "price": 2850.0,
+    "title": "1961 Chevrolet apache 10",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "824121680711181": {
+    "price": 3000.0,
+    "title": "(Listing 82412168...)",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "chevy c10"
+    ]
+  },
+  "1984779349581120": {
+    "price": 5000.0,
+    "title": "Jet boat project",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "2474424759638456": {
+    "price": 2700.0,
+    "title": "1994 Bayliner jazz jet boat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1334361861803493": {
+    "price": 2855.0,
+    "title": "jet boat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "886179807072947": {
+    "price": 2600.0,
+    "title": "Jet Boat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "25706372869041808": {
+    "price": 650.0,
+    "title": "1970 Biesmeyer jet boat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "26188054370803448": {
+    "price": 200.0,
+    "title": "Jet Car boat",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "785363530793403": {
+    "price": 7250.0,
+    "title": "2004 Seadoo Sportster Jetboat w/ Tr",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1442816760717794": {
+    "price": 9500.0,
+    "title": "(Listing 14428167...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1661991454797594": {
+    "price": 1000.0,
+    "title": "Sanger daycruiser jet boat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "2156732505139003": {
+    "price": 9500.0,
+    "title": "Tahiti jet boat",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1408776034186771": {
+    "price": 699.0,
+    "title": "(Listing 14087760...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "879866724623334": {
+    "price": 4000.0,
+    "title": "Nordic jet boat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "2707283772961898": {
+    "price": 12000.0,
+    "title": "(Listing 27072837...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1710741929621253": {
+    "price": 3500.0,
+    "title": "1985 Dana speed boat with trailer",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1221583796124078": {
+    "price": 3500.0,
+    "title": "1985 Dana speedboat Dana speedboat",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "1689376088867557": {
+    "price": 5000.0,
+    "title": "(Listing 16893760...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "jet boat"
+    ]
+  },
+  "757918196816634": {
+    "price": 5500.0,
+    "title": "Sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "3082433165273786": {
+    "price": 1700.0,
+    "title": "(Listing 30824331...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "883227500720817": {
+    "price": 1200.0,
+    "title": "1965 Sand rail sand rail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1573225233792900": {
+    "price": 5000.0,
+    "title": "Sand rail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "2182670265878451": {
+    "price": 2500.0,
+    "title": "1998 Volkswagen bug sandrail volksw",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "4199616513702273": {
+    "price": 2500.0,
+    "title": "Sandrail- volkswagon",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1009274334756299": {
+    "price": 5500.0,
+    "title": "2002 Short sand cars sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1001324335655147": {
+    "price": 4500.0,
+    "title": "1989 Volkswagen sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1302039478452188": {
+    "price": 1000.0,
+    "title": "Sandrail 2",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1527104799011619": {
+    "price": 1000.0,
+    "title": "Sandrail 1",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "824838179976873": {
+    "price": 3500.0,
+    "title": "(Listing 82483817...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "951483080762335": {
+    "price": 3250.0,
+    "title": "Vw 1600cc buggy sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1502412024832484": {
+    "price": 500.0,
+    "title": "VW sandrail",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "909854381470782": {
+    "price": 3000.0,
+    "title": "(Listing 90985438...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1938683470417618": {
+    "price": 4500.0,
+    "title": "(Listing 19386834...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1214075570831245": {
+    "price": 10000.0,
+    "title": "(Listing 12140755...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1555851458855393": {
+    "price": 530.0,
+    "title": "Sandrail frame",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1712950416658714": {
+    "price": 7000.0,
+    "title": "1995 Volkswagen sand rail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1161483612832844": {
+    "price": 5000.0,
+    "title": "2000 Buggy / Sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "sandrail"
+    ]
+  },
+  "1631163294799101": {
+    "price": 1.0,
+    "title": "1972 Nissan datsun 510",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "2493669014436600": {
+    "price": 2500.0,
+    "title": "1970 Nissan datsun 510",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "979611464587494": {
+    "price": 250.0,
+    "title": "Datsun 510 Flares",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1388248869757112": {
+    "price": 1500.0,
+    "title": "(Listing 13882488...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1169789598695618": {
+    "price": 2500.0,
+    "title": "1978 Nissan datsun 680 king cab",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "940243752015058": {
+    "price": 1000.0,
+    "title": "1970 Datsun roadster 1600",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1202203455319988": {
+    "price": 80.0,
+    "title": "Hot Wheels 1971 Datsun 510 sth",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1268319085230591": {
+    "price": 15000.0,
+    "title": "1969 Datsun 1600",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1438231097494020": {
+    "price": 5.0,
+    "title": "Matchbox '70 Datsun 510 Rally Car",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1961695211405491": {
+    "price": 10.0,
+    "title": "Matchbox '70 Datsun 510 Rally",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1588593828837829": {
+    "price": 2200.0,
+    "title": "1971 Datsun truck 521",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "4188894234706177": {
+    "price": 40.0,
+    "title": "(Listing 41888942...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "618610651210401": {
+    "price": 15000.0,
+    "title": "(Listing 61861065...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1606096977204361": {
+    "price": 350.0,
+    "title": "(Listing 16060969...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "datsun 510"
+    ]
+  },
+  "1509003513662469": {
+    "price": 2700.0,
+    "title": "(Listing 15090035...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "2154118082025030": {
+    "price": 3200.0,
+    "title": "1980 4d VW Rabbit",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1457329072548622": {
+    "price": 12345.0,
+    "title": "1981 Volkswagen rabbit",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "2376695666174267": {
+    "price": 2700.0,
+    "title": "1981 VW Rabbit pickup",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1278683007404021": {
+    "price": 8400.0,
+    "title": "1981 Volkswagen rabbit",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "3770558789748118": {
+    "price": 2600.0,
+    "title": "2008 Volkswagen rabbit Hatchback 2D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "920052390410445": {
+    "price": 1200.0,
+    "title": "2009 Volkswagen rabbit",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1243119891336135": {
+    "price": 4750.0,
+    "title": "(Listing 12431198...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1132853129010058": {
+    "price": 5600.0,
+    "title": "(Listing 11328531...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "34652319567699888": {
+    "price": 3500.0,
+    "title": "2008 VW Rabbit",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "961943229676653": {
+    "price": 250.0,
+    "title": "VW MK1 Rabbit roofrack",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1305659138278617": {
+    "price": 3000.0,
+    "title": "(Listing 13056591...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1486533663039735": {
+    "price": 1400.0,
+    "title": "2007 Volkswagen rabbit Hatchback 2D",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1236055815137956": {
+    "price": 2000.0,
+    "title": "1971 Porsche 914 porsche and vw",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "868910979101919": {
+    "price": 1750.0,
+    "title": "1987 Volkswagen golf Hatchback 4D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "2122778158560190": {
+    "price": 3600.0,
+    "title": "(Listing 21227781...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "volkswagen rabbit"
+    ]
+  },
+  "1618270359197059": {
+    "price": 3300.0,
+    "title": "2005 Toyota Corolla",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1595479378153955": {
+    "price": 4200.0,
+    "title": "2009 Toyota corolla LE Sedan 4D",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "26074210912205029": {
+    "price": 2500.0,
+    "title": "2004 Toyota camry CE Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "929591676444858": {
+    "price": 4000.0,
+    "title": "2025 Toyota corolla LE Sedan 4D",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1704019204342596": {
+    "price": 4900.0,
+    "title": "2005 Toyota corolla LE Sedan 4D",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1423705729017398": {
+    "price": 6000.0,
+    "title": "2007 Toyota corolla LE",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "971202515278193": {
+    "price": 3000.0,
+    "title": "(Listing 97120251...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "2120482502019294": {
+    "price": 6200.0,
+    "title": "2016 Toyota corolla LE",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1854118571866280": {
+    "price": 5500.0,
+    "title": "(Listing 18541185...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "2657471541302168": {
+    "price": 1000.0,
+    "title": "1974 Toyota corolla",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "919376997681459": {
+    "price": 5200.0,
+    "title": "2008 Toyota corolla S Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1699610034342297": {
+    "price": 12900.0,
+    "title": "2024 Toyota corolla hatchback SE Ha",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "894112729743440": {
+    "price": 12000.0,
+    "title": "2022 Toyota corolla",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1210970434580139": {
+    "price": 7000.0,
+    "title": "2021 Toyota corolla l down payment",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "792445013890921": {
+    "price": 4600.0,
+    "title": "2007 Toyota corolla",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1639788090309257": {
+    "price": 5995.0,
+    "title": "2004 Toyota corolla Sedan 4D",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "toyota corolla"
+    ]
+  },
+  "1190413519923596": {
+    "price": 4500.0,
+    "title": "(Listing 11904135...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1462227691967260": {
+    "price": 4500.0,
+    "title": "1985 Honda civic Wagovan 4wd",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "2166082567498532": {
+    "price": 4800.0,
+    "title": "(Listing 21660825...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1523474949316052": {
+    "price": 5500.0,
+    "title": "1988 Honda accord LX Coupe 2D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "923299113831021": {
+    "price": 800.0,
+    "title": "1989 Honda civic Si Hatchback 2D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1514870009608586": {
+    "price": 2800.0,
+    "title": "1986 Honda accord LX Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1990841805158427": {
+    "price": 2999.0,
+    "title": "2008 Honda civic EX Sedan 4D",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1658901515111001": {
+    "price": 3800.0,
+    "title": "2006 Honda civic EX Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1316280723605059": {
+    "price": 2500.0,
+    "title": "2002 Honda civic EX Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "965287212506769": {
+    "price": 12500.0,
+    "title": "1991 Honda civic DX Hatchback 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1405579967520326": {
+    "price": 1800.0,
+    "title": "1990 Honda civic LX Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1400680728529167": {
+    "price": 5900.0,
+    "title": "(Listing 14006807...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1205040001418199": {
+    "price": 4500.0,
+    "title": "1994 Honda civic CX Hatchback 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1400333165162605": {
+    "price": 3500.0,
+    "title": "1994 Honda civic CX Hatchback 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1659638745203191": {
+    "price": 2500.0,
+    "title": "Honda Civic 2000",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "1875882306448012": {
+    "price": 10000.0,
+    "title": "1992 Honda civic Si Hatchback 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "honda civic classic"
+    ]
+  },
+  "2104437933699816": {
+    "price": 200.0,
+    "title": "VW Thing Doors",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "1273766024594387": {
+    "price": 50.0,
+    "title": "VW Thing rims",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "1573337303913515": {
+    "price": 15000.0,
+    "title": "1974 VW Thing",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "1211720277161718": {
+    "price": 500.0,
+    "title": "VW Thing, Thing shop Exhaust system",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "2081248565986761": {
+    "price": 7500.0,
+    "title": "1969 Volkswagen karmann ghia",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing",
+      "vw karmann ghia"
+    ]
+  },
+  "877867538624098": {
+    "price": 100.0,
+    "title": "Vw thing front brakes",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "1496804285124533": {
+    "price": 11000.0,
+    "title": "(Listing 14968042...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing",
+      "vw karmann ghia"
+    ]
+  },
+  "1308508937786713": {
+    "price": 12000.0,
+    "title": "(Listing 13085089...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "1946271496284823": {
+    "price": 2500.0,
+    "title": "(Listing 19462714...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "900637349106775": {
+    "price": 5000.0,
+    "title": "2 Volkswagens",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw thing"
+    ]
+  },
+  "792839076443916": {
+    "price": 3900.0,
+    "title": "(Listing 79283907...)",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "1277051607069877": {
+    "price": 1.0,
+    "title": "1970 Vw Ghia Parts",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "920310227104427": {
+    "price": 1000.0,
+    "title": "Low light karmann ghia seat springs",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "1686122415718220": {
+    "price": 75.0,
+    "title": "(Listing 16861224...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "1701617487870487": {
+    "price": 70.0,
+    "title": "1970 Ghia",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "2166880754149936": {
+    "price": 50.0,
+    "title": "1967 Volkswagen Karmann Ghia Right",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "1922342478469372": {
+    "price": 25.0,
+    "title": "Back Rear Window Glass Karmann Ghia",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "1437991678113250": {
+    "price": 40.0,
+    "title": "VW Karmann Ghia Euro Tailights Repr",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "vw karmann ghia"
+    ]
+  },
+  "1620955989345392": {
+    "price": 7000.0,
+    "title": "Chevrolet camero",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "1397380658265755": {
+    "price": 800.0,
+    "title": "(Listing 13973806...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "957141453919226": {
+    "price": 10000.0,
+    "title": "1970 Camaro",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "2987550561447042": {
+    "price": 100.0,
+    "title": "1969 Camaro tail lights",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "840167601965668": {
+    "price": 600.0,
+    "title": "69 Camaro Z28 Ralley Wheels Origina",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "1456968785979338": {
+    "price": 0,
+    "title": "****NEED**** 69 Camaro drivers door",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "891337810410314": {
+    "price": 9000.0,
+    "title": "1973 Chevrolet camaro Coupe 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "941896034978404": {
+    "price": 100.0,
+    "title": "1969 Chevy Camaro Parts",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "1941331993413469": {
+    "price": 6500.0,
+    "title": "(Listing 19413319...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "914390728092872": {
+    "price": 3000.0,
+    "title": "Super clean 92 camaro",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "2105808623515795": {
+    "price": 75.0,
+    "title": "(Listing 21058086...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "1442845137579337": {
+    "price": 2000.0,
+    "title": "1988 Chevrolet camaro",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "929691352946541": {
+    "price": 100.0,
+    "title": "69 Camaro rear sit cover",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "2316944412118947": {
+    "price": 750.0,
+    "title": "(Listing 23169444...)",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "1462366688930506": {
+    "price": 300.0,
+    "title": "1969 Camaro",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "1988886102007822": {
+    "price": 9499.0,
+    "title": "(Listing 19888861...)",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "898839009605751": {
+    "price": 12500.0,
+    "title": "1979 Chevrolet camaro Coupe 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-04",
+    "search_terms": [
+      "69 camaro"
+    ]
+  },
+  "4429282610636890": {
+    "price": 4500.0,
+    "title": "1966 Volkswagen fastback",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -123,35 +3173,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "vw bug"
-    ]
-  },
-  "1875654089995279": {
-    "price": 7000.0,
-    "title": "Volkswagen Karmenn Ghia",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug",
-      "vw karmann ghia"
-    ]
-  },
-  "938021775635395": {
-    "price": 11500.0,
-    "title": "1967 VW Beetle",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug"
-    ]
-  },
-  "1366242972207667": {
-    "price": 1500.0,
-    "title": "1974 Volkswagen beetle 1.8T S Hatch",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug",
-      "vw karmann ghia"
     ]
   },
   "1587832865662796": {
@@ -172,141 +3193,10 @@
       "vw bug"
     ]
   },
-  "2081248565986761": {
-    "price": 7500.0,
-    "title": "1969 Volkswagen karmann ghia",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug",
-      "vw thing",
-      "vw karmann ghia"
-    ]
-  },
-  "1899865257323377": {
-    "price": 30.0,
-    "title": "VW bus bong",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "1212009477589925": {
-    "price": 4000.0,
-    "title": "1974 Volkswagen bus",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "2341741676346637": {
-    "price": 5000.0,
-    "title": "1975 Volkswagen baywindow bus",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "1410160520722442": {
-    "price": 12000.0,
-    "title": "(Listing 14101605...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "935001459011547": {
-    "price": 400.0,
-    "title": "(Listing 93500145...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "2013063209240497": {
-    "price": 13000.0,
-    "title": "1958 Volkswagen type 2 panel bus Pa",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus",
-      "vw thing"
-    ]
-  },
-  "1416509866353790": {
-    "price": 12000.0,
-    "title": "1979 Volkswagen bus",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "1677705056917745": {
-    "price": 15000.0,
-    "title": "1974 Volkswagen bus",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "1343534806749972": {
-    "price": 7500.0,
-    "title": "(Listing 13435348...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus",
-      "vw thing",
-      "vw karmann ghia"
-    ]
-  },
-  "2012150616405406": {
-    "price": 1000.0,
-    "title": "VW bus",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
   "2023958681512561": {
     "price": 880.0,
     "title": "(Listing 20239586...)",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "2192078331274521": {
-    "price": 15000.0,
-    "title": "(Listing 21920783...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "24484259254582614": {
-    "price": 13500.0,
-    "title": "1969 Volkswagen eurovan",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "1999530803866294": {
-    "price": 15000.0,
-    "title": "(Listing 19995308...)",
-    "first_seen": "2026-04-01",
     "last_seen": "2026-04-03",
     "search_terms": [
       "vw bus"
@@ -321,17 +3211,6 @@
       "vw bus"
     ]
   },
-  "1331801755366446": {
-    "price": 14000.0,
-    "title": "1971 Volkswagen type 3 squareback",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus",
-      "vw thing",
-      "vw karmann ghia"
-    ]
-  },
   "828475646179892": {
     "price": 4500.0,
     "title": "1963 Volkswagen squareback",
@@ -341,129 +3220,10 @@
       "vw bus"
     ]
   },
-  "1641614076846999": {
-    "price": 10000.0,
-    "title": "1974 Volkswagen thing",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bus",
-      "vw thing",
-      "vw karmann ghia"
-    ]
-  },
-  "2046223879281433": {
-    "price": 7500.0,
-    "title": "1999 Toyota land cruiser Sport Util",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "1249357033493194": {
-    "price": 14000.0,
-    "title": "1971 Toyota land cruiser",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "1478119597227021": {
-    "price": 14500.0,
-    "title": "(Listing 14781195...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "794950776254855": {
-    "price": 1.0,
-    "title": "Toyota land cruiser",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "1347128247220064": {
-    "price": 12950.0,
-    "title": "(Listing 13471282...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "1543096133432515": {
-    "price": 1.0,
-    "title": "1967 Toyota land cruiser",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "914584927821711": {
-    "price": 13000.0,
-    "title": "(Listing 91458492...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "1121929073318150": {
-    "price": 7200.0,
-    "title": "(Listing 11219290...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "2412259882633426": {
-    "price": 11500.0,
-    "title": "(Listing 24122598...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "1327652479193067": {
-    "price": 1000.0,
-    "title": "1978 Toyota land cruiser FJ40",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "4307492026188984": {
-    "price": 10000.0,
-    "title": "1992 Toyota land cruiser Sport Util",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
   "1439009303982821": {
     "price": 10000.0,
     "title": "(Listing 14390093...)",
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota land cruiser"
-    ]
-  },
-  "900194292920910": {
-    "price": 12900.0,
-    "title": "(Listing 90019429...)",
-    "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
       "toyota land cruiser"
@@ -487,117 +3247,9 @@
       "toyota land cruiser"
     ]
   },
-  "1671167863915324": {
-    "price": 13950.0,
-    "title": "2023 Ford bronco sport Big Bend Spo",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1408384890773413": {
-    "price": 14995.0,
-    "title": "(Listing 14083848...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "941956968343436": {
-    "price": 14990.0,
-    "title": "2021 Ford bronco sport Big Bend Spo",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1243151831337803": {
-    "price": 9800.0,
-    "title": "1988 Ford bronco sport XLT",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1454048099417038": {
-    "price": 5800.0,
-    "title": "(Listing 14540480...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1344238600300728": {
-    "price": 3500.0,
-    "title": "(Listing 13442386...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1480025026823019": {
-    "price": 5000.0,
-    "title": "1989 Ford Bronco (full size)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1159750445973471": {
-    "price": 9500.0,
-    "title": "(Listing 11597504...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1573186460404927": {
-    "price": 9500.0,
-    "title": "(Listing 15731864...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
   "966530332804894": {
     "price": 15000.0,
     "title": "1996 Ford bronco xlt",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "3289445111216413": {
-    "price": 9000.0,
-    "title": "(Listing 32894451...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1500917231666966": {
-    "price": 2500.0,
-    "title": "1987 Ford bronco",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1323990372892386": {
-    "price": 7500.0,
-    "title": "1990 Ford Bronco",
     "first_seen": "2026-03-31",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -622,123 +3274,6 @@
       "ford bronco"
     ]
   },
-  "2306933073110619": {
-    "price": 3800.0,
-    "title": "1985 Ford bronco Badlands Sport Uti",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1012663201015742": {
-    "price": 7000.0,
-    "title": "(Listing 10126632...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "2155280708625045": {
-    "price": 5000.0,
-    "title": "1989 Ford bronco Eddie Bauer",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "3463602697129459": {
-    "price": 2500.0,
-    "title": "(Listing 34636026...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1481181683511255": {
-    "price": 8500.0,
-    "title": "1987 Jeep grand wagoneer Obsidian S",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1862061081036752": {
-    "price": 3200.0,
-    "title": "(Listing 18620610...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "4152089681784938": {
-    "price": 9000.0,
-    "title": "(Listing 41520896...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1656851015498640": {
-    "price": 4500.0,
-    "title": "(Listing 16568510...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "894686206476203": {
-    "price": 3600.0,
-    "title": "(Listing 89468620...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1180999660654614": {
-    "price": 3500.0,
-    "title": "2022 Jeep grand wagoneer",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1246020444374463": {
-    "price": 11000.0,
-    "title": "1960 Willys overland wagon Jeep",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1952695178615276": {
-    "price": 5500.0,
-    "title": "(Listing 19526951...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "681793428317521": {
-    "price": 3500.0,
-    "title": "2022 Jeep wagoneer Series II Sport",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
   "1296516808857160": {
     "price": 3500.0,
     "title": "(Listing 12965168...)",
@@ -748,62 +3283,6 @@
       "jeep wagoneer"
     ]
   },
-  "1499439097975938": {
-    "price": 2400.0,
-    "title": "(Listing 14994390...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "882809454607793": {
-    "price": 1095.0,
-    "title": "(Listing 88280945...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "2348339172299099": {
-    "price": 5500.0,
-    "title": "(Listing 23483391...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer",
-      "jeep cj"
-    ]
-  },
-  "818290380678458": {
-    "price": 950.0,
-    "title": "(Listing 81829038...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "1799937754016440": {
-    "price": 14000.0,
-    "title": "(Listing 17999377...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "3323659511116235": {
-    "price": 4500.0,
-    "title": "(Listing 33236595...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep wagoneer",
-      "dodge power wagon"
-    ]
-  },
   "2136501547085711": {
     "price": 1234.0,
     "title": "Partying out 1979 Wagoneer",
@@ -811,87 +3290,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "jeep wagoneer"
-    ]
-  },
-  "2096819364491727": {
-    "price": 4500.0,
-    "title": "1998 Toyota tacoma SR5 Pickup",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1549167899629182": {
-    "price": 1200.0,
-    "title": "1983 Toyota tacoma regular cab Pick",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "4462028084081651": {
-    "price": 8000.0,
-    "title": "1999 Toyota tacoma SR5 Pickup",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1384163426581803": {
-    "price": 3500.0,
-    "title": "1996 Toyota tacoma regular cab Pick",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1522876196109004": {
-    "price": 4000.0,
-    "title": "1991 Toyota tacoma Pickup",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "862683820148280": {
-    "price": 7000.0,
-    "title": "(Listing 86268382...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "944833451232833": {
-    "price": 7800.0,
-    "title": "(Listing 94483345...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1464556735128044": {
-    "price": 1.0,
-    "title": "1986 Toyota pickup part out",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1575366736879151": {
-    "price": 5000.0,
-    "title": "1998 Toyota tacoma SR5 Pickup",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
     ]
   },
   "2090642898361868": {
@@ -906,33 +3304,6 @@
   "816365318069098": {
     "price": 11500.0,
     "title": "(Listing 81636531...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "911204028256531": {
-    "price": 9500.0,
-    "title": "(Listing 91120402...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "829779566816403": {
-    "price": 1234.0,
-    "title": "1988 Toyota single cab Sr5",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1712700456386252": {
-    "price": 8500.0,
-    "title": "1986 Toyota tacoma Limited Pickup",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -966,55 +3337,10 @@
       "toyota pickup"
     ]
   },
-  "1603318887570197": {
-    "price": 4000.0,
-    "title": "1980 Jeep cj7",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
   "3396225177223813": {
     "price": 6000.0,
     "title": "(Listing 33962251...)",
     "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "1635477267496311": {
-    "price": 2500.0,
-    "title": "(Listing 16354772...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "932025572950532": {
-    "price": 13000.0,
-    "title": "(Listing 93202557...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "1719017692870956": {
-    "price": 4500.0,
-    "title": "(Listing 17190176...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "2421141588314114": {
-    "price": 3500.0,
-    "title": "(Listing 24211415...)",
-    "first_seen": "2026-03-31",
     "last_seen": "2026-04-03",
     "search_terms": [
       "jeep cj"
@@ -1029,72 +3355,9 @@
       "jeep cj"
     ]
   },
-  "1490457496038258": {
-    "price": 5500.0,
-    "title": "(Listing 14904574...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
   "1523885949101028": {
     "price": 5900.0,
     "title": "(Listing 15238859...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "941719928743285": {
-    "price": 5000.0,
-    "title": "1976 Jeep cj5",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "1214440390459714": {
-    "price": 6500.0,
-    "title": "1977 Jeep CJ-5",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "1286879113385147": {
-    "price": 3500.0,
-    "title": "(Listing 12868791...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "1506552970433780": {
-    "price": 400.0,
-    "title": "(Listing 15065529...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "4494044980865020": {
-    "price": 3200.0,
-    "title": "(Listing 44940449...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "1166654628974466": {
-    "price": 5500.0,
-    "title": "1955 Jeep cj-5 Willys Sport SUV 2D",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -1119,135 +3382,9 @@
       "jeep cj"
     ]
   },
-  "1433587124721138": {
-    "price": 4000.0,
-    "title": "1996 Jeep cherokee Classic Sport Ut",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "1477954383697863": {
-    "price": 5900.0,
-    "title": "1999 Jeep cherokee Sport 4D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "2418521208620769": {
-    "price": 3500.0,
-    "title": "(Listing 24185212...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "1769361130655619": {
-    "price": 3500.0,
-    "title": "(Listing 17693611...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "4421772848075572": {
-    "price": 4800.0,
-    "title": "1997 Jeep cherokee Sport SUV 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "971708162196487": {
-    "price": 4500.0,
-    "title": "1995 Jeep Cherokee XJ 4x4",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "1518742926310364": {
-    "price": 8000.0,
-    "title": "1999 Jeep cherokee Limited Sport Ut",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "948791684293975": {
-    "price": 3200.0,
-    "title": "1996 Jeep cherokee SE Sport Utility",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
   "2847628052248979": {
     "price": 3500.0,
     "title": "1997 Jeep cherokee Sport 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "945936084464997": {
-    "price": 8800.0,
-    "title": "2001 Jeep cherokee Sport 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "1442726027205189": {
-    "price": 6000.0,
-    "title": "(Listing 14427260...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "2815160125504605": {
-    "price": 3300.0,
-    "title": "1994 Jeep cherokee",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "1533040965489039": {
-    "price": 3000.0,
-    "title": "Jeep Cherokee",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "4192049597722175": {
-    "price": 4000.0,
-    "title": "(Listing 41920495...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
-  "2388056108364746": {
-    "price": 2800.0,
-    "title": "1996 Jeep cherokee Sport 2D",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -1263,15 +3400,6 @@
       "jeep cherokee xj"
     ]
   },
-  "1437223321416201": {
-    "price": 5250.0,
-    "title": "(Listing 14372233...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cherokee xj"
-    ]
-  },
   "1553066482449503": {
     "price": 2500.0,
     "title": "1986 Jeep cherokee Sport",
@@ -1281,127 +3409,10 @@
       "jeep cherokee xj"
     ]
   },
-  "2161343911358866": {
-    "price": 10400.0,
-    "title": "1976 Land Rover defender Sport Util",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "719709493798570": {
-    "price": 10400.0,
-    "title": "1976 Land Rover defender 88",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1510440343968624": {
-    "price": 5800.0,
-    "title": "2010 Land Rover lr4 HSE Silver Edit",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1429972698658330": {
-    "price": 7500.0,
-    "title": "2001 Land Rover discovery series ii",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "2579812555715634": {
-    "price": 2400.0,
-    "title": "2024 Land Rover Defender (5) Wheels",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1896159330931568": {
-    "price": 9500.0,
-    "title": "(Listing 18961593...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "4009821882495831": {
-    "price": 1790.0,
-    "title": "(Listing 40098218...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1822523938456903": {
-    "price": 995.0,
-    "title": "Defender Roof Rack",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1375206837540224": {
-    "price": 800.0,
-    "title": "Michelin Tires Land Rover Defender",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "951671204179516": {
-    "price": 1200.0,
-    "title": "1946-47 Higgins Land Rover Pop Up C",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "940979514926198": {
-    "price": 15000.0,
-    "title": "1995 Land Rover range rover County",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1907375110202666": {
-    "price": 14800.0,
-    "title": "2021 Land Rover defender 110 x-dyna",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
   "3246262802213804": {
     "price": 1500.0,
     "title": "2007 Land Rover lr3 SE Sport Utilit",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "2237163776810462": {
-    "price": 13995.0,
-    "title": "(Listing 22371637...)",
-    "first_seen": "2026-04-01",
     "last_seen": "2026-04-03",
     "search_terms": [
       "land rover defender"
@@ -1414,181 +3425,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "land rover defender"
-    ]
-  },
-  "1653214299004240": {
-    "price": 1350.0,
-    "title": "(Listing 16532142...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1615657829359367": {
-    "price": 8000.0,
-    "title": "(Listing 16156578...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "1284726003802153": {
-    "price": 3500.0,
-    "title": "(Listing 12847260...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "1715844136244165": {
-    "price": 5400.0,
-    "title": "(Listing 17158441...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "4235788696663122": {
-    "price": 10500.0,
-    "title": "1986 Chevrolet silverado",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "26222118714090270": {
-    "price": 10000.0,
-    "title": "(Listing 26222118...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "956475923476788": {
-    "price": 7000.0,
-    "title": "Chevy 1983",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10",
-      "chevy c10"
-    ]
-  },
-  "2648257578868678": {
-    "price": 7500.0,
-    "title": "1986 Chevrolet silverado (classic)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "2947945688735535": {
-    "price": 9500.0,
-    "title": "1978 Chevy square body",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "1411581547017778": {
-    "price": 12000.0,
-    "title": "1980 Chevrolet k10 Scottsdale",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "2102153287210800": {
-    "price": 6500.0,
-    "title": "(Listing 21021532...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "2232559347239788": {
-    "price": 15000.0,
-    "title": "(Listing 22325593...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "1598127871394774": {
-    "price": 4500.0,
-    "title": "(Listing 15981278...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "1272217551467781": {
-    "price": 6500.0,
-    "title": "1986 Chevrolet 1500 regular cab Lon",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "1229665295902992": {
-    "price": 4500.0,
-    "title": "(Listing 12296652...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10",
-      "chevy c10"
-    ]
-  },
-  "2334457966978413": {
-    "price": 6500.0,
-    "title": "(Listing 23344579...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
-    ]
-  },
-  "790598427421327": {
-    "price": 4000.0,
-    "title": "1977 Chevrolet classic",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10",
-      "chevy c10"
-    ]
-  },
-  "818977397834877": {
-    "price": 4600.0,
-    "title": "1986 Chevrolet c10",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10",
-      "chevy c10"
-    ]
-  },
-  "1543355243422234": {
-    "price": 6800.0,
-    "title": "(Listing 15433552...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy k10"
     ]
   },
   "874256301658803": {
@@ -1609,135 +3445,9 @@
       "chevy k10"
     ]
   },
-  "738015992506383": {
-    "price": 4900.0,
-    "title": "(Listing 73801599...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "1616825986361542": {
-    "price": 5800.0,
-    "title": "1971 Ford f100 longbed",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "26616995631227256": {
-    "price": 2500.0,
-    "title": "1969 Ford f100",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "828331070297606": {
-    "price": 7800.0,
-    "title": "1969 Ford F100",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "682932634700223": {
-    "price": 3000.0,
-    "title": "(Listing 68293263...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "1614001033104203": {
-    "price": 4900.0,
-    "title": "1970 Ford f100 shortbed",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "3384571991705617": {
-    "price": 13500.0,
-    "title": "1955 Ford f1",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "856083880160479": {
-    "price": 1000.0,
-    "title": "(Listing 85608388...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "1143830661275327": {
-    "price": 8500.0,
-    "title": "(Listing 11438306...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "962492152930686": {
-    "price": 3500.0,
-    "title": "1966 Ford f1",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "2943604662476830": {
-    "price": 3100.0,
-    "title": "1973 Ford f-100 Supervan",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "2035651740693277": {
-    "price": 6800.0,
-    "title": "1993 Ford f-250",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
   "1544453853449488": {
     "price": 12500.0,
     "title": "1960 Ford F100",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "1730255824284641": {
-    "price": 5500.0,
-    "title": "(Listing 17302558...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "1186256536816193": {
-    "price": 5500.0,
-    "title": "1972 F250 Camper Special - Manual",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -1753,27 +3463,9 @@
       "ford f100"
     ]
   },
-  "26073543608968641": {
-    "price": 4500.0,
-    "title": "1949 Ford f1",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
   "1300128368691355": {
     "price": 10500.0,
     "title": "1971 Ford f-250 Long Bed",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "2326991434436897": {
-    "price": 10000.0,
-    "title": "(Listing 23269914...)",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -1789,136 +3481,10 @@
       "ford f100"
     ]
   },
-  "4133254720151310": {
-    "price": 7000.0,
-    "title": "1966 Dodge Power Wagon 4x4 Truck",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "926587736378717": {
-    "price": 2500.0,
-    "title": "1979 Dodge power wagon 150",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "893833073139596": {
-    "price": 2500.0,
-    "title": "1942 Dodge power wagon AZ Title",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "936887638996782": {
-    "price": 15000.0,
-    "title": "1962 Dodge power wagon / town wagon",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "979836508049347": {
-    "price": 5500.0,
-    "title": "1979 Dodge w200 Power Wagon",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "2057076625245666": {
-    "price": 8000.0,
-    "title": "(Listing 20570766...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "1408843777650960": {
-    "price": 6500.0,
-    "title": "1979 Dodge w200 m880",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "1221696963200709": {
-    "price": 12900.0,
-    "title": "1977 Dodge power wagon",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "673680769123014": {
-    "price": 12200.0,
-    "title": "1951 Dodge ram wagon b350",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "1450283506833817": {
-    "price": 3100.0,
-    "title": "2 1942 dodge wc open cab power wago",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "1224177722627380": {
-    "price": 6000.0,
-    "title": "(Listing 12241777...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "963474873296178": {
-    "price": 11000.0,
-    "title": "(Listing 96347487...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "1338585837949735": {
-    "price": 4000.0,
-    "title": "(Listing 13385858...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
   "2103488403786364": {
     "price": 1.0,
     "title": "2022 Dodge ram 2500 crew cab Power",
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "2277264259465114": {
-    "price": 9000.0,
-    "title": "1988 Dodge d150",
-    "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
       "dodge power wagon"
@@ -1931,96 +3497,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "dodge power wagon"
-    ]
-  },
-  "2310877559423454": {
-    "price": 4000.0,
-    "title": "1974 Chevy half ton pickup",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "960861426315445": {
-    "price": 4000.0,
-    "title": "69 C-10",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "4377615689143309": {
-    "price": 2400.0,
-    "title": "(Listing 43776156...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "1604283900776398": {
-    "price": 10000.0,
-    "title": "1975 Chevrolet C10",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "1568728981009888": {
-    "price": 100.0,
-    "title": "Chevy C10",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "1379192906753125": {
-    "price": 6000.0,
-    "title": "(Listing 13791929...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "25362585406715789": {
-    "price": 5000.0,
-    "title": "Chevrolet Cheyenne 1972",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "875123945578435": {
-    "price": 12900.0,
-    "title": "1965 Chevrolet chevy c10 v8 swap",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "897190902916282": {
-    "price": 4500.0,
-    "title": "(Listing 89719090...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "907791808783300": {
-    "price": 2500.0,
-    "title": "1964 Chevrolet chevy van g10",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
     ]
   },
   "1275591264716602": {
@@ -2041,15 +3517,6 @@
       "chevy c10"
     ]
   },
-  "2146068085931337": {
-    "price": 2850.0,
-    "title": "1961 Chevrolet apache 10",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
   "2036186887325884": {
     "price": 2500.0,
     "title": "(Listing 20361868...)",
@@ -2057,78 +3524,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "chevy c10"
-    ]
-  },
-  "4346009745719230": {
-    "price": 5000.0,
-    "title": "1963 Chevrolet chevy van g10",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "1984779349581120": {
-    "price": 5000.0,
-    "title": "Jet boat project",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "2474424759638456": {
-    "price": 2700.0,
-    "title": "1994 Bayliner jazz jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "26188054370803448": {
-    "price": 200.0,
-    "title": "Jet Car boat",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "886179807072947": {
-    "price": 2600.0,
-    "title": "Jet Boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "1334361861803493": {
-    "price": 2855.0,
-    "title": "jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "25706372869041808": {
-    "price": 650.0,
-    "title": "1970 Biesmeyer jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "785363530793403": {
-    "price": 7250.0,
-    "title": "2004 Seadoo Sportster Jetboat w/ Tr",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
     ]
   },
   "1205451521010007": {
@@ -2149,69 +3544,6 @@
       "jet boat"
     ]
   },
-  "1442816760717794": {
-    "price": 9500.0,
-    "title": "(Listing 14428167...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "1661991454797594": {
-    "price": 1000.0,
-    "title": "Sanger daycruiser jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "1408776034186771": {
-    "price": 699.0,
-    "title": "(Listing 14087760...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "1689376088867557": {
-    "price": 5000.0,
-    "title": "(Listing 16893760...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "1221583796124078": {
-    "price": 3500.0,
-    "title": "1985 Dana speedboat Dana speedboat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "879866724623334": {
-    "price": 4000.0,
-    "title": "Nordic jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "2707283772961898": {
-    "price": 12000.0,
-    "title": "(Listing 27072837...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
   "1327838188845107": {
     "price": 6499.0,
     "title": "(Listing 13278381...)",
@@ -2219,24 +3551,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "jet boat"
-    ]
-  },
-  "1710741929621253": {
-    "price": 3500.0,
-    "title": "1985 Dana speed boat with trailer",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
-  "2182670265878451": {
-    "price": 2500.0,
-    "title": "1998 Volkswagen bug sandrail volksw",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
     ]
   },
   "922244907179339": {
@@ -2248,126 +3562,9 @@
       "sandrail"
     ]
   },
-  "757918196816634": {
-    "price": 5500.0,
-    "title": "Sandrail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1009274334756299": {
-    "price": 5500.0,
-    "title": "2002 Short sand cars sandrail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1573225233792900": {
-    "price": 5000.0,
-    "title": "Sand rail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "883227500720817": {
-    "price": 1200.0,
-    "title": "1965 Sand rail sand rail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "3082433165273786": {
-    "price": 1700.0,
-    "title": "(Listing 30824331...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1527104799011619": {
-    "price": 1000.0,
-    "title": "Sandrail 1",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
   "1699279374392588": {
     "price": 700.0,
     "title": "1990 Volkswagen sandrail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1302039478452188": {
-    "price": 1000.0,
-    "title": "Sandrail 2",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "4199616513702273": {
-    "price": 2500.0,
-    "title": "Sandrail- volkswagon",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1001324335655147": {
-    "price": 4500.0,
-    "title": "1989 Volkswagen sandrail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1214075570831245": {
-    "price": 10000.0,
-    "title": "(Listing 12140755...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "824838179976873": {
-    "price": 3500.0,
-    "title": "(Listing 82483817...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "951483080762335": {
-    "price": 3250.0,
-    "title": "Vw 1600cc buggy sandrail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1161483612832844": {
-    "price": 5000.0,
-    "title": "2000 Buggy / Sandrail",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -2383,24 +3580,6 @@
       "sandrail"
     ]
   },
-  "909854381470782": {
-    "price": 3000.0,
-    "title": "(Listing 90985438...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1938683470417618": {
-    "price": 4500.0,
-    "title": "(Listing 19386834...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
   "1487369436146559": {
     "price": 5000.0,
     "title": "2001 Tom pro sandrail",
@@ -2408,24 +3587,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "sandrail"
-    ]
-  },
-  "1190413519923596": {
-    "price": 4500.0,
-    "title": "(Listing 11904135...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1462227691967260": {
-    "price": 4500.0,
-    "title": "1985 Honda civic Wagovan 4wd",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
     ]
   },
   "1643449223346776": {
@@ -2446,24 +3607,6 @@
       "honda civic classic"
     ]
   },
-  "2166082567498532": {
-    "price": 4800.0,
-    "title": "(Listing 21660825...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "923299113831021": {
-    "price": 800.0,
-    "title": "1989 Honda civic Si Hatchback 2D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
   "1354980886379431": {
     "price": 3475.0,
     "title": "1990 Honda civic EX Hatchback 4D",
@@ -2473,55 +3616,10 @@
       "honda civic classic"
     ]
   },
-  "1875882306448012": {
-    "price": 10000.0,
-    "title": "1992 Honda civic Si Hatchback 2D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
   "1482290223278817": {
     "price": 2000.0,
     "title": "1992 Honda civic DX Hatchback 2D",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1523474949316052": {
-    "price": 5500.0,
-    "title": "1988 Honda accord LX Coupe 2D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1405579967520326": {
-    "price": 1800.0,
-    "title": "1990 Honda civic LX Sedan 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1205040001418199": {
-    "price": 4500.0,
-    "title": "1994 Honda civic CX Hatchback 2D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1514870009608586": {
-    "price": 2800.0,
-    "title": "1986 Honda accord LX Sedan 4D",
-    "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
       "honda civic classic"
@@ -2545,15 +3643,6 @@
       "honda civic classic"
     ]
   },
-  "1400333165162605": {
-    "price": 3500.0,
-    "title": "1994 Honda civic CX Hatchback 2D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
   "1643673670095341": {
     "price": 3300.0,
     "title": "(Listing 16436736...)",
@@ -2563,83 +3652,10 @@
       "honda civic classic"
     ]
   },
-  "1631551278054463": {
-    "price": 10000.0,
-    "title": "(Listing 16315512...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "2104437933699816": {
-    "price": 200.0,
-    "title": "VW Thing Doors",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "1273766024594387": {
-    "price": 50.0,
-    "title": "VW Thing rims",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "1211720277161718": {
-    "price": 500.0,
-    "title": "VW Thing, Thing shop Exhaust system",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "877867538624098": {
-    "price": 100.0,
-    "title": "Vw thing front brakes",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "1573337303913515": {
-    "price": 15000.0,
-    "title": "1974 VW Thing",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "1946271496284823": {
-    "price": 2500.0,
-    "title": "(Listing 19462714...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing",
-      "vw karmann ghia"
-    ]
-  },
   "836774102741923": {
     "price": 1200.0,
     "title": "Vw parts",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "1308508937786713": {
-    "price": 12000.0,
-    "title": "(Listing 13085089...)",
-    "first_seen": "2026-03-31",
     "last_seen": "2026-04-03",
     "search_terms": [
       "vw thing"
@@ -2654,135 +3670,9 @@
       "vw thing"
     ]
   },
-  "900637349106775": {
-    "price": 5000.0,
-    "title": "2 Volkswagens",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw thing"
-    ]
-  },
-  "1277051607069877": {
-    "price": 1.0,
-    "title": "1970 Vw Ghia Parts",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "1686122415718220": {
-    "price": 75.0,
-    "title": "(Listing 16861224...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "1701617487870487": {
-    "price": 70.0,
-    "title": "1970 Ghia",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "920310227104427": {
-    "price": 1000.0,
-    "title": "Low light karmann ghia seat springs",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "1922342478469372": {
-    "price": 25.0,
-    "title": "Back Rear Window Glass Karmann Ghia",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "1437991678113250": {
-    "price": 40.0,
-    "title": "VW Karmann Ghia Euro Tailights Repr",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "2166880754149936": {
-    "price": 50.0,
-    "title": "1967 Volkswagen Karmann Ghia Right",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw karmann ghia"
-    ]
-  },
-  "1620955989345392": {
-    "price": 7000.0,
-    "title": "Chevrolet camero",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "1397380658265755": {
-    "price": 800.0,
-    "title": "(Listing 13973806...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "957141453919226": {
-    "price": 10000.0,
-    "title": "1970 Camaro",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "2987550561447042": {
-    "price": 100.0,
-    "title": "1969 Camaro tail lights",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "1456968785979338": {
-    "price": 0,
-    "title": "****NEED**** 69 Camaro drivers door",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
   "2439627969886855": {
     "price": 8500.0,
     "title": "1967 Firebird/Camaro",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "840167601965668": {
-    "price": 600.0,
-    "title": "69 Camaro Z28 Ralley Wheels Origina",
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -2798,54 +3688,9 @@
       "69 camaro"
     ]
   },
-  "891337810410314": {
-    "price": 9000.0,
-    "title": "1973 Chevrolet camaro Coupe 2D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "2105808623515795": {
-    "price": 75.0,
-    "title": "(Listing 21058086...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "941896034978404": {
-    "price": 100.0,
-    "title": "1969 Chevy Camaro Parts",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "1462366688930506": {
-    "price": 300.0,
-    "title": "1969 Camaro",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
   "1977219706563336": {
     "price": 4500.0,
     "title": "(Listing 19772197...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "1442845137579337": {
-    "price": 2000.0,
-    "title": "1988 Chevrolet camaro",
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -2861,24 +3706,6 @@
       "69 camaro"
     ]
   },
-  "1988886102007822": {
-    "price": 9499.0,
-    "title": "(Listing 19888861...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
-  "1941331993413469": {
-    "price": 6500.0,
-    "title": "(Listing 19413319...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
-    ]
-  },
   "3874982569461948": {
     "price": 300.0,
     "title": "69 Camaro fiber glass",
@@ -2888,28 +3715,10 @@
       "69 camaro"
     ]
   },
-  "1899125000723026": {
-    "price": 6000.0,
-    "title": "Classic Volkswagen Beetle 1973",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug"
-    ]
-  },
   "1983379109055516": {
     "price": 500.0,
     "title": "1973 Volkswagen beetle",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "vw bug"
-    ]
-  },
-  "1366466625525959": {
-    "price": 7000.0,
-    "title": "1971 Volkswagen beetle",
-    "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
       "vw bug"
@@ -2983,15 +3792,6 @@
   "1494023895649717": {
     "price": 14500.0,
     "title": "1994 Ford bronco Wildtrak Sport Uti",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1583475879640176": {
-    "price": 5000.0,
-    "title": "1985 Ford bronco Badlands Sport Uti",
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -3079,37 +3879,10 @@
       "toyota pickup"
     ]
   },
-  "917566617703589": {
-    "price": 2000.0,
-    "title": "1972 Jeep cj5",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
   "957912193432879": {
     "price": 7500.0,
     "title": "(Listing 95791219...)",
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "2115754569279402": {
-    "price": 3000.0,
-    "title": "Jeep CJ Off-Road Build",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jeep cj"
-    ]
-  },
-  "2554329558301926": {
-    "price": 6000.0,
-    "title": "(Listing 25543295...)",
-    "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
       "jeep cj"
@@ -3187,15 +3960,6 @@
       "ford f100"
     ]
   },
-  "1954778252121497": {
-    "price": 10000.0,
-    "title": "72 Ford F-100 sport custom",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
   "1423557749113871": {
     "price": 7000.0,
     "title": "(Listing 14235577...)",
@@ -3212,33 +3976,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "ford f100"
-    ]
-  },
-  "1638203403891152": {
-    "price": 2999.0,
-    "title": "1976 Dodge 4x4 power wagon Short Be",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "2675977066134823": {
-    "price": 12000.0,
-    "title": "(Listing 26759770...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
-  "806008679100500": {
-    "price": 13500.0,
-    "title": "1978 Chevrolet C10",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
     ]
   },
   "1876091163110774": {
@@ -3262,15 +3999,6 @@
   "931531332617163": {
     "price": 13000.0,
     "title": "Patina 1965 Chevy C10",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "951991170709611": {
-    "price": 7500.0,
-    "title": "1971 Chevrolet c-10",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -3358,99 +4086,9 @@
       "sandrail"
     ]
   },
-  "1555851458855393": {
-    "price": 530.0,
-    "title": "Sandrail frame",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1712950416658714": {
-    "price": 5500.0,
-    "title": "(Listing 17129504...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
-  "1631163294799101": {
-    "price": 1.0,
-    "title": "1972 Nissan datsun 510",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "1388248869757112": {
-    "price": 1500.0,
-    "title": "(Listing 13882488...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "1169789598695618": {
-    "price": 2500.0,
-    "title": "1978 Nissan datsun 680 king cab",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "1202203455319988": {
-    "price": 80.0,
-    "title": "Hot Wheels 1971 Datsun 510 sth",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "1268319085230591": {
-    "price": 15000.0,
-    "title": "1969 Datsun 1600",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "940243752015058": {
-    "price": 1000.0,
-    "title": "1970 Datsun roadster 1600",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "1588593828837829": {
-    "price": 2200.0,
-    "title": "1971 Datsun truck 521",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
   "738650535518816": {
     "price": 325.0,
     "title": "Datsun 240-280z wheels",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "4188894234706177": {
-    "price": 40.0,
-    "title": "(Listing 41888942...)",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -3470,24 +4108,6 @@
     "price": 2500.0,
     "title": "Datsun Roadster, 1966",
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "618610651210401": {
-    "price": 15000.0,
-    "title": "(Listing 61861065...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "1606096977204361": {
-    "price": 350.0,
-    "title": "(Listing 16060969...)",
-    "first_seen": "2026-04-01",
     "last_seen": "2026-04-03",
     "search_terms": [
       "datsun 510"
@@ -3520,126 +4140,9 @@
       "datsun 510"
     ]
   },
-  "1509003513662469": {
-    "price": 2700.0,
-    "title": "(Listing 15090035...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "1457329072548622": {
-    "price": 12345.0,
-    "title": "1981 Volkswagen rabbit",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "1278683007404021": {
-    "price": 8400.0,
-    "title": "1981 Volkswagen rabbit",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "2154118082025030": {
-    "price": 3200.0,
-    "title": "1980 4d VW Rabbit",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "2376695666174267": {
-    "price": 2700.0,
-    "title": "1981 VW Rabbit pickup",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "920052390410445": {
-    "price": 1200.0,
-    "title": "2009 Volkswagen rabbit",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "1243119891336135": {
-    "price": 4750.0,
-    "title": "(Listing 12431198...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "1486533663039735": {
-    "price": 1400.0,
-    "title": "2007 Volkswagen rabbit Hatchback 2D",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "3770558789748118": {
-    "price": 2600.0,
-    "title": "2008 Volkswagen rabbit Hatchback 2D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "34652319567699888": {
-    "price": 3500.0,
-    "title": "2008 VW Rabbit",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "1305659138278617": {
-    "price": 3000.0,
-    "title": "(Listing 13056591...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
   "2798857677129087": {
     "price": 7000.0,
     "title": "(Listing 27988576...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "2122778158560190": {
-    "price": 3600.0,
-    "title": "(Listing 21227781...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
-  },
-  "868910979101919": {
-    "price": 1750.0,
-    "title": "1987 Volkswagen golf Hatchback 4D",
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
@@ -3655,64 +4158,10 @@
       "volkswagen rabbit"
     ]
   },
-  "1618270359197059": {
-    "price": 3300.0,
-    "title": "2005 Toyota Corolla",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "1595479378153955": {
-    "price": 4200.0,
-    "title": "2009 Toyota corolla LE Sedan 4D",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "26074210912205029": {
-    "price": 2500.0,
-    "title": "2004 Toyota camry CE Sedan 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "1423705729017398": {
-    "price": 6000.0,
-    "title": "2007 Toyota corolla LE",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
   "26114803998204188": {
     "price": 5500.0,
     "title": "(Listing 26114803...)",
     "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "971202515278193": {
-    "price": 3000.0,
-    "title": "(Listing 97120251...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "1854118571866280": {
-    "price": 5500.0,
-    "title": "(Listing 18541185...)",
-    "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
       "toyota corolla"
@@ -3736,33 +4185,6 @@
       "toyota corolla"
     ]
   },
-  "894112729743440": {
-    "price": 12000.0,
-    "title": "2022 Toyota corolla",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "2657471541302168": {
-    "price": 1000.0,
-    "title": "1974 Toyota corolla",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "1639788090309257": {
-    "price": 5995.0,
-    "title": "2004 Toyota corolla Sedan 4D",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
   "904780891998659": {
     "price": 14500.0,
     "title": "2022 Toyota corolla Se",
@@ -3776,15 +4198,6 @@
     "price": 7900.0,
     "title": "2016 Toyota corolla LE Plus Sedan 4",
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
-  "792445013890921": {
-    "price": 4600.0,
-    "title": "2007 Toyota corolla",
-    "first_seen": "2026-03-31",
     "last_seen": "2026-04-03",
     "search_terms": [
       "toyota corolla"
@@ -3826,28 +4239,10 @@
       "honda civic classic"
     ]
   },
-  "965287212506769": {
-    "price": 12500.0,
-    "title": "1991 Honda civic DX Hatchback 2D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
   "2452954661841345": {
     "price": 2300.0,
     "title": "1987 Honda civic CX Hatchback 2D",
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1400680728529167": {
-    "price": 5900.0,
-    "title": "(Listing 14006807...)",
-    "first_seen": "2026-04-03",
     "last_seen": "2026-04-03",
     "search_terms": [
       "honda civic classic"
@@ -3860,15 +4255,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "vw thing"
-    ]
-  },
-  "898839009605751": {
-    "price": 12500.0,
-    "title": "1979 Chevrolet camaro Coupe 2D",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "69 camaro"
     ]
   },
   "676276195258746": {
@@ -4177,15 +4563,6 @@
       "land rover defender"
     ]
   },
-  "1817547218906707": {
-    "price": 3500.0,
-    "title": "1965 Ford f1",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
   "1987654321098765": {
     "price": 4500.0,
     "title": "1978 Dodge power wagon",
@@ -4229,15 +4606,6 @@
     "last_seen": "2026-04-03",
     "search_terms": [
       "chevy c10"
-    ]
-  },
-  "2156732505139003": {
-    "price": 9500.0,
-    "title": "Tahiti jet boat",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "jet boat"
     ]
   },
   "1523676339101897": {
@@ -4340,15 +4708,6 @@
       "toyota corolla"
     ]
   },
-  "1210970434580139": {
-    "price": 7000.0,
-    "title": "2021 Toyota corolla l down payment",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "toyota corolla"
-    ]
-  },
   "1543210987654321": {
     "price": 3800.0,
     "title": "2006 Toyota corolla",
@@ -4385,28 +4744,10 @@
       "honda civic classic"
     ]
   },
-  "1658901515111001": {
-    "price": 3800.0,
-    "title": "2006 Honda civic EX Sedan 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
   "1411256460466308": {
     "price": 3000.0,
     "title": "(Listing 14112564...)",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-04-03",
-    "search_terms": [
-      "honda civic classic"
-    ]
-  },
-  "1659638745203191": {
-    "price": 2500.0,
-    "title": "Honda Civic 2000",
-    "first_seen": "2026-04-02",
     "last_seen": "2026-04-03",
     "search_terms": [
       "honda civic classic"
@@ -4446,7 +4787,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw bug"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2353072938538695": {
     "price": 3300.0,
@@ -4455,7 +4798,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw bug"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "3246383575529056": {
     "price": 10000.0,
@@ -4464,7 +4809,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota land cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2133589564057591": {
     "price": 5500.0,
@@ -4473,7 +4820,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1257096866355218": {
     "price": 6000.0,
@@ -4482,7 +4831,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1425800202484577": {
     "price": 15000.0,
@@ -4491,7 +4842,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "786680300723633": {
     "price": 3300.0,
@@ -4500,7 +4853,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep wagoneer"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "908045355366844": {
     "price": 9200.0,
@@ -4509,7 +4864,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep wagoneer"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "885049097766669": {
     "price": 6975.0,
@@ -4518,7 +4875,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep wagoneer"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "934657079060788": {
     "price": 4500.0,
@@ -4527,25 +4886,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota pickup"
-    ]
-  },
-  "1252311306427627": {
-    "price": 10000.0,
-    "title": "2006 Toyota tacoma TRD Sport Pickup",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "685354167497822": {
-    "price": 6500.0,
-    "title": "(Listing 68535416...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "toyota pickup"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1244160841176373": {
     "price": 7600.0,
@@ -4554,7 +4897,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1546491539779258": {
     "price": 9500.0,
@@ -4563,7 +4908,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1243432424582077": {
     "price": 6000.0,
@@ -4572,7 +4919,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "954770333901530": {
     "price": 3000.0,
@@ -4581,7 +4930,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cherokee xj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "812851261840574": {
     "price": 1300.0,
@@ -4590,7 +4941,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cherokee xj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1372968777536253": {
     "price": 4000.0,
@@ -4599,7 +4952,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "land rover defender"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1514623340027053": {
     "price": 7500.0,
@@ -4608,7 +4963,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "land rover defender"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2135093187322608": {
     "price": 4800.0,
@@ -4617,7 +4974,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "land rover defender"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2110207029854568": {
     "price": 8900.0,
@@ -4626,7 +4985,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "885802320689055": {
     "price": 7499.0,
@@ -4635,7 +4996,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1361490388812222": {
     "price": 8500.0,
@@ -4644,7 +5007,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "846953415014002": {
     "price": 6000.0,
@@ -4653,7 +5018,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1232998732306637": {
     "price": 8000.0,
@@ -4662,7 +5029,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1960256018236915": {
     "price": 5900.0,
@@ -4671,7 +5040,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford f100"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2607894892912150": {
     "price": 9800.0,
@@ -4680,7 +5051,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "dodge power wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1243283383973406": {
     "price": 9000.0,
@@ -4689,7 +5062,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "dodge power wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1342076851064012": {
     "price": 2000.0,
@@ -4698,7 +5073,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jet boat"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1527101631813324": {
     "price": 3250.0,
@@ -4707,7 +5084,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jet boat"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2259916247867656": {
     "price": 5000.0,
@@ -4716,7 +5095,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jet boat"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2402619760154967": {
     "price": 850.0,
@@ -4725,7 +5106,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "sandrail"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1434622797996656": {
     "price": 2500.0,
@@ -4734,16 +5117,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "datsun 510"
-    ]
-  },
-  "1132853129010058": {
-    "price": 5600.0,
-    "title": "(Listing 11328531...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "952559577148431": {
     "price": 4500.0,
@@ -4752,16 +5128,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
-  },
-  "1704019204342596": {
-    "price": 4900.0,
-    "title": "2005 Toyota corolla LE Sedan 4D",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1879428402996395": {
     "price": 5500.0,
@@ -4770,7 +5139,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1434107604914225": {
     "price": 1000.0,
@@ -4779,7 +5150,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1745961156832083": {
     "price": 12350.0,
@@ -4788,7 +5161,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1486399156163682": {
     "price": 7200.0,
@@ -4797,7 +5172,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1553684678986670": {
     "price": 8990.0,
@@ -4806,7 +5183,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1029910055917234": {
     "price": 8000.0,
@@ -4815,7 +5194,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "774542485379070": {
     "price": 4000.0,
@@ -4824,7 +5205,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1911042306212335": {
     "price": 15000.0,
@@ -4833,7 +5216,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw thing"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "910702141382361": {
     "price": 10000.0,
@@ -4842,7 +5227,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw thing"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1123337753218861": {
     "price": 3000.0,
@@ -4852,7 +5239,9 @@
     "search_terms": [
       "vw bug",
       "vw bus"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1240421384211521": {
     "price": 2500.0,
@@ -4861,7 +5250,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw bug"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1721847302556451": {
     "price": 11000.0,
@@ -4870,7 +5261,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw bug"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2019161315480054": {
     "price": 2000.0,
@@ -4879,7 +5272,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw bug"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1277276414341910": {
     "price": 9000.0,
@@ -4888,16 +5283,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw bug"
-    ]
-  },
-  "965774685914323": {
-    "price": 1500.0,
-    "title": "",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "vw bug"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1311112210845467": {
     "price": 8500.0,
@@ -4906,7 +5294,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota land cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "25517685854581335": {
     "price": 4000.0,
@@ -4915,7 +5305,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota land cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1395662245381452": {
     "price": 11500.0,
@@ -4924,7 +5316,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2303254166806494": {
     "price": 6500.0,
@@ -4933,7 +5327,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "824568017087321": {
     "price": 6500.0,
@@ -4942,7 +5338,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "926484833199523": {
     "price": 6000.0,
@@ -4951,7 +5349,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford bronco"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "829131796870373": {
     "price": 50.0,
@@ -4960,25 +5360,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep wagoneer"
-    ]
-  },
-  "938009091947887": {
-    "price": 20.0,
-    "title": "(Listing 93800909...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "jeep wagoneer"
-    ]
-  },
-  "2251997601974988": {
-    "price": 2.0,
-    "title": "1985 Toyota pick up",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "toyota pickup"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1473291411106621": {
     "price": 7000.0,
@@ -4987,7 +5371,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota pickup"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1655392282475501": {
     "price": 14995.0,
@@ -4996,7 +5382,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota pickup"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "475318078313689": {
     "price": 4000.0,
@@ -5005,7 +5393,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cherokee xj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1238284941823899": {
     "price": 3500.0,
@@ -5014,7 +5404,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cherokee xj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2113089712879779": {
     "price": 4800.0,
@@ -5023,7 +5415,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "jeep cherokee xj"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1436108104643943": {
     "price": 300.0,
@@ -5032,7 +5426,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "land rover defender"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "4474424229443830": {
     "price": 7500.0,
@@ -5041,7 +5437,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "land rover defender"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1456226009215600": {
     "price": 4000.0,
@@ -5050,7 +5448,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "land rover defender"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1219570140257419": {
     "price": 6500.0,
@@ -5059,7 +5459,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "963990959629844": {
     "price": 7500.0,
@@ -5068,7 +5470,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy k10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1540166400620729": {
     "price": 15000.0,
@@ -5077,7 +5481,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford f100"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1482093206956554": {
     "price": 10000.0,
@@ -5086,7 +5492,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "ford f100"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1203595238276080": {
     "price": 11000.0,
@@ -5095,7 +5503,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy c10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1999112977345750": {
     "price": 13500.0,
@@ -5104,7 +5514,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "chevy c10"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1863056810957082": {
     "price": 6000.0,
@@ -5114,7 +5526,9 @@
     "search_terms": [
       "oldsmobile vista cruiser",
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "975810104771812": {
     "price": 14000.0,
@@ -5123,7 +5537,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1554394695789019": {
     "price": 6500.0,
@@ -5132,7 +5548,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1238272238477283": {
     "price": 6500.0,
@@ -5141,7 +5559,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "922814240519767": {
     "price": 1800.0,
@@ -5150,7 +5570,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1618766992596876": {
     "price": 650.0,
@@ -5159,7 +5581,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1260740672245657": {
     "price": 13900.0,
@@ -5168,7 +5592,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1465241808337865": {
     "price": 4000.0,
@@ -5177,7 +5603,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1474485301006457": {
     "price": 3500.0,
@@ -5186,7 +5614,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "910404385308354": {
     "price": 3500.0,
@@ -5196,7 +5626,9 @@
     "search_terms": [
       "oldsmobile vista cruiser",
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "907821732070584": {
     "price": 2750.0,
@@ -5205,7 +5637,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1464522688472635": {
     "price": 4800.0,
@@ -5216,7 +5650,9 @@
       "oldsmobile vista cruiser",
       "buick estate wagon",
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "891497417040494": {
     "price": 9000.0,
@@ -5226,7 +5662,9 @@
     "search_terms": [
       "oldsmobile vista cruiser",
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1616026819394716": {
     "price": 2500.0,
@@ -5235,7 +5673,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "903626225361827": {
     "price": 6500.0,
@@ -5244,7 +5684,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1900328030865356": {
     "price": 15000.0,
@@ -5253,7 +5695,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "3245089872307841": {
     "price": 3400.0,
@@ -5262,7 +5706,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1475459164303743": {
     "price": 7000.0,
@@ -5271,7 +5717,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "oldsmobile vista cruiser"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "26535782016046342": {
     "price": 1000.0,
@@ -5280,7 +5728,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "26249582074709536": {
     "price": 8000.0,
@@ -5289,7 +5739,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "905845178863657": {
     "price": 6789.0,
@@ -5298,7 +5750,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "3760412884255455": {
     "price": 12345.0,
@@ -5307,7 +5761,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1447550487077043": {
     "price": 8000.0,
@@ -5317,7 +5773,9 @@
     "search_terms": [
       "buick estate wagon",
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "26553080640963004": {
     "price": 5400.0,
@@ -5327,7 +5785,9 @@
     "search_terms": [
       "buick estate wagon",
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "967423462422643": {
     "price": 2000.0,
@@ -5336,7 +5796,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "buick estate wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "872339785252600": {
     "price": 5000.0,
@@ -5345,7 +5807,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1377063750098323": {
     "price": 5000.0,
@@ -5354,7 +5818,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1242305611437185": {
     "price": 3500.0,
@@ -5363,7 +5829,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1206971341588626": {
     "price": 1200.0,
@@ -5372,7 +5840,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "837458982695503": {
     "price": 9400.0,
@@ -5381,7 +5851,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1443504457258162": {
     "price": 13900.0,
@@ -5390,7 +5862,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1423232395677109": {
     "price": 3000.0,
@@ -5399,7 +5873,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "592421843326271": {
     "price": 4300.0,
@@ -5408,7 +5884,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1128960213626657": {
     "price": 10000.0,
@@ -5417,7 +5895,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1978720763052893": {
     "price": 11000.0,
@@ -5426,7 +5906,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "904905569022544": {
     "price": 2400.0,
@@ -5435,7 +5917,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2176747186478024": {
     "price": 6500.0,
@@ -5444,7 +5928,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1203811844706335": {
     "price": 3600.0,
@@ -5453,7 +5939,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "pontiac safari wagon"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1118923813649113": {
     "price": 75.0,
@@ -5462,7 +5950,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "datsun 510"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "787671723935064": {
     "price": 3200.0,
@@ -5471,7 +5961,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "volkswagen rabbit"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1478587907268394": {
     "price": 5200.0,
@@ -5480,16 +5972,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "volkswagen rabbit"
-    ]
-  },
-  "961943229676653": {
-    "price": 250.0,
-    "title": "VW MK1 Rabbit roofrack",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "volkswagen rabbit"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "739173862205674": {
     "price": 1500.0,
@@ -5498,7 +5983,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "volkswagen rabbit"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1658675285451227": {
     "price": 3200.0,
@@ -5507,16 +5994,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
-  },
-  "919376997681459": {
-    "price": 5200.0,
-    "title": "2008 Toyota corolla S Sedan 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2006801143567205": {
     "price": 6298.0,
@@ -5525,7 +6005,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1493014888830731": {
     "price": 2000.0,
@@ -5534,7 +6016,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1393854462083627": {
     "price": 1950.0,
@@ -5543,7 +6027,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "3359021764298334": {
     "price": 3500.0,
@@ -5552,7 +6038,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "toyota corolla"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1560245588573797": {
     "price": 3200.0,
@@ -5561,16 +6049,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
-  },
-  "1316280723605059": {
-    "price": 2500.0,
-    "title": "2002 Honda civic EX Sedan 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-02",
-    "search_terms": [
-      "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "1488760169535093": {
     "price": 4400.0,
@@ -5579,7 +6060,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "957959739911872": {
     "price": 2500.0,
@@ -5588,7 +6071,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "898547203174850": {
     "price": 3500.0,
@@ -5597,7 +6082,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "honda civic classic"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2045542122950833": {
     "price": 11000.0,
@@ -5607,7 +6094,9 @@
     "search_terms": [
       "vw thing",
       "vw karmann ghia"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "942129888677680": {
     "price": 4200.0,
@@ -5616,7 +6105,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw thing"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "932363352825013": {
     "price": 13000.0,
@@ -5625,7 +6116,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw thing"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "763808113250388": {
     "price": 9800.0,
@@ -5634,7 +6127,9 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw karmann ghia"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   },
   "2020881388443703": {
     "price": 3900.0,
@@ -5643,6 +6138,8 @@
     "last_seen": "2026-04-02",
     "search_terms": [
       "vw karmann ghia"
-    ]
+    ],
+    "sold": true,
+    "sold_date": "2026-04-04"
   }
 }
