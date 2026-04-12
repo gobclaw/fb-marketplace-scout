@@ -1,6 +1,8 @@
-import re, json, os, sys
+import re, json, os, sys, base64
 from datetime import datetime
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import requests
 
 # --- Config ---
 BASE_DIR = os.path.expanduser("~/marketplace-scraper")
@@ -232,6 +234,35 @@ for lid, data in prev_seen.items():
         else:
             new_seen[lid] = {**data, 'sold': True, 'sold_date': today}  # mark as sold
 save_seen(new_seen)
+
+# --- Cache images as base64 data URIs ---
+def fetch_image(url):
+    try:
+        resp = requests.get(url, timeout=3, headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        })
+        if resp.status_code == 200 and resp.content:
+            content_type = resp.headers.get('Content-Type', 'image/jpeg').split(';')[0]
+            b64 = base64.b64encode(resp.content).decode('ascii')
+            return url, f'data:{content_type};base64,{b64}'
+    except Exception:
+        pass
+    return url, ''
+
+image_urls = list({l['image_url'] for l in all_listings if l.get('image_url')})
+image_cache = {}
+if image_urls:
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        futures = {pool.submit(fetch_image, u): u for u in image_urls}
+        for f in as_completed(futures):
+            url, data_uri = f.result()
+            image_cache[url] = data_uri
+    cached = sum(1 for v in image_cache.values() if v)
+    failed = len(image_urls) - cached
+    print(f"Images cached: {cached}/{len(image_urls)} ({failed} failed)")
+    for l in all_listings:
+        if l.get('image_url') and l['image_url'] in image_cache:
+            l['image_url'] = image_cache[l['image_url']]
 
 # --- Classify parts vs vehicles ---
 for l in all_listings:
