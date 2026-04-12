@@ -15,9 +15,20 @@
     "first_seen": "2026-04-10",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "vw bug"
+      "vw bug",
+      "vw thing"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669036705_925346973831748_8257352176191544014_n.jpg"
+  },
+  "1469399081397150": {
+    "price": 13000.0,
+    "title": "1967 vw bug",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bug"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/672680369_1269452338038685_2029553631082098088_n.jpg"
   },
   "1306403938064937": {
     "price": 2200.0,
@@ -29,25 +40,28 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669295881_1683669692665435_1743864114952735416_n.jpg"
   },
-  "1917964612171166": {
-    "price": 3500.0,
-    "title": "1968 Volkswagen beetle",
-    "first_seen": "2026-04-10",
+  "1366466625525959": {
+    "price": 7000.0,
+    "title": "1971 Volkswagen beetle",
+    "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw bug"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668463538_3875552812754145_5068539134460536781_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657359663_122144826080966050_8362600162813764961_n.jpg"
   },
-  "2006964096568541": {
-    "price": 5000.0,
-    "title": "1983 Volkswagen beetle",
-    "first_seen": "2026-04-12",
+  "1308508937786713": {
+    "price": 12000.0,
+    "title": "(Listing 13085089...)",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "vw bug"
+      "vw bug",
+      "vw bus",
+      "vw thing",
+      "vw karmann ghia"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670304425_122128236117069670_1871633120796361390_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670359236_2547819235612279_122374995310626200_n.jpg"
   },
   "1258129569629923": {
     "price": 5500.0,
@@ -60,38 +74,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661905300_3919439118359317_7497668315428915044_n.jpg"
   },
-  "1879785832902825": {
-    "price": 1.0,
-    "title": "(Listing 18797858...)",
-    "first_seen": "2026-04-01",
+  "1917964612171166": {
+    "price": 3500.0,
+    "title": "1968 Volkswagen beetle",
+    "first_seen": "2026-04-10",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw bug"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/636966382_26532828122976362_8763486352689752920_n.jpg"
-  },
-  "1308508937786713": {
-    "price": 12000.0,
-    "title": "(Listing 13085089...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "vw bug",
-      "vw thing",
-      "vw karmann ghia"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670359236_2547819235612279_122374995310626200_n.jpg"
-  },
-  "1366466625525959": {
-    "price": 7000.0,
-    "title": "1971 Volkswagen beetle",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "vw bug",
-      "vw thing"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657359663_122144826080966050_8362600162813764961_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668463538_3875552812754145_5068539134460536781_n.jpg"
   },
   "870133692267500": {
     "price": 5000.0,
@@ -114,15 +105,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669710555_10122010527348651_4115405790287961357_n.jpg"
   },
-  "1539903664809441": {
-    "price": 7000.0,
-    "title": "1967 baj beetle",
+  "959736073215467": {
+    "price": 6000.0,
+    "title": "2014 Volkswagen beetle 2.0T Coast H",
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw bug"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/661345995_1665496338215377_20324148439212486_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659149755_2483252535457545_6323702744010707042_n.jpg"
+  },
+  "1879785832902825": {
+    "price": 1.0,
+    "title": "(Listing 18797858...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bug"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/636966382_26532828122976362_8763486352689752920_n.jpg"
   },
   "1415762626953313": {
     "price": 2500.0,
@@ -134,35 +135,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/645430497_1228596075645000_5733269846708432415_n.jpg"
   },
-  "26380439674881797": {
-    "price": 3500.0,
-    "title": "(Listing 26380439...)",
-    "first_seen": "2026-04-09",
+  "965774685914323": {
+    "price": 1500.0,
+    "title": "1975 Volkswagen bug",
+    "first_seen": "2026-04-01",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw bug"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656324980_122126771925042468_4733030870005441100_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/660408096_1276461217770399_122394086296593184_n.jpg"
   },
-  "1277276414341910": {
-    "price": 9000.0,
-    "title": "1963 VW Bug",
-    "first_seen": "2026-04-10",
+  "1366242972207667": {
+    "price": 1500.0,
+    "title": "1974 Volkswagen beetle 1.8T S Hatch",
+    "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw bug"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/655835123_1474850274249994_5852605620536639969_n.jpg"
-  },
-  "1899865257323377": {
-    "price": 30.0,
-    "title": "VW bus bong",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "vw bus"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/653967370_1437948567979723_5213658652358824470_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657461360_1498994798291916_2614630533809746572_n.jpg"
   },
   "1212009477589925": {
     "price": 4000.0,
@@ -174,15 +165,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/641415744_1654483755542737_2813828932205062260_n.jpg"
   },
-  "1416509866353790": {
+  "1410160520722442": {
     "price": 12000.0,
-    "title": "1979 Volkswagen bus",
-    "first_seen": "2026-04-01",
+    "title": "(Listing 14101605...)",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "vw bus"
+      "vw bus",
+      "vw thing"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/649530415_1466251374997428_5773747056296631848_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/612537746_26450876147832454_1469067749117923810_n.jpg"
   },
   "1274312504201508": {
     "price": 7000.0,
@@ -194,16 +186,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668897135_1685222542897754_3694384119300948237_n.jpg"
   },
-  "1410160520722442": {
+  "1416509866353790": {
     "price": 12000.0,
-    "title": "(Listing 14101605...)",
-    "first_seen": "2026-03-31",
+    "title": "1979 Volkswagen bus",
+    "first_seen": "2026-04-01",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "vw bus",
-      "vw thing"
+      "vw bus"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/612537746_26450876147832454_1469067749117923810_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/649530415_1466251374997428_5773747056296631848_n.jpg"
   },
   "1584174362687351": {
     "price": 800.0,
@@ -231,8 +222,7 @@
     "first_seen": "2026-04-01",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "vw bus",
-      "vw karmann ghia"
+      "vw bus"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655575062_912396904760951_7509943272072983157_n.jpg"
   },
@@ -266,6 +256,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/484552390_673982638647904_1664493578078070999_n.jpg"
   },
+  "1470886614660830": {
+    "price": 9000.0,
+    "title": "1969 Volkswagen bus",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bus"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/640097988_4274132286174021_3014210831743781423_n.jpg"
+  },
   "2192078331274521": {
     "price": 15000.0,
     "title": "(Listing 21920783...)",
@@ -295,16 +295,6 @@
       "vw bus"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/647252759_1815303912723531_3129673578890703520_n.jpg"
-  },
-  "736725425715118": {
-    "price": 8000.0,
-    "title": "(Listing 73672542...)",
-    "first_seen": "2026-04-11",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "vw bus"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/571201227_636703522722496_4382393939751006644_n.jpg"
   },
   "867292949341947": {
     "price": 5000.0,
@@ -366,16 +356,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655927603_26385679367717661_5143402717957645514_n.jpg"
   },
-  "1121929073318150": {
-    "price": 7200.0,
-    "title": "(Listing 11219290...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota land cruiser"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/518310961_2240133433105618_6782300894098395072_n.jpg"
-  },
   "4307492026188984": {
     "price": 10000.0,
     "title": "1992 Toyota land cruiser Sport Util",
@@ -385,6 +365,16 @@
       "toyota land cruiser"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657174057_122118579591187167_4243915306027629441_n.jpg"
+  },
+  "1609836593600721": {
+    "price": 13800.0,
+    "title": "(Listing 16098365...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota land cruiser"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658834631_10107834538060103_119922564362665731_n.jpg"
   },
   "1355640902929095": {
     "price": 7000.0,
@@ -396,25 +386,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/610871290_122165809388607727_4543055319043249268_n.jpg"
   },
-  "2802446766772736": {
-    "price": 1.0,
-    "title": "2000 toyota land cruiser",
-    "first_seen": "2026-04-12",
+  "1121929073318150": {
+    "price": 7200.0,
+    "title": "(Listing 11219290...)",
+    "first_seen": "2026-04-01",
     "last_seen": "2026-04-12",
     "search_terms": [
       "toyota land cruiser"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669606785_1851331542219282_8857554570975916937_n.jpg"
-  },
-  "3246383575529056": {
-    "price": 10000.0,
-    "title": "(Listing 32463835...)",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota land cruiser"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/595540556_122153863700695184_5455877900632256258_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/518310961_2240133433105618_6782300894098395072_n.jpg"
   },
   "2034687890800606": {
     "price": 10.0,
@@ -446,16 +426,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659823486_34578662485111045_5437363251753991162_n.jpg"
   },
-  "1408384890773413": {
-    "price": 14995.0,
-    "title": "(Listing 14083848...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "ford bronco"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/651275759_901984366074660_5399850005641336625_n.jpg"
-  },
   "1323990372892386": {
     "price": 7500.0,
     "title": "1990 Ford Bronco",
@@ -476,25 +446,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659730252_2811969082471196_620853331861524409_n.jpg"
   },
-  "1504661878003737": {
-    "price": 11000.0,
-    "title": "(Listing 15046618...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "ford bronco"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658777158_10242474679821659_8700824738477098645_n.jpg"
-  },
-  "1573186460404927": {
-    "price": 9500.0,
-    "title": "(Listing 15731864...)",
+  "3289445111216413": {
+    "price": 9000.0,
+    "title": "(Listing 32894451...)",
     "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford bronco"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/663121986_10163273637618757_908618118607327261_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/636800434_33913792504932519_8770502737166368951_n.jpg"
   },
   "1159750445973471": {
     "price": 9500.0,
@@ -506,15 +466,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/617213479_3424280571043272_8865626847222363764_n.jpg"
   },
-  "1344238600300728": {
-    "price": 3500.0,
-    "title": "(Listing 13442386...)",
-    "first_seen": "2026-03-31",
+  "1504661878003737": {
+    "price": 11000.0,
+    "title": "(Listing 15046618...)",
+    "first_seen": "2026-04-03",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford bronco"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/615095453_122120593959047452_543640110876335794_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658777158_10242474679821659_8700824738477098645_n.jpg"
   },
   "1722734452224221": {
     "price": 14990.0,
@@ -526,6 +486,26 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666836463_2141417186677538_7007830979482664690_n.jpg"
   },
+  "1344238600300728": {
+    "price": 3500.0,
+    "title": "(Listing 13442386...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford bronco"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/615095453_122120593959047452_543640110876335794_n.jpg"
+  },
+  "1425800202484577": {
+    "price": 15000.0,
+    "title": "(Listing 14258002...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford bronco"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/626849289_3096093020600166_7615243047682376068_n.jpg"
+  },
   "1480025026823019": {
     "price": 5000.0,
     "title": "1989 Ford Bronco (full size)",
@@ -535,16 +515,6 @@
       "ford bronco"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/653707970_2697366560649773_627124538563753036_n.jpg"
-  },
-  "3289445111216413": {
-    "price": 9000.0,
-    "title": "(Listing 32894451...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "ford bronco"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/636800434_33913792504932519_8770502737166368951_n.jpg"
   },
   "1012663201015742": {
     "price": 7000.0,
@@ -556,6 +526,26 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/600295923_10241831131731896_5343363802979841353_n.jpg"
   },
+  "1018934523864295": {
+    "price": 14999.0,
+    "title": "2021 Ford bronco Big Bend Sport Uti",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford bronco"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/653452316_122223410156279619_3349859829794699783_n.jpg"
+  },
+  "941956968343436": {
+    "price": 14990.0,
+    "title": "2021 Ford bronco sport Big Bend Spo",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford bronco"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/671723668_122265540578246774_1500747382839183238_n.jpg"
+  },
   "1180999660654614": {
     "price": 3500.0,
     "title": "2022 Jeep grand wagoneer",
@@ -565,16 +555,6 @@
       "jeep wagoneer"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/659125634_1244845474398963_2055395977168772838_n.jpg"
-  },
-  "848035447670682": {
-    "price": 9999.0,
-    "title": "2024 Jeep Wagoneer S3",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep wagoneer"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/663286110_878780018500734_4833663614894468743_n.jpg"
   },
   "894686206476203": {
     "price": 3200.0,
@@ -586,15 +566,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/632935729_876778071656187_827643342101233098_n.jpg"
   },
-  "4152089681784938": {
-    "price": 9000.0,
-    "title": "(Listing 41520896...)",
-    "first_seen": "2026-03-31",
+  "848035447670682": {
+    "price": 9999.0,
+    "title": "2024 Jeep Wagoneer S3",
+    "first_seen": "2026-04-09",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep wagoneer"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/581825072_32881028741482345_1915110277029704683_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/663286110_878780018500734_4833663614894468743_n.jpg"
   },
   "1676696173357140": {
     "price": 10200.0,
@@ -636,16 +616,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/650834035_27040980218824554_4578931417279871354_n.jpg"
   },
-  "2662774070775873": {
-    "price": 7000.0,
-    "title": "2024 Jeep wagoneer",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep wagoneer"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646778130_2678937222485769_4205596467631986308_n.jpg"
-  },
   "1134748835489246": {
     "price": 4000.0,
     "title": "2022 Jeep wagoneer Series II Sport",
@@ -656,15 +626,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/587239677_25196995466629539_5281385876299442231_n.jpg"
   },
-  "1246020444374463": {
-    "price": 11000.0,
-    "title": "1960 Willys overland wagon Jeep",
-    "first_seen": "2026-04-02",
+  "2662774070775873": {
+    "price": 7000.0,
+    "title": "2024 Jeep wagoneer",
+    "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep wagoneer"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661066320_26770383349212856_7704232148908773836_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646778130_2678937222485769_4205596467631986308_n.jpg"
   },
   "2348339172299099": {
     "price": 5500.0,
@@ -677,6 +647,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/650600837_2050586812548986_3300579810481517983_n.jpg"
   },
+  "1246020444374463": {
+    "price": 11000.0,
+    "title": "1960 Willys overland wagon Jeep",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep wagoneer"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661066320_26770383349212856_7704232148908773836_n.jpg"
+  },
   "1587677342328381": {
     "price": 1234.0,
     "title": "2023 Jeep wagoneer l Series III Spo",
@@ -686,6 +666,26 @@
       "jeep wagoneer"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652368443_1973309066892371_5865305538305764005_n.jpg"
+  },
+  "1296516808857160": {
+    "price": 3500.0,
+    "title": "(Listing 12965168...)",
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep wagoneer"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/518361537_122250151004195623_8156195534368879819_n.jpg"
+  },
+  "1453911279765204": {
+    "price": 4000.0,
+    "title": "1992 Toyota 4runner SR5 Sport Utili",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658910032_4459326804348340_693444147610667358_n.jpg"
   },
   "1487954296392115": {
     "price": 3800.0,
@@ -697,6 +697,26 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/662192474_1637231390657142_4200932858753089372_n.jpg"
   },
+  "1522876196109004": {
+    "price": 4000.0,
+    "title": "1991 Toyota tacoma Pickup",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660197587_4362401387372339_4232239478116944708_n.jpg"
+  },
+  "1608081447068921": {
+    "price": 3000.0,
+    "title": "1998 Toyota tacoma regular cab Pick",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661063843_1672082720494731_1296331539318876694_n.jpg"
+  },
   "1384163426581803": {
     "price": 3500.0,
     "title": "1996 Toyota tacoma regular cab Pick",
@@ -706,16 +726,6 @@
       "toyota pickup"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/625262719_122271177236022936_9028349025166921524_n.jpg"
-  },
-  "1516433950061846": {
-    "price": 7500.0,
-    "title": "1986 Toyota tacoma Pickup",
-    "first_seen": "2026-04-11",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670266239_1489218389254065_3987365834873067948_n.jpg"
   },
   "685354167497822": {
     "price": 5900.0,
@@ -727,15 +737,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/508250816_9540312389403175_8930546439467304615_n.jpg"
   },
-  "1522876196109004": {
-    "price": 4000.0,
-    "title": "1991 Toyota tacoma Pickup",
-    "first_seen": "2026-04-02",
+  "1516433950061846": {
+    "price": 7500.0,
+    "title": "1986 Toyota tacoma Pickup",
+    "first_seen": "2026-04-11",
     "last_seen": "2026-04-12",
     "search_terms": [
       "toyota pickup"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660197587_4362401387372339_4232239478116944708_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670266239_1489218389254065_3987365834873067948_n.jpg"
   },
   "1549167899629182": {
     "price": 1200.0,
@@ -757,16 +767,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669771072_26640066422294566_3352359503513880837_n.jpg"
   },
-  "1608081447068921": {
-    "price": 3000.0,
-    "title": "1998 Toyota tacoma regular cab Pick",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661063843_1672082720494731_1296331539318876694_n.jpg"
-  },
   "1621183822302610": {
     "price": 6000.0,
     "title": "(Listing 16211838...)",
@@ -777,15 +777,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660414525_26663438243274762_4871440229499143305_n.jpg"
   },
-  "1712700456386252": {
-    "price": 7500.0,
-    "title": "(Listing 17127004...)",
+  "911204028256531": {
+    "price": 9500.0,
+    "title": "(Listing 91120402...)",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "toyota pickup"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660573001_1482091273300110_944078536607840915_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/634022377_26548432194749942_7358844877780992953_n.jpg"
+  },
+  "1252311306427627": {
+    "price": 10000.0,
+    "title": "2006 Toyota tacoma TRD Sport Pickup",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667337083_919793781051545_1268623109519945467_n.jpg"
   },
   "930224449615961": {
     "price": 7500.0,
@@ -797,15 +807,55 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659183495_2786437288410257_3932692025675913941_n.jpg"
   },
-  "829779566816403": {
-    "price": 1234.0,
-    "title": "1988 Toyota single cab Sr5",
+  "1712700456386252": {
+    "price": 7500.0,
+    "title": "(Listing 17127004...)",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "toyota pickup"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/654222461_122173739918394218_1664520296041617080_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660573001_1482091273300110_944078536607840915_n.jpg"
+  },
+  "1274177704110211": {
+    "price": 9500.0,
+    "title": "1988 Toyota regular cab Deluxe Long",
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666448717_2791803217873664_5154779041353309179_n.jpg"
+  },
+  "1753355928966486": {
+    "price": 5000.0,
+    "title": "1998 Toyota tacoma",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/672065904_26384811661169477_170989387722927627_n.jpg"
+  },
+  "974112105180664": {
+    "price": 3800.0,
+    "title": "(Listing 97411210...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656094127_122093676500848338_3292080085530471363_n.jpg"
+  },
+  "1590921298784959": {
+    "price": 4900.0,
+    "title": "(Listing 15909212...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/649663952_930707226019202_4980543425355568601_n.jpg"
   },
   "1243032357988548": {
     "price": 9500.0,
@@ -816,16 +866,6 @@
       "toyota pickup"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662880689_1716211436013404_1584708651103724934_n.jpg"
-  },
-  "911204028256531": {
-    "price": 9500.0,
-    "title": "(Listing 91120402...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/634022377_26548432194749942_7358844877780992953_n.jpg"
   },
   "874706078914691": {
     "price": 6500.0,
@@ -847,16 +887,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666909142_2303146273508652_1641764127849815520_n.jpg"
   },
-  "1244160841176373": {
-    "price": 6500.0,
-    "title": "(Listing 12441608...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655706314_10243902287119714_1795055548229802111_n.jpg"
-  },
   "1423145716254053": {
     "price": 6500.0,
     "title": "Jeep CJ 7",
@@ -867,35 +897,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666640130_1517625469957880_6194792265921441879_n.jpg"
   },
-  "1242295071096481": {
-    "price": 7100.0,
-    "title": "(Listing 12422950...)",
-    "first_seen": "2026-04-09",
+  "1244160841176373": {
+    "price": 6500.0,
+    "title": "(Listing 12441608...)",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep cj"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/611581392_1232574818733742_3358559155406444437_n.jpg"
-  },
-  "1603318887570197": {
-    "price": 4000.0,
-    "title": "1980 Jeep cj7",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658961256_1607564670473006_5999109800575380320_n.jpg"
-  },
-  "2064126384352505": {
-    "price": 15000.0,
-    "title": "(Listing 20641263...)",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/612610549_122297769410195854_850233846327599505_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655706314_10243902287119714_1795055548229802111_n.jpg"
   },
   "26401438192844799": {
     "price": 5000.0,
@@ -907,15 +917,35 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669334897_10164787495821834_1330534619436398317_n.jpg"
   },
-  "957912193432879": {
-    "price": 7500.0,
-    "title": "(Listing 95791219...)",
-    "first_seen": "2026-03-31",
+  "1603318887570197": {
+    "price": 4000.0,
+    "title": "1980 Jeep cj7",
+    "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep cj"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652339579_1238299635150734_8149264911898242883_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658961256_1607564670473006_5999109800575380320_n.jpg"
+  },
+  "1242295071096481": {
+    "price": 7100.0,
+    "title": "(Listing 12422950...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/611581392_1232574818733742_3358559155406444437_n.jpg"
+  },
+  "2064126384352505": {
+    "price": 15000.0,
+    "title": "(Listing 20641263...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/612610549_122297769410195854_850233846327599505_n.jpg"
   },
   "812575811891412": {
     "price": 6500.0,
@@ -927,25 +957,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662927564_25722877684057639_8594285984049780366_n.jpg"
   },
-  "1490457496038258": {
-    "price": 4500.0,
-    "title": "(Listing 14904574...)",
-    "first_seen": "2026-04-02",
+  "957912193432879": {
+    "price": 7500.0,
+    "title": "(Listing 95791219...)",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep cj"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/657247589_1421500319279369_1609423578531592574_n.jpg"
-  },
-  "1214440390459714": {
-    "price": 6500.0,
-    "title": "1977 Jeep CJ-5",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651279062_1820962785533316_8421401616756411100_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652339579_1238299635150734_8149264911898242883_n.jpg"
   },
   "816811657558049": {
     "price": 12500.0,
@@ -956,6 +976,26 @@
       "jeep cj"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660066276_26263469619979685_8981528884089032448_n.jpg"
+  },
+  "977914121326457": {
+    "price": 7500.0,
+    "title": "Cj7 Jeep",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668724930_1422685872514065_1021217028221523297_n.jpg"
+  },
+  "1514707352904312": {
+    "price": 10000.0,
+    "title": "(Listing 15147073...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/571558584_10237214976090113_6904548122590431986_n.jpg"
   },
   "1555806228813750": {
     "price": 3000.0,
@@ -987,16 +1027,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669765764_122179482842783296_3248876053333212849_n.jpg"
   },
-  "4421772848075572": {
-    "price": 4800.0,
-    "title": "1997 Jeep cherokee Sport SUV 4D",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cherokee xj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657187737_2405776496554367_3264593828354453715_n.jpg"
-  },
   "1769361130655619": {
     "price": 3500.0,
     "title": "(Listing 17693611...)",
@@ -1007,15 +1037,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/648878459_4248406395426577_3266374860649582811_n.jpg"
   },
-  "1442726027205189": {
-    "price": 6000.0,
-    "title": "(Listing 14427260...)",
+  "4421772848075572": {
+    "price": 4800.0,
+    "title": "1997 Jeep cherokee Sport SUV 4D",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep cherokee xj"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668646531_1490967492384969_4824669495019446938_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657187737_2405776496554367_3264593828354453715_n.jpg"
   },
   "948791684293975": {
     "price": 3200.0,
@@ -1027,15 +1057,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655847462_26300254869596692_54001936674777205_n.jpg"
   },
-  "1593565808418053": {
-    "price": 3500.0,
-    "title": "2001 Jeep cherokee Sport Utility 4D",
-    "first_seen": "2026-04-12",
+  "1442726027205189": {
+    "price": 6000.0,
+    "title": "(Listing 14427260...)",
+    "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep cherokee xj"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669563535_26692830120311504_5615377433396045571_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668646531_1490967492384969_4824669495019446938_n.jpg"
+  },
+  "1329561449015617": {
+    "price": 3000.0,
+    "title": "(Listing 13295614...)",
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cherokee xj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659906560_1481029936713177_6033552132232691922_n.jpg"
   },
   "2113089712879779": {
     "price": 4800.0,
@@ -1057,16 +1097,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670396243_2362236700911658_8059030564609638000_n.jpg"
   },
-  "935971135713970": {
-    "price": 2800.0,
-    "title": "1995 Jeep cherokee Sport 2D",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cherokee xj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670174256_1497753548388614_2267548578780068324_n.jpg"
-  },
   "1152947753594334": {
     "price": 7200.0,
     "title": "(Listing 11529477...)",
@@ -1076,16 +1106,6 @@
       "jeep cherokee xj"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/599017152_2335038900256823_1338383698193775010_n.jpg"
-  },
-  "1329561449015617": {
-    "price": 3000.0,
-    "title": "(Listing 13295614...)",
-    "first_seen": "2026-04-05",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jeep cherokee xj"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659906560_1481029936713177_6033552132232691922_n.jpg"
   },
   "2418283101934614": {
     "price": 5000.0,
@@ -1097,15 +1117,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/653706143_122163331352826894_8035445178375793750_n.jpg"
   },
-  "3039668276422291": {
-    "price": 8000.0,
-    "title": "(Listing 30396682...)",
-    "first_seen": "2026-04-09",
+  "913688534840215": {
+    "price": 2000.0,
+    "title": "1989 Jeep cherokee",
+    "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jeep cherokee xj"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655234874_26744043861846783_2035970584419459968_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669680573_10161944935171906_7757301581054614481_n.jpg"
+  },
+  "2083540885831364": {
+    "price": 5000.0,
+    "title": "2001 XJ Jeep Cherokee",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cherokee xj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/593527751_1235974858590218_7170392827122553650_n.jpg"
   },
   "2161343911358866": {
     "price": 10400.0,
@@ -1127,16 +1157,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/571205186_804362069228407_9023174285963531602_n.jpg"
   },
-  "4108822366095126": {
-    "price": 9500.0,
-    "title": "(Listing 41088223...)",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "land rover defender"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/662693208_3171560233051248_5116370843399817387_n.jpg"
-  },
   "2579812555715634": {
     "price": 2400.0,
     "title": "2024 Land Rover Defender (5) Wheels",
@@ -1147,25 +1167,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/571249218_1140711108037313_3440779972003345457_n.jpg"
   },
-  "1412697553994324": {
-    "price": 13000.0,
-    "title": "2007 Land Rover lr3 SE Sport Utilit",
-    "first_seen": "2026-04-12",
+  "4108822366095126": {
+    "price": 9500.0,
+    "title": "(Listing 41088223...)",
+    "first_seen": "2026-04-09",
     "last_seen": "2026-04-12",
     "search_terms": [
       "land rover defender"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670890614_122107226601072244_1194565057468513529_n.jpg"
-  },
-  "940979514926198": {
-    "price": 15000.0,
-    "title": "1995 Land Rover range rover County",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "land rover defender"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/650191066_914937221462761_5379811851063628630_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/662693208_3171560233051248_5116370843399817387_n.jpg"
   },
   "1822523938456903": {
     "price": 995.0,
@@ -1177,6 +1187,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/646372341_1261344315354706_9177727627961512251_n.jpg"
   },
+  "940979514926198": {
+    "price": 15000.0,
+    "title": "1995 Land Rover range rover County",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "land rover defender"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/650191066_914937221462761_5379811851063628630_n.jpg"
+  },
   "1429972698658330": {
     "price": 7500.0,
     "title": "2001 Land Rover discovery series ii",
@@ -1186,6 +1206,16 @@
       "land rover defender"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/631223106_26850565477879803_1003880346019349811_n.jpg"
+  },
+  "1412697553994324": {
+    "price": 13000.0,
+    "title": "2007 Land Rover lr3 SE Sport Utilit",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "land rover defender"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670890614_122107226601072244_1194565057468513529_n.jpg"
   },
   "2583650258699017": {
     "price": 600.0,
@@ -1197,16 +1227,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/570096783_1261684222664070_2454532157920918594_n.jpg"
   },
-  "1450236516802055": {
-    "price": 12500.0,
-    "title": "2015 Land Rover lr4 HSE LUX Sport U",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "land rover defender"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668591114_122195926808822079_4306034434250819097_n.jpg"
-  },
   "746359264854212": {
     "price": 14988.0,
     "title": "2018 Land Rover Range Rover",
@@ -1217,25 +1237,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/616326905_1223213529916633_8128989371187105153_n.jpg"
   },
-  "4009821882495831": {
-    "price": 1790.0,
-    "title": "(Listing 40098218...)",
-    "first_seen": "2026-04-01",
+  "1272766361496871": {
+    "price": 5500.0,
+    "title": "(Listing 12727663...)",
+    "first_seen": "2026-04-10",
     "last_seen": "2026-04-12",
     "search_terms": [
       "land rover defender"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669587309_842117598905908_8740409344796080921_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668520077_27337585762510301_3538203922404278411_n.jpg"
   },
-  "2237163776810462": {
-    "price": 13995.0,
-    "title": "(Listing 22371637...)",
-    "first_seen": "2026-04-01",
+  "1646735549798429": {
+    "price": 12000.0,
+    "title": "2010 Land Rover lr4 HSE LUX Sport U",
+    "first_seen": "2026-04-06",
     "last_seen": "2026-04-12",
     "search_terms": [
       "land rover defender"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/609771047_1583026999374042_8067757920505336975_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661643500_26372220289102562_5346986700184256038_n.jpg"
   },
   "963439839583339": {
     "price": 14500.0,
@@ -1247,15 +1267,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669271055_10240125985837892_8688685201119003641_n.jpg"
   },
-  "4270000586478119": {
-    "price": 9500.0,
-    "title": "(Listing 42700005...)",
+  "1659918615455132": {
+    "price": 14300.0,
+    "title": "2015 Land Rover discovery HSE Sport",
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "land rover defender"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656857171_1966892083939325_1440715645831932275_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/663330407_122170719032620162_6032568584463130500_n.jpg"
   },
   "1615657829359367": {
     "price": 8000.0,
@@ -1286,16 +1306,6 @@
       "chevy k10"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657148008_122227127984276236_6552078117769810346_n.jpg"
-  },
-  "2141521569935007": {
-    "price": 6500.0,
-    "title": "(Listing 21415215...)",
-    "first_seen": "2026-04-05",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "chevy k10"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666261364_1509783747146763_8779483180391967006_n.jpg"
   },
   "1219570140257419": {
     "price": 6500.0,
@@ -1328,6 +1338,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651559501_1425701692043519_2623835697724652476_n.jpg"
   },
+  "1272217551467781": {
+    "price": 6500.0,
+    "title": "1986 Chevrolet 1500 regular cab Lon",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy k10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/647192367_956671047035454_682945138104686599_n.jpg"
+  },
   "1660230021844206": {
     "price": 6000.0,
     "title": "(Listing 16602300...)",
@@ -1339,25 +1359,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659655257_122098182500850992_5516959704297700268_n.jpg"
   },
-  "1272217551467781": {
+  "2141521569935007": {
     "price": 6500.0,
-    "title": "1986 Chevrolet 1500 regular cab Lon",
-    "first_seen": "2026-04-01",
+    "title": "(Listing 21415215...)",
+    "first_seen": "2026-04-05",
     "last_seen": "2026-04-12",
     "search_terms": [
       "chevy k10"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/647192367_956671047035454_682945138104686599_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666261364_1509783747146763_8779483180391967006_n.jpg"
   },
-  "1266336225707303": {
-    "price": 1000.0,
-    "title": "1980 Chevy k10 cab",
-    "first_seen": "2026-04-10",
+  "959498036426403": {
+    "price": 12000.0,
+    "title": "(Listing 95949803...)",
+    "first_seen": "2026-04-06",
     "last_seen": "2026-04-12",
     "search_terms": [
       "chevy k10"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668664786_35453755654209697_5633122162141997831_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670280248_122107376157023098_7248215644879709328_n.jpg"
   },
   "1361490388812222": {
     "price": 8500.0,
@@ -1369,16 +1389,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/584750053_2664333897264360_7833212198161046218_n.jpg"
   },
-  "959498036426403": {
-    "price": 12000.0,
-    "title": "(Listing 95949803...)",
-    "first_seen": "2026-04-06",
+  "1266336225707303": {
+    "price": 1000.0,
+    "title": "1980 Chevy k10 cab",
+    "first_seen": "2026-04-10",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "chevy k10",
-      "chevy c10"
+      "chevy k10"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670280248_122107376157023098_7248215644879709328_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668664786_35453755654209697_5633122162141997831_n.jpg"
   },
   "2947945688735535": {
     "price": 9500.0,
@@ -1400,16 +1419,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/633949110_4252935481649921_7370901870171432999_n.jpg"
   },
-  "828331070297606": {
-    "price": 7800.0,
-    "title": "1969 Ford F100",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "ford f100"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652681326_10229775389641298_1508201699803476585_n.jpg"
-  },
   "1616825986361542": {
     "price": 5800.0,
     "title": "1971 Ford f100 longbed",
@@ -1419,6 +1428,16 @@
       "ford f100"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/610737881_122226703664267376_8315234543825312786_n.jpg"
+  },
+  "828331070297606": {
+    "price": 7800.0,
+    "title": "1969 Ford F100",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford f100"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652681326_10229775389641298_1508201699803476585_n.jpg"
   },
   "1614001033104203": {
     "price": 4900.0,
@@ -1430,15 +1449,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/625318692_122230851380267376_5498559962795106230_n.jpg"
   },
-  "1473549057488479": {
-    "price": 2500.0,
-    "title": "1969 Ford f100",
-    "first_seen": "2026-04-08",
+  "1526853195735842": {
+    "price": 6000.0,
+    "title": "1967 Ford f1",
+    "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford f100"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/663251813_1279085941054889_4089830989447448892_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668660724_2190115291395078_2203380479430868073_n.jpg"
   },
   "1954778252121497": {
     "price": 10000.0,
@@ -1450,15 +1469,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/620069302_1235720711952984_2923638063750833319_n.jpg"
   },
-  "1526853195735842": {
-    "price": 6000.0,
-    "title": "1967 Ford f1",
-    "first_seen": "2026-04-12",
+  "1473549057488479": {
+    "price": 2500.0,
+    "title": "1969 Ford f100",
+    "first_seen": "2026-04-08",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford f100"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668660724_2190115291395078_2203380479430868073_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/663251813_1279085941054889_4089830989447448892_n.jpg"
   },
   "3384571991705617": {
     "price": 13500.0,
@@ -1470,16 +1489,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/665924860_1483036179872286_2858526049253159702_n.jpg"
   },
-  "1663581741314890": {
-    "price": 5900.0,
-    "title": "1986 Ford f-150 4x4 XLT Pickup 2D 8",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "ford f100"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668803710_122272855088218418_3968976454779088011_n.jpg"
-  },
   "1300128368691355": {
     "price": 9800.0,
     "title": "(Listing 13001283...)",
@@ -1490,15 +1499,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660497819_26491832747113209_7085599596347644203_n.jpg"
   },
-  "682932634700223": {
-    "price": 3000.0,
-    "title": "(Listing 68293263...)",
-    "first_seen": "2026-03-31",
+  "1497398265100093": {
+    "price": 5000.0,
+    "title": "(Listing 14973982...)",
+    "first_seen": "2026-04-08",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford f100"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/590419563_1368928374886874_815797933948297567_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669053494_1483858579926917_4375486557987306581_n.jpg"
   },
   "1445914820045572": {
     "price": 2400.0,
@@ -1510,15 +1519,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/663271235_955452116872603_2982957763685424598_n.jpg"
   },
-  "1960256018236915": {
-    "price": 5900.0,
-    "title": "1980 Ford f1 Stepside",
-    "first_seen": "2026-04-12",
+  "682932634700223": {
+    "price": 3000.0,
+    "title": "(Listing 68293263...)",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford f100"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/595658208_1410821134009022_7524070811286079724_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/590419563_1368928374886874_815797933948297567_n.jpg"
   },
   "1423557749113871": {
     "price": 7000.0,
@@ -1530,15 +1539,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/622840526_1261733169354202_1868942045553163249_n.jpg"
   },
-  "1497398265100093": {
-    "price": 5000.0,
-    "title": "(Listing 14973982...)",
-    "first_seen": "2026-04-08",
+  "1663581741314890": {
+    "price": 5900.0,
+    "title": "1986 Ford f-150 4x4 XLT Pickup 2D 8",
+    "first_seen": "2026-04-10",
     "last_seen": "2026-04-12",
     "search_terms": [
       "ford f100"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669053494_1483858579926917_4375486557987306581_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668803710_122272855088218418_3968976454779088011_n.jpg"
+  },
+  "775440562298504": {
+    "price": 5500.0,
+    "title": "(Listing 77544056...)",
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford f100"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662000841_122305972772205725_7067043045922163962_n.jpg"
   },
   "4133254720151310": {
     "price": 6900.0,
@@ -1570,6 +1589,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662468551_122209856870303849_4902112374850007735_n.jpg"
   },
+  "936887638996782": {
+    "price": 15000.0,
+    "title": "1962 Dodge power wagon / town wagon",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "dodge power wagon"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666030594_1304653171552506_5359490891681693535_n.jpg"
+  },
   "926587736378717": {
     "price": 2500.0,
     "title": "1979 Dodge power wagon 150",
@@ -1590,16 +1619,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655932157_122195832500473632_7613677608708744715_n.jpg"
   },
-  "936887638996782": {
-    "price": 15000.0,
-    "title": "1962 Dodge power wagon / town wagon",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "dodge power wagon"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666030594_1304653171552506_5359490891681693535_n.jpg"
-  },
   "1408843777650960": {
     "price": 5900.0,
     "title": "(Listing 14088437...)",
@@ -1610,16 +1629,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/636254750_10237055164510630_4446911340143949902_n.jpg"
   },
-  "1470987361248836": {
-    "price": 5900.0,
-    "title": "1979 Dodge w200 m880",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "dodge power wagon"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668986608_10238002271947724_8008955735716081132_n.jpg"
-  },
   "2103488403786364": {
     "price": 1.0,
     "title": "2022 Dodge ram 2500 crew cab Power",
@@ -1629,6 +1638,16 @@
       "dodge power wagon"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/653449818_921189637472285_2451234486244437035_n.jpg"
+  },
+  "1470987361248836": {
+    "price": 5900.0,
+    "title": "1979 Dodge w200 m880",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "dodge power wagon"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668986608_10238002271947724_8008955735716081132_n.jpg"
   },
   "673680769123014": {
     "price": 12200.0,
@@ -1650,16 +1669,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/618108674_122165162672606689_2126535907556426646_n.jpg"
   },
-  "1338585837949735": {
-    "price": 4700.0,
-    "title": "1979 Dodge other",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "dodge power wagon"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/608983175_888108870840331_2402896763213076035_n.jpg"
-  },
   "26888388477412793": {
     "price": 14950.0,
     "title": "(Listing 26888388...)",
@@ -1670,25 +1679,45 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661706670_1900877380556551_4357917789790930746_n.jpg"
   },
-  "710349785466775": {
-    "price": 15000.0,
-    "title": "(Listing 71034978...)",
-    "first_seen": "2026-04-10",
+  "1338585837949735": {
+    "price": 4700.0,
+    "title": "1979 Dodge other",
+    "first_seen": "2026-04-01",
     "last_seen": "2026-04-12",
     "search_terms": [
       "dodge power wagon"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/611296499_1532699607959897_6930254437815249970_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/608983175_888108870840331_2402896763213076035_n.jpg"
   },
-  "1450283506833817": {
-    "price": 3100.0,
-    "title": "2 1942 dodge wc open cab power wago",
+  "2133062724118463": {
+    "price": 12500.0,
+    "title": "1967 Dodge c 500",
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "dodge power wagon"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/629818699_915558121018903_1268901105959844566_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/656025744_964171329381373_8456424268958474792_n.jpg"
+  },
+  "2277264259465114": {
+    "price": 9000.0,
+    "title": "1988 Dodge d150",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "dodge power wagon"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/660414519_953207940407161_5075432231016750601_n.jpg"
+  },
+  "884106794659223": {
+    "price": 10000.0,
+    "title": "1968 Chevrolet c10 shortbed",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670401374_26877937985164696_8893920027464294568_n.jpg"
   },
   "818977397834877": {
     "price": 4600.0,
@@ -1700,16 +1729,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/641393262_3362356103926808_4554379487844302770_n.jpg"
   },
-  "1568728981009888": {
-    "price": 100.0,
-    "title": "Chevy C10",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "chevy c10"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/622366601_1377532357507054_7245600534491397139_n.jpg"
-  },
   "1488445789557413": {
     "price": 4500.0,
     "title": "1978 Chevrolet c10 Bonanza",
@@ -1719,26 +1738,6 @@
       "chevy c10"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668534039_831372496648038_5765451547933033798_n.jpg"
-  },
-  "1265199912385552": {
-    "price": 8000.0,
-    "title": "1983 Chevrolet silverado (classic)",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "chevy c10"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668493908_26840753095529513_2788786708105315992_n.jpg"
-  },
-  "1876091163110774": {
-    "price": 9500.0,
-    "title": "C10 pickup Chevy 1985 truck",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "chevy c10"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651696962_910711841957142_5487292243017081899_n.jpg"
   },
   "1604283900776398": {
     "price": 13000.0,
@@ -1750,6 +1749,26 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/644705857_869399222811280_6729140777687111847_n.jpg"
   },
+  "1568728981009888": {
+    "price": 100.0,
+    "title": "Chevy C10",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/622366601_1377532357507054_7245600534491397139_n.jpg"
+  },
+  "1275591264716602": {
+    "price": 8000.0,
+    "title": "(Listing 12755912...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656200500_938611918708065_5550981668953147658_n.jpg"
+  },
   "806008679100500": {
     "price": 13500.0,
     "title": "1978 Chevrolet C10",
@@ -1759,16 +1778,6 @@
       "chevy c10"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/600874968_1368491171689546_2902568946835607113_n.jpg"
-  },
-  "1205334071309537": {
-    "price": 5500.0,
-    "title": "(Listing 12053340...)",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "chevy c10"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646509222_1468538171529106_6429336975913607464_n.jpg"
   },
   "940438855653820": {
     "price": 5000.0,
@@ -1780,25 +1789,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/658906767_1954968608459935_8519198139447350309_n.jpg"
   },
-  "945890164669827": {
-    "price": 12000.0,
-    "title": "(Listing 94589016...)",
+  "1876091163110774": {
+    "price": 9500.0,
+    "title": "C10 pickup Chevy 1985 truck",
     "first_seen": "2026-04-09",
     "last_seen": "2026-04-12",
     "search_terms": [
       "chevy c10"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652218378_122097333272984528_5911643782616294574_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651696962_910711841957142_5487292243017081899_n.jpg"
   },
-  "816203001009142": {
-    "price": 3700.0,
-    "title": "1969 Chevrolet 1500 regular cab Lon",
-    "first_seen": "2026-04-12",
+  "1265199912385552": {
+    "price": 8000.0,
+    "title": "1983 Chevrolet silverado (classic)",
+    "first_seen": "2026-04-07",
     "last_seen": "2026-04-12",
     "search_terms": [
       "chevy c10"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669392238_27366448049609897_6197605888239096659_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668493908_26840753095529513_2788786708105315992_n.jpg"
   },
   "960861426315445": {
     "price": 4000.0,
@@ -1810,6 +1819,26 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/644506233_939280725437156_2660808993891912449_n.jpg"
   },
+  "803917746103138": {
+    "price": 13500.0,
+    "title": "1969 Chevrolet C-10",
+    "first_seen": "2026-04-07",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667720003_10162880446359639_2681255877596969865_n.jpg"
+  },
+  "1205334071309537": {
+    "price": 5500.0,
+    "title": "(Listing 12053340...)",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646509222_1468538171529106_6429336975913607464_n.jpg"
+  },
   "1984779349581120": {
     "price": 5000.0,
     "title": "Jet boat project",
@@ -1819,16 +1848,6 @@
       "jet boat"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/659518593_26079261685107192_6447261929582406443_n.jpg"
-  },
-  "1259101929703099": {
-    "price": 4000.0,
-    "title": "2003 seadoo jet boat",
-    "first_seen": "2026-04-11",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jet boat"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666954700_1515983293493393_800823173773159219_n.jpg"
   },
   "911065018424704": {
     "price": 3900.0,
@@ -1840,15 +1859,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661691620_122118440535225946_4181672278032368728_n.jpg"
   },
-  "1508686224221814": {
-    "price": 2700.0,
-    "title": "1994 Bayliner jazz jet boat",
-    "first_seen": "2026-04-12",
+  "1259101929703099": {
+    "price": 4000.0,
+    "title": "2003 seadoo jet boat",
+    "first_seen": "2026-04-11",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jet boat"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670176169_122242790006113003_705814186496344684_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666954700_1515983293493393_800823173773159219_n.jpg"
   },
   "886179807072947": {
     "price": 2600.0,
@@ -1869,26 +1888,6 @@
       "jet boat"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/650766535_1439017960859775_2261331218435985012_n.jpg"
-  },
-  "1334361861803493": {
-    "price": 2855.0,
-    "title": "jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jet boat"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/656340466_1593091665249014_8265552786727155583_n.jpg"
-  },
-  "1625029035208605": {
-    "price": 11500.0,
-    "title": "2005 Sea Doo 150 Jet Boat 4 tech",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "jet boat"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669361596_4317785238433145_3996893297534008270_n.jpg"
   },
   "797370579730287": {
     "price": 12500.0,
@@ -1920,35 +1919,65 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/634537758_1430401887950111_4257520903843089486_n.jpg"
   },
-  "1442816760717794": {
-    "price": 9500.0,
-    "title": "(Listing 14428167...)",
+  "1508686224221814": {
+    "price": 2700.0,
+    "title": "1994 Bayliner jazz jet boat",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jet boat"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670176169_122242790006113003_705814186496344684_n.jpg"
+  },
+  "4479237878963725": {
+    "price": 3700.0,
+    "title": "(Listing 44792378...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jet boat"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667786813_1976015326376303_7239268111398605604_n.jpg"
+  },
+  "1679158859802009": {
+    "price": 3500.0,
+    "title": "Speed Boat",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jet boat"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669951594_1303355431684695_7627190839223985812_n.jpg"
+  },
+  "1469301054925086": {
+    "price": 14500.0,
+    "title": "(Listing 14693010...)",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jet boat"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/661197249_1005748838651501_4949614768482376387_n.jpg"
+  },
+  "1334361861803493": {
+    "price": 2855.0,
+    "title": "jet boat",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "jet boat"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/650929632_2037242157201576_3380744045849757160_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/656340466_1593091665249014_8265552786727155583_n.jpg"
   },
-  "757918196816634": {
-    "price": 5500.0,
-    "title": "Sandrail",
-    "first_seen": "2026-04-02",
+  "1625029035208605": {
+    "price": 11500.0,
+    "title": "2005 Sea Doo 150 Jet Boat 4 tech",
+    "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "sandrail"
+      "jet boat"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/618845987_996134263576738_3346004170805883112_n.jpg"
-  },
-  "951483080762335": {
-    "price": 3000.0,
-    "title": "(Listing 95148308...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "sandrail"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/654863622_1246412334224744_3829466705742829080_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669361596_4317785238433145_3996893297534008270_n.jpg"
   },
   "2182670265878451": {
     "price": 2300.0,
@@ -1960,25 +1989,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/653807724_122171570570858387_6419287003894548051_n.jpg"
   },
-  "1214075570831245": {
-    "price": 9000.0,
-    "title": "(Listing 12140755...)",
+  "757918196816634": {
+    "price": 5500.0,
+    "title": "Sandrail",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "sandrail"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646213958_10163998815002258_362983324628080938_n.jpg"
-  },
-  "1001324335655147": {
-    "price": 4500.0,
-    "title": "1989 Volkswagen sandrail",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "sandrail"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658138571_10234353558882645_6304981919893837165_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/618845987_996134263576738_3346004170805883112_n.jpg"
   },
   "1009274334756299": {
     "price": 5500.0,
@@ -1990,15 +2009,45 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656311634_2377109582783979_4040976669824050606_n.jpg"
   },
-  "1524550895578994": {
-    "price": 7000.0,
-    "title": "(Listing 15245508...)",
+  "951483080762335": {
+    "price": 3000.0,
+    "title": "(Listing 95148308...)",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "sandrail"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/538596467_10233243608859762_6180786977409507458_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/654863622_1246412334224744_3829466705742829080_n.jpg"
+  },
+  "1001324335655147": {
+    "price": 4500.0,
+    "title": "1989 Volkswagen sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "sandrail"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658138571_10234353558882645_6304981919893837165_n.jpg"
+  },
+  "1214075570831245": {
+    "price": 9000.0,
+    "title": "(Listing 12140755...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "sandrail"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646213958_10163998815002258_362983324628080938_n.jpg"
+  },
+  "1555851458855393": {
+    "price": 530.0,
+    "title": "Sandrail frame",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "sandrail"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/624774410_786671587056792_139821144622787954_n.jpg"
   },
   "824838179976873": {
     "price": 3500.0,
@@ -2020,15 +2069,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/593959144_853080000450191_7603162335988793573_n.jpg"
   },
-  "1487369436146559": {
-    "price": 5000.0,
-    "title": "2001 Tom pro sandrail",
+  "1524550895578994": {
+    "price": 7000.0,
+    "title": "(Listing 15245508...)",
     "first_seen": "2026-04-02",
     "last_seen": "2026-04-12",
     "search_terms": [
       "sandrail"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658437175_944997954561670_8519192018634293663_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/538596467_10233243608859762_6180786977409507458_n.jpg"
   },
   "1663531735094419": {
     "price": 12000.0,
@@ -2040,15 +2089,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/653711739_984670020570865_7142983999688099516_n.jpg"
   },
-  "1498511451643051": {
-    "price": 2999.0,
-    "title": "sand rail dune buggy",
-    "first_seen": "2026-04-12",
+  "1642996930172475": {
+    "price": 350.0,
+    "title": "Sandrail",
+    "first_seen": "2026-04-05",
     "last_seen": "2026-04-12",
     "search_terms": [
       "sandrail"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669784029_27106282462306411_7327538166590114622_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666420100_1966306187302112_212672523797555734_n.jpg"
   },
   "784104470990897": {
     "price": 8500.0,
@@ -2150,16 +2199,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669560107_27243415671912688_3493936096904572342_n.jpg"
   },
-  "1588593828837829": {
-    "price": 2200.0,
-    "title": "1971 Datsun truck 521",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "datsun 510"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/637910761_10215253990298833_4181737289897712131_n.jpg"
-  },
   "1202203455319988": {
     "price": 80.0,
     "title": "Hot Wheels 1971 Datsun 510 sth",
@@ -2180,6 +2219,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/661295482_2708284782860899_6728561362356036514_n.jpg"
   },
+  "1588593828837829": {
+    "price": 2200.0,
+    "title": "1971 Datsun truck 521",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "datsun 510"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/637910761_10215253990298833_4181737289897712131_n.jpg"
+  },
   "1268319085230591": {
     "price": 15000.0,
     "title": "1969 Datsun 1600",
@@ -2190,25 +2239,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662706553_26565581526411181_7360284632461895178_n.jpg"
   },
-  "940243752015058": {
-    "price": 1000.0,
-    "title": "1970 Datsun roadster 1600",
-    "first_seen": "2026-04-02",
+  "3771758106290965": {
+    "price": 15.0,
+    "title": "Greenlight Collectibles datsun 510",
+    "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "datsun 510"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659093361_1439610477907166_5138518181616524835_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/574962707_1517447379372578_8283629739557315806_n.jpg"
   },
-  "1438231097494020": {
-    "price": 5.0,
-    "title": "Matchbox '70 Datsun 510 Rally Car",
-    "first_seen": "2026-04-04",
+  "4188894234706177": {
+    "price": 40.0,
+    "title": "(Listing 41888942...)",
+    "first_seen": "2026-04-09",
     "last_seen": "2026-04-12",
     "search_terms": [
       "datsun 510"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666249414_4361786534104665_1504530764897252155_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/656328716_2927372730785462_5204685129937096551_n.jpg"
   },
   "1509003513662469": {
     "price": 2700.0,
@@ -2237,7 +2286,8 @@
     "last_seen": "2026-04-12",
     "search_terms": [
       "volkswagen rabbit",
-      "vw thing"
+      "vw thing",
+      "vw karmann ghia"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/637435571_26135303246106532_5707566972449619871_n.jpg"
   },
@@ -2252,15 +2302,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/652354476_1508662980590088_85329431310391195_n.jpg"
   },
-  "1132853129010058": {
-    "price": 5600.0,
-    "title": "(Listing 11328531...)",
-    "first_seen": "2026-04-02",
+  "34652319567699888": {
+    "price": 3500.0,
+    "title": "2008 VW Rabbit",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
       "volkswagen rabbit"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/600968733_25728339693451360_8422064171664009560_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/642164554_1220183546486271_6901405849774103105_n.jpg"
   },
   "920052390410445": {
     "price": 1200.0,
@@ -2271,16 +2321,6 @@
       "volkswagen rabbit"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658362202_1508647533994541_6743563622628842688_n.jpg"
-  },
-  "34652319567699888": {
-    "price": 3500.0,
-    "title": "2008 VW Rabbit",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "volkswagen rabbit"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/642164554_1220183546486271_6901405849774103105_n.jpg"
   },
   "1486533663039735": {
     "price": 1400.0,
@@ -2322,16 +2362,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/637980545_1281143927480840_4959922438869436656_n.jpg"
   },
-  "1610835976614299": {
-    "price": 2500.0,
-    "title": "1980 Volkswagen rabbit Pickup",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "volkswagen rabbit"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658195248_122294219840205093_7186441381524011688_n.jpg"
-  },
   "2738238826534952": {
     "price": 3100.0,
     "title": "(Listing 27382388...)",
@@ -2341,6 +2371,16 @@
       "volkswagen rabbit"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658864855_122197529990767280_4165423830334691701_n.jpg"
+  },
+  "1610835976614299": {
+    "price": 2500.0,
+    "title": "1980 Volkswagen rabbit Pickup",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "volkswagen rabbit"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658195248_122294219840205093_7186441381524011688_n.jpg"
   },
   "1333120671966847": {
     "price": 4000.0,
@@ -2352,15 +2392,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668589379_122150689388966536_7325360448096916291_n.jpg"
   },
-  "868910979101919": {
-    "price": 1750.0,
-    "title": "1987 Volkswagen golf Hatchback 4D",
+  "921572707153613": {
+    "price": 5500.0,
+    "title": "1984 VW Gti  Race Car (ps4)",
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "volkswagen rabbit"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/637761832_929067229773593_6674427293748475236_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/631226447_1231014761806222_7073833443451999181_n.jpg"
+  },
+  "1132853129010058": {
+    "price": 5600.0,
+    "title": "(Listing 11328531...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "volkswagen rabbit"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/600968733_25728339693451360_8422064171664009560_n.jpg"
   },
   "1702163331147845": {
     "price": 2400.0,
@@ -2372,6 +2422,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669711968_122183573306780921_5674672006652877277_n.jpg"
   },
+  "1618270359197059": {
+    "price": 3300.0,
+    "title": "2005 Toyota Corolla",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota corolla"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/627165926_1493238849092747_6014072262298416520_n.jpg"
+  },
   "1595479378153955": {
     "price": 4200.0,
     "title": "2009 Toyota corolla LE Sedan 4D",
@@ -2381,16 +2441,6 @@
       "toyota corolla"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/644333639_763237193520476_332833462326240432_n.jpg"
-  },
-  "892553363664912": {
-    "price": 7400.0,
-    "title": "2016 Toyota corolla L Sedan 4D",
-    "first_seen": "2026-04-11",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657405233_122107894437266893_8859853692639076080_n.jpg"
   },
   "1325527462735126": {
     "price": 5950.0,
@@ -2402,6 +2452,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669027029_4397915507135712_6045127460733675945_n.jpg"
   },
+  "892553363664912": {
+    "price": 7400.0,
+    "title": "2016 Toyota corolla L Sedan 4D",
+    "first_seen": "2026-04-11",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota corolla"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657405233_122107894437266893_8859853692639076080_n.jpg"
+  },
   "971202515278193": {
     "price": 3000.0,
     "title": "(Listing 97120251...)",
@@ -2411,16 +2471,6 @@
       "toyota corolla"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658533081_2390661714731500_5844001336958396212_n.jpg"
-  },
-  "851916851252784": {
-    "price": 9400.0,
-    "title": "2016 Toyota corolla LE Plus Sedan 4",
-    "first_seen": "2026-04-11",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668625603_34922921477352126_254689440091322552_n.jpg"
   },
   "1423705729017398": {
     "price": 5600.0,
@@ -2442,6 +2492,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668576757_1441540561103378_5530307088946073884_n.jpg"
   },
+  "851916851252784": {
+    "price": 9400.0,
+    "title": "2016 Toyota corolla LE Plus Sedan 4",
+    "first_seen": "2026-04-11",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota corolla"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668625603_34922921477352126_254689440091322552_n.jpg"
+  },
   "1879428402996395": {
     "price": 5500.0,
     "title": "2011 Toyota corolla S Sedan 4D",
@@ -2451,36 +2511,6 @@
       "toyota corolla"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/590699964_2923192507873300_9155909791297093929_n.jpg"
-  },
-  "2134792533952092": {
-    "price": 6500.0,
-    "title": "2014 Toyota corolla LE Eco Sedan 4D",
-    "first_seen": "2026-04-05",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662703664_822409580905685_6925413030241799212_n.jpg"
-  },
-  "2120482502019294": {
-    "price": 6200.0,
-    "title": "2016 Toyota corolla LE",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656072373_1490778195723503_8991417190865328054_n.jpg"
-  },
-  "1437801610916827": {
-    "price": 4600.0,
-    "title": "2007 Toyota corolla",
-    "first_seen": "2026-04-08",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/667393455_1267995154897136_5464144725322718543_n.jpg"
   },
   "2140598856693954": {
     "price": 6400.0,
@@ -2492,25 +2522,25 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666736060_3536416716499091_1920170947572184044_n.jpg"
   },
-  "1503742234434939": {
-    "price": 10800.0,
-    "title": "2022 Toyota corolla",
+  "1437801610916827": {
+    "price": 4600.0,
+    "title": "2007 Toyota corolla",
+    "first_seen": "2026-04-08",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota corolla"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/667393455_1267995154897136_5464144725322718543_n.jpg"
+  },
+  "2120482502019294": {
+    "price": 6200.0,
+    "title": "2016 Toyota corolla LE",
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "toyota corolla"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668727953_1473664791147021_2147961622919316154_n.jpg"
-  },
-  "1190413519923596": {
-    "price": 4500.0,
-    "title": "(Listing 11904135...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646382991_26339441682346551_5285954669668219978_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656072373_1490778195723503_8991417190865328054_n.jpg"
   },
   "26583772801252783": {
     "price": 5999.0,
@@ -2522,6 +2552,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668477641_122377266488202936_1676180829199978718_n.jpg"
   },
+  "1190413519923596": {
+    "price": 4500.0,
+    "title": "(Listing 11904135...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646382991_26339441682346551_5285954669668219978_n.jpg"
+  },
   "1462227691967260": {
     "price": 4500.0,
     "title": "1985 Honda civic Wagovan 4wd",
@@ -2531,16 +2571,6 @@
       "honda civic classic"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/651896176_26340050798948127_1033352627708378971_n.jpg"
-  },
-  "2166082567498532": {
-    "price": 4800.0,
-    "title": "(Listing 21660825...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667390782_10106850534261933_7441000792997995948_n.jpg"
   },
   "4414773138742501": {
     "price": 4000.0,
@@ -2552,15 +2582,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/628395458_25888736700766786_4541957383323095928_n.jpg"
   },
-  "1405579967520326": {
-    "price": 1800.0,
-    "title": "1990 Honda civic LX Sedan 4D",
-    "first_seen": "2026-04-02",
+  "2166082567498532": {
+    "price": 4800.0,
+    "title": "(Listing 21660825...)",
+    "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
       "honda civic classic"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666012174_950646747337356_1397160918914340659_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667390782_10106850534261933_7441000792997995948_n.jpg"
   },
   "810765754884507": {
     "price": 5800.0,
@@ -2572,6 +2602,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661959394_886352697778572_5181410851173232626_n.jpg"
   },
+  "1405579967520326": {
+    "price": 1800.0,
+    "title": "1990 Honda civic LX Sedan 4D",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666012174_950646747337356_1397160918914340659_n.jpg"
+  },
   "1419386649987899": {
     "price": 3500.0,
     "title": "2000 honda civic lx gas saver",
@@ -2581,6 +2621,16 @@
       "honda civic classic"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668127131_959813863189450_3376278805700395047_n.jpg"
+  },
+  "934783799520908": {
+    "price": 3500.0,
+    "title": "2023 Honda civic Sport Sedan 4D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667663723_27214275974840466_6975936233072044076_n.jpg"
   },
   "1220573310159968": {
     "price": 4300.0,
@@ -2592,6 +2642,26 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660510382_1462846735533611_4124679532733038828_n.jpg"
   },
+  "1653943842293667": {
+    "price": 3500.0,
+    "title": "(Listing 16539438...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/665646319_122231234612273538_2541349419172264349_n.jpg"
+  },
+  "1458553382679517": {
+    "price": 6600.0,
+    "title": "2009 Honda civic LX Sedan 4D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661316869_25994312643603446_3456735658562908299_n.jpg"
+  },
   "1523474949316052": {
     "price": 5500.0,
     "title": "1988 Honda accord LX Coupe 2D",
@@ -2602,25 +2672,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/654738078_26757957990469054_996663560244249719_n.jpg"
   },
-  "2190074318402192": {
-    "price": 4995.0,
-    "title": "2010 Honda civic LX-S Sedan 4D",
+  "1721682962135583": {
+    "price": 4200.0,
+    "title": "2003 Honda civic",
     "first_seen": "2026-04-12",
     "last_seen": "2026-04-12",
     "search_terms": [
       "honda civic classic"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669622993_26965479013049700_2846924644705827278_n.jpg"
-  },
-  "2089852441588759": {
-    "price": 4500.0,
-    "title": "2007 Honda civic LX Sedan 4D",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656715968_26409420512003026_189430780213506646_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/670345484_954636350662117_7009634766709458899_n.jpg"
   },
   "26737822582551103": {
     "price": 12.95,
@@ -2632,34 +2692,13 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/662402497_955768656852599_3044149448620167291_n.jpg"
   },
-  "965287212506769": {
-    "price": 12500.0,
-    "title": "1991 Honda civic DX Hatchback 2D",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/665981663_1264177672565227_7739479590757646537_n.jpg"
-  },
-  "933150022833613": {
-    "price": 4400.0,
-    "title": "1998 Honda civic",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668591238_2132825924228892_7497276519027511002_n.jpg"
-  },
   "1631551278054463": {
     "price": 10000.0,
     "title": "(Listing 16315512...)",
     "first_seen": "2026-03-31",
     "last_seen": "2026-04-12",
     "search_terms": [
-      "vw thing",
-      "vw karmann ghia"
+      "vw thing"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666034567_122134060353080456_7669808644645576711_n.jpg"
   },
@@ -2734,15 +2773,46 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658153814_27075535408719728_2434656202012357524_n.jpg"
   },
-  "1875654089995279": {
-    "price": 6000.0,
-    "title": "(Listing 18756540...)",
-    "first_seen": "2026-04-01",
+  "1273766024594387": {
+    "price": 50.0,
+    "title": "VW Thing rims",
+    "first_seen": "2026-04-08",
     "last_seen": "2026-04-12",
     "search_terms": [
+      "vw thing"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/618695046_2024185381648128_7580214610859330425_n.jpg"
+  },
+  "1401042024826510": {
+    "price": 7500.0,
+    "title": "(Listing 14010420...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw thing"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/632829596_25990203533932033_996309730612011273_n.jpg"
+  },
+  "792839076443916": {
+    "price": 3800.0,
+    "title": "(Listing 79283907...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw thing"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/649188743_4272739866274584_5345484136359331161_n.jpg"
+  },
+  "1594375968299295": {
+    "price": 8500.0,
+    "title": "1965 VW Karmann Ghia with electric",
+    "first_seen": "2026-04-11",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw thing",
       "vw karmann ghia"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/583335118_869610265405634_567944828779397218_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/670848322_26174248065579761_5855624708704366703_n.jpg"
   },
   "2081248565986761": {
     "price": 7500.0,
@@ -2754,25 +2824,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/654311532_950477060808411_5813416257765111442_n.jpg"
   },
-  "1594375968299295": {
-    "price": 8500.0,
-    "title": "1965 VW Karmann Ghia with electric",
-    "first_seen": "2026-04-11",
+  "1875654089995279": {
+    "price": 6000.0,
+    "title": "(Listing 18756540...)",
+    "first_seen": "2026-04-01",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw karmann ghia"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/670848322_26174248065579761_5855624708704366703_n.jpg"
-  },
-  "1749823783047179": {
-    "price": 3000.0,
-    "title": "(Listing 17498237...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "vw karmann ghia"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669852077_10228237812204135_3079288840841189414_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/583335118_869610265405634_567944828779397218_n.jpg"
   },
   "1282900063783684": {
     "price": 8500.0,
@@ -2794,6 +2854,16 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668389878_2981187558744512_2590658633147792766_n.jpg"
   },
+  "1749823783047179": {
+    "price": 3000.0,
+    "title": "(Listing 17498237...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw karmann ghia"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669852077_10228237812204135_3079288840841189414_n.jpg"
+  },
   "224585234082912": {
     "price": 1500.0,
     "title": "(Listing 22458523...)",
@@ -2813,6 +2883,16 @@
       "vw karmann ghia"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/645484934_2411538482602293_2635727353525489282_n.jpg"
+  },
+  "1686122415718220": {
+    "price": 75.0,
+    "title": "(Listing 16861224...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw karmann ghia"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/658319487_2056756034884591_5006504283155008067_n.jpg"
   },
   "2045542122950833": {
     "price": 11000.0,
@@ -2834,15 +2914,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/581961532_718136411329335_5319382394434356818_n.jpg"
   },
-  "1430565921979094": {
-    "price": 10500.0,
-    "title": "1962 Volkswagen ghia",
-    "first_seen": "2026-04-12",
+  "1343534806749972": {
+    "price": 7500.0,
+    "title": "(Listing 13435348...)",
+    "first_seen": "2026-04-11",
     "last_seen": "2026-04-12",
     "search_terms": [
       "vw karmann ghia"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/611875741_1642888497118828_2308549543260918814_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/568431171_1690346328327616_7705638768288326558_n.jpg"
   },
   "957141453919226": {
     "price": 10000.0,
@@ -2874,15 +2954,15 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/638332147_1619822129472575_189107704890746191_n.jpg"
   },
-  "1941331993413469": {
-    "price": 6500.0,
-    "title": "(Listing 19413319...)",
+  "689713063480285": {
+    "price": 11700.0,
+    "title": "1971 Chevrolet camaro Rally Sport",
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-12",
     "search_terms": [
       "69 camaro"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656309391_26398610109750837_4895125000015546303_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/513545040_23879642951686268_5458499800822350197_n.jpg"
   },
   "676276195258746": {
     "price": 7000.0,
@@ -2894,16 +2974,6 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/573620173_4319446988338158_8227594629563003054_n.jpg"
   },
-  "689713063480285": {
-    "price": 11700.0,
-    "title": "1971 Chevrolet camaro Rally Sport",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "69 camaro"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/513545040_23879642951686268_5458499800822350197_n.jpg"
-  },
   "794533820394356": {
     "price": 5000.0,
     "title": "1982 Chevrolet camaro Z/28 Coupe 2D",
@@ -2913,6 +2983,16 @@
       "69 camaro"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669665331_2733104873712730_8475302726761209146_n.jpg"
+  },
+  "891337810410314": {
+    "price": 9000.0,
+    "title": "1973 Chevrolet camaro Coupe 2D",
+    "first_seen": "2026-04-03",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "69 camaro"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657746251_26142555812070791_7434093959765707241_n.jpg"
   },
   "1442845137579337": {
     "price": 15000.0,
@@ -2924,15 +3004,445 @@
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659598925_1594756211788621_6116285607802292153_n.jpg"
   },
-  "891337810410314": {
-    "price": 9000.0,
-    "title": "1973 Chevrolet camaro Coupe 2D",
+  "2199610520779331": {
+    "price": 200.0,
+    "title": "69 Camaros 2 one unretored",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "69 camaro"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669658385_2737914449919557_1108687574551864005_n.jpg"
+  },
+  "2510880249328112": {
+    "price": 5800.0,
+    "title": "2013 Chevrolet camaro Coupe 2D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "69 camaro"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661525623_122182417490862878_7925360999630609584_n.jpg"
+  },
+  "1941331993413469": {
+    "price": 6500.0,
+    "title": "(Listing 19413319...)",
     "first_seen": "2026-04-03",
     "last_seen": "2026-04-12",
     "search_terms": [
       "69 camaro"
     ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657746251_26142555812070791_7434093959765707241_n.jpg"
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656309391_26398610109750837_4895125000015546303_n.jpg"
+  },
+  "1456968785979338": {
+    "price": 0,
+    "title": "****NEED**** 69 Camaro drivers door",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "69 camaro"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/658861631_804671882684552_1549377701680416084_n.jpg"
+  },
+  "915896537497070": {
+    "price": 1500.0,
+    "title": "(Listing 91589653...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "69 camaro"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/653805972_26255385930737569_1314747094963870592_n.jpg"
+  },
+  "2006964096568541": {
+    "price": 5000.0,
+    "title": "1983 Volkswagen beetle",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bug"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670304425_122128236117069670_1871633120796361390_n.jpg"
+  },
+  "1539903664809441": {
+    "price": 7000.0,
+    "title": "1967 baj beetle",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bug"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/661345995_1665496338215377_20324148439212486_n.jpg"
+  },
+  "26380439674881797": {
+    "price": 3500.0,
+    "title": "(Listing 26380439...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bug"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656324980_122126771925042468_4733030870005441100_n.jpg"
+  },
+  "1277276414341910": {
+    "price": 9000.0,
+    "title": "1963 VW Bug",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bug"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/655835123_1474850274249994_5852605620536639969_n.jpg"
+  },
+  "1899865257323377": {
+    "price": 30.0,
+    "title": "VW bus bong",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bus"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/653967370_1437948567979723_5213658652358824470_n.jpg"
+  },
+  "736725425715118": {
+    "price": 8000.0,
+    "title": "(Listing 73672542...)",
+    "first_seen": "2026-04-11",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw bus"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/571201227_636703522722496_4382393939751006644_n.jpg"
+  },
+  "2802446766772736": {
+    "price": 1.0,
+    "title": "2000 toyota land cruiser",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota land cruiser"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669606785_1851331542219282_8857554570975916937_n.jpg"
+  },
+  "3246383575529056": {
+    "price": 10000.0,
+    "title": "(Listing 32463835...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota land cruiser"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/595540556_122153863700695184_5455877900632256258_n.jpg"
+  },
+  "1408384890773413": {
+    "price": 14995.0,
+    "title": "(Listing 14083848...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford bronco"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/651275759_901984366074660_5399850005641336625_n.jpg"
+  },
+  "1573186460404927": {
+    "price": 9500.0,
+    "title": "(Listing 15731864...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford bronco"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/663121986_10163273637618757_908618118607327261_n.jpg"
+  },
+  "4152089681784938": {
+    "price": 9000.0,
+    "title": "(Listing 41520896...)",
+    "first_seen": "2026-03-31",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep wagoneer"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/581825072_32881028741482345_1915110277029704683_n.jpg"
+  },
+  "829779566816403": {
+    "price": 1234.0,
+    "title": "1988 Toyota single cab Sr5",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota pickup"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/654222461_122173739918394218_1664520296041617080_n.jpg"
+  },
+  "1490457496038258": {
+    "price": 4500.0,
+    "title": "(Listing 14904574...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/657247589_1421500319279369_1609423578531592574_n.jpg"
+  },
+  "1214440390459714": {
+    "price": 6500.0,
+    "title": "1977 Jeep CJ-5",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651279062_1820962785533316_8421401616756411100_n.jpg"
+  },
+  "1593565808418053": {
+    "price": 3500.0,
+    "title": "2001 Jeep cherokee Sport Utility 4D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cherokee xj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669563535_26692830120311504_5615377433396045571_n.jpg"
+  },
+  "935971135713970": {
+    "price": 2800.0,
+    "title": "1995 Jeep cherokee Sport 2D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cherokee xj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670174256_1497753548388614_2267548578780068324_n.jpg"
+  },
+  "3039668276422291": {
+    "price": 8000.0,
+    "title": "(Listing 30396682...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jeep cherokee xj"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655234874_26744043861846783_2035970584419459968_n.jpg"
+  },
+  "1450236516802055": {
+    "price": 12500.0,
+    "title": "2015 Land Rover lr4 HSE LUX Sport U",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "land rover defender"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668591114_122195926808822079_4306034434250819097_n.jpg"
+  },
+  "4009821882495831": {
+    "price": 1790.0,
+    "title": "(Listing 40098218...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "land rover defender"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669587309_842117598905908_8740409344796080921_n.jpg"
+  },
+  "2237163776810462": {
+    "price": 13995.0,
+    "title": "(Listing 22371637...)",
+    "first_seen": "2026-04-01",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "land rover defender"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/609771047_1583026999374042_8067757920505336975_n.jpg"
+  },
+  "4270000586478119": {
+    "price": 9500.0,
+    "title": "(Listing 42700005...)",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "land rover defender"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656857171_1966892083939325_1440715645831932275_n.jpg"
+  },
+  "1960256018236915": {
+    "price": 5900.0,
+    "title": "1980 Ford f1 Stepside",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "ford f100"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/595658208_1410821134009022_7524070811286079724_n.jpg"
+  },
+  "710349785466775": {
+    "price": 15000.0,
+    "title": "(Listing 71034978...)",
+    "first_seen": "2026-04-10",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "dodge power wagon"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/611296499_1532699607959897_6930254437815249970_n.jpg"
+  },
+  "1450283506833817": {
+    "price": 3100.0,
+    "title": "2 1942 dodge wc open cab power wago",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "dodge power wagon"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/629818699_915558121018903_1268901105959844566_n.jpg"
+  },
+  "945890164669827": {
+    "price": 12000.0,
+    "title": "(Listing 94589016...)",
+    "first_seen": "2026-04-09",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652218378_122097333272984528_5911643782616294574_n.jpg"
+  },
+  "816203001009142": {
+    "price": 3700.0,
+    "title": "1969 Chevrolet 1500 regular cab Lon",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "chevy c10"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669392238_27366448049609897_6197605888239096659_n.jpg"
+  },
+  "1442816760717794": {
+    "price": 9500.0,
+    "title": "(Listing 14428167...)",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "jet boat"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/650929632_2037242157201576_3380744045849757160_n.jpg"
+  },
+  "1487369436146559": {
+    "price": 5000.0,
+    "title": "2001 Tom pro sandrail",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "sandrail"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658437175_944997954561670_8519192018634293663_n.jpg"
+  },
+  "1498511451643051": {
+    "price": 2999.0,
+    "title": "sand rail dune buggy",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "sandrail"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669784029_27106282462306411_7327538166590114622_n.jpg"
+  },
+  "940243752015058": {
+    "price": 1000.0,
+    "title": "1970 Datsun roadster 1600",
+    "first_seen": "2026-04-02",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "datsun 510"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659093361_1439610477907166_5138518181616524835_n.jpg"
+  },
+  "1438231097494020": {
+    "price": 5.0,
+    "title": "Matchbox '70 Datsun 510 Rally Car",
+    "first_seen": "2026-04-04",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "datsun 510"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/666249414_4361786534104665_1504530764897252155_n.jpg"
+  },
+  "868910979101919": {
+    "price": 1750.0,
+    "title": "1987 Volkswagen golf Hatchback 4D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "volkswagen rabbit"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/637761832_929067229773593_6674427293748475236_n.jpg"
+  },
+  "2134792533952092": {
+    "price": 6500.0,
+    "title": "2014 Toyota corolla LE Eco Sedan 4D",
+    "first_seen": "2026-04-05",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota corolla"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662703664_822409580905685_6925413030241799212_n.jpg"
+  },
+  "1503742234434939": {
+    "price": 10800.0,
+    "title": "2022 Toyota corolla",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "toyota corolla"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668727953_1473664791147021_2147961622919316154_n.jpg"
+  },
+  "2190074318402192": {
+    "price": 4995.0,
+    "title": "2010 Honda civic LX-S Sedan 4D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669622993_26965479013049700_2846924644705827278_n.jpg"
+  },
+  "2089852441588759": {
+    "price": 4500.0,
+    "title": "2007 Honda civic LX Sedan 4D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656715968_26409420512003026_189430780213506646_n.jpg"
+  },
+  "965287212506769": {
+    "price": 12500.0,
+    "title": "1991 Honda civic DX Hatchback 2D",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/665981663_1264177672565227_7739479590757646537_n.jpg"
+  },
+  "933150022833613": {
+    "price": 4400.0,
+    "title": "1998 Honda civic",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "honda civic classic"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668591238_2132825924228892_7497276519027511002_n.jpg"
+  },
+  "1430565921979094": {
+    "price": 10500.0,
+    "title": "1962 Volkswagen ghia",
+    "first_seen": "2026-04-12",
+    "last_seen": "2026-04-12",
+    "search_terms": [
+      "vw karmann ghia"
+    ],
+    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/611875741_1642888497118828_2308549543260918814_n.jpg"
   },
   "1862056161167075": {
     "price": 35.0,
@@ -2953,16 +3463,6 @@
       "69 camaro"
     ],
     "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/624728827_10224539813443218_8540068275592395657_n.jpg"
-  },
-  "915896537497070": {
-    "price": 1500.0,
-    "title": "(Listing 91589653...)",
-    "first_seen": "2026-04-12",
-    "last_seen": "2026-04-12",
-    "search_terms": [
-      "69 camaro"
-    ],
-    "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/653805972_26255385930737569_1314747094963870592_n.jpg"
   },
   "1587832865662796": {
     "price": 8500.0,
@@ -2992,15 +3492,6 @@
       "vw bug"
     ]
   },
-  "965774685914323": {
-    "price": 1500.0,
-    "title": "1975 Volkswagen bug",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "vw bug"
-    ]
-  },
   "1469248321361991": {
     "price": 8000.0,
     "title": "1974 Volkswagen thing",
@@ -3018,24 +3509,6 @@
     "last_seen": "2026-04-11",
     "search_terms": [
       "vw bug"
-    ]
-  },
-  "1470886614660830": {
-    "price": 9000.0,
-    "title": "1969 Volkswagen bus",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "vw bus"
-    ]
-  },
-  "1343534806749972": {
-    "price": 7500.0,
-    "title": "(Listing 13435348...)",
-    "first_seen": "2026-04-11",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "vw bus"
     ]
   },
   "650086691307219": {
@@ -3069,15 +3542,6 @@
     "price": 11000.0,
     "title": "(Listing 96653033...)",
     "first_seen": "2026-04-08",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "ford bronco"
-    ]
-  },
-  "1425800202484577": {
-    "price": 15000.0,
-    "title": "(Listing 14258002...)",
-    "first_seen": "2026-04-09",
     "last_seen": "2026-04-11",
     "search_terms": [
       "ford bronco"
@@ -3119,24 +3583,6 @@
       "jeep wagoneer"
     ]
   },
-  "1453911279765204": {
-    "price": 4000.0,
-    "title": "1992 Toyota 4runner SR5 Sport Utili",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
-  "1274177704110211": {
-    "price": 9500.0,
-    "title": "1988 Toyota regular cab Deluxe Long",
-    "first_seen": "2026-04-08",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "toyota pickup"
-    ]
-  },
   "911575318009999": {
     "price": 12000.0,
     "title": "1986 Toyota pickup xtra cab 4x4",
@@ -3153,15 +3599,6 @@
     "last_seen": "2026-04-11",
     "search_terms": [
       "toyota pickup"
-    ]
-  },
-  "977914121326457": {
-    "price": 7500.0,
-    "title": "Cj7 Jeep",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "jeep cj"
     ]
   },
   "4551112341831909": {
@@ -3254,24 +3691,6 @@
       "land rover defender"
     ]
   },
-  "1646735549798429": {
-    "price": 12000.0,
-    "title": "2010 Land Rover lr4 HSE LUX Sport U",
-    "first_seen": "2026-04-06",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
-  "1272766361496871": {
-    "price": 5500.0,
-    "title": "(Listing 12727663...)",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "land rover defender"
-    ]
-  },
   "1375206837540224": {
     "price": 800.0,
     "title": "Michelin Tires Land Rover Defender",
@@ -3344,24 +3763,6 @@
       "ford f100"
     ]
   },
-  "775440562298504": {
-    "price": 5500.0,
-    "title": "(Listing 77544056...)",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "ford f100"
-    ]
-  },
-  "2277264259465114": {
-    "price": 9000.0,
-    "title": "1988 Dodge d150",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "dodge power wagon"
-    ]
-  },
   "1224177722627380": {
     "price": 5500.0,
     "title": "(Listing 12241777...)",
@@ -3378,24 +3779,6 @@
     "last_seen": "2026-04-11",
     "search_terms": [
       "dodge power wagon"
-    ]
-  },
-  "1275591264716602": {
-    "price": 8000.0,
-    "title": "(Listing 12755912...)",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "chevy c10"
-    ]
-  },
-  "803917746103138": {
-    "price": 13500.0,
-    "title": "1969 Chevrolet C-10",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "chevy c10"
     ]
   },
   "944571171762364": {
@@ -3461,15 +3844,6 @@
       "jet boat"
     ]
   },
-  "1679158859802009": {
-    "price": 3500.0,
-    "title": "Speed Boat",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "jet boat"
-    ]
-  },
   "2720193168336501": {
     "price": 4000.0,
     "title": "1975 Avenger Boat Mercury 200HP",
@@ -3506,15 +3880,6 @@
       "sandrail"
     ]
   },
-  "1642996930172475": {
-    "price": 350.0,
-    "title": "Sandrail",
-    "first_seen": "2026-04-05",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "sandrail"
-    ]
-  },
   "947736614784004": {
     "price": 300.0,
     "title": "1969 Sandrail vw",
@@ -3528,15 +3893,6 @@
     "price": 1.0,
     "title": "1972 Nissan datsun 510",
     "first_seen": "2026-04-02",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "datsun 510"
-    ]
-  },
-  "4188894234706177": {
-    "price": 40.0,
-    "title": "(Listing 41888942...)",
-    "first_seen": "2026-04-09",
     "last_seen": "2026-04-11",
     "search_terms": [
       "datsun 510"
@@ -3567,15 +3923,6 @@
     "last_seen": "2026-04-11",
     "search_terms": [
       "volkswagen rabbit"
-    ]
-  },
-  "1618270359197059": {
-    "price": 3300.0,
-    "title": "2005 Toyota Corolla",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-11",
-    "search_terms": [
-      "toyota corolla"
     ]
   },
   "1854118571866280": {
@@ -3739,500 +4086,5 @@
     "search_terms": [
       "69 camaro"
     ]
-  },
-  "2416042338868448": {
-    "price": 6000.0,
-    "title": "2003 Volkswagen beetle",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw bug"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "933232623018517": {
-    "price": 8000.0,
-    "title": "74 VW Beetle",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw bug"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1659410558543910": {
-    "price": 3500.0,
-    "title": "Vw beetle 1971",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw bug"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1486580273099545": {
-    "price": 3700.0,
-    "title": "2007 Volkswagen Beetle",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw bug"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "794950776254855": {
-    "price": 1.0,
-    "title": "Toyota land cruiser",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota land cruiser"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "900194292920910": {
-    "price": 12900.0,
-    "title": "(Listing 90019429...)",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota land cruiser"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1270997207784096": {
-    "price": 9500.0,
-    "title": "1996 Ford bronco XL",
-    "first_seen": "2026-04-06",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "ford bronco"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "35436202892637775": {
-    "price": 5800.0,
-    "title": "1988 Ford bronco Sport Utility 2D",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "ford bronco"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "3323659511116235": {
-    "price": 4500.0,
-    "title": "(Listing 33236595...)",
-    "first_seen": "2026-04-01",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jeep wagoneer"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1296516808857160": {
-    "price": 3500.0,
-    "title": "(Listing 12965168...)",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jeep wagoneer"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1216008467278846": {
-    "price": 4500.0,
-    "title": "1991 Toyota pickup",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1728135401895181": {
-    "price": 10500.0,
-    "title": "1989 Toyota xtra cab SR5 Pickup",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1659071451763752": {
-    "price": 9500.0,
-    "title": "1999 Toyota Tacoma Truck",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "969346702088290": {
-    "price": 11500.0,
-    "title": "1986 Toyota xtra cab",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota pickup"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "2421141588314114": {
-    "price": 3500.0,
-    "title": "(Listing 24211415...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jeep cj"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1719017692870956": {
-    "price": 4300.0,
-    "title": "(Listing 17190176...)",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jeep cj"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "24613744581656333": {
-    "price": 5000.0,
-    "title": "1989 Jeep cherokee Briarwood Sport",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jeep cherokee xj"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "790972860752761": {
-    "price": 15000.0,
-    "title": "2000 Jeep cherokee Sport 4D",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jeep cherokee xj"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1977842286472939": {
-    "price": 120.0,
-    "title": "2020-2025 Land Rover Defender Spare",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "land rover defender"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1284448419749824": {
-    "price": 10000.0,
-    "title": "1975 Ford f100",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "ford f100"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "2035651740693277": {
-    "price": 6800.0,
-    "title": "1993 Ford f-250",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "ford f100"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "2057076625245666": {
-    "price": 8000.0,
-    "title": "(Listing 20570766...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "dodge power wagon"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "963474873296178": {
-    "price": 11000.0,
-    "title": "(Listing 96347487...)",
-    "first_seen": "2026-03-31",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "dodge power wagon"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "26841413802116813": {
-    "price": 9000.0,
-    "title": "1988 Dodge d150 regular cab",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "dodge power wagon"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "792925960204343": {
-    "price": 2600.0,
-    "title": "1978 Chev C10 4x4",
-    "first_seen": "2026-04-08",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "chevy c10"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "950435904018650": {
-    "price": 4500.0,
-    "title": "(Listing 95043590...)",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "chevy c10"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "25706372869041808": {
-    "price": 650.0,
-    "title": "1970 Biesmeyer jet boat",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jet boat"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1469301054925086": {
-    "price": 14500.0,
-    "title": "(Listing 14693010...)",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jet boat"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "2366112920460167": {
-    "price": 5000.0,
-    "title": "(Listing 23661129...)",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "jet boat"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "4199616513702273": {
-    "price": 2500.0,
-    "title": "Sandrail- volkswagon",
-    "first_seen": "2026-04-02",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "sandrail"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1555851458855393": {
-    "price": 530.0,
-    "title": "Sandrail frame",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "sandrail"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1441963611262555": {
-    "price": 6000.0,
-    "title": "1979 Nissan datsun 280zx",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "datsun 510"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "949746347436694": {
-    "price": 100.0,
-    "title": "(Listing 94974634...)",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "datsun 510"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "3935964096537852": {
-    "price": 800.0,
-    "title": "Grey Toyota Corolla Sedan",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "2178999889539032": {
-    "price": 5250.0,
-    "title": "2007 Toyota corolla LE Sedan 4D",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1475450033540362": {
-    "price": 3000.0,
-    "title": "(Listing 14754500...)",
-    "first_seen": "2026-04-09",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "toyota corolla"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1618058436187301": {
-    "price": 4000.0,
-    "title": "(Listing 16180584...)",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1991965128361343": {
-    "price": 3500.0,
-    "title": "1998 Honda civic DX Hatchback 2D",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1905034104220996": {
-    "price": 4200.0,
-    "title": "(Listing 19050341...)",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "3651753158464102": {
-    "price": 9000.0,
-    "title": "2000 Honda domani",
-    "first_seen": "2026-04-06",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "honda civic classic"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1469389817741395": {
-    "price": 5000.0,
-    "title": "VW Baja Volkswagen",
-    "first_seen": "2026-04-06",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw thing"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1273766024594387": {
-    "price": 50.0,
-    "title": "VW Thing rims",
-    "first_seen": "2026-04-08",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw thing"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "2077815136127876": {
-    "price": 9900.0,
-    "title": "1974 VW \"Sunbug\" Superbeetle",
-    "first_seen": "2026-04-07",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "vw karmann ghia"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "993838979874063": {
-    "price": 7500.0,
-    "title": "1973 Chevrolet Nova",
-    "first_seen": "2026-04-10",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "69 camaro"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
-  },
-  "1988886102007822": {
-    "price": 8000.0,
-    "title": "(Listing 19888861...)",
-    "first_seen": "2026-04-03",
-    "last_seen": "2026-04-10",
-    "search_terms": [
-      "69 camaro"
-    ],
-    "sold": true,
-    "sold_date": "2026-04-12"
   }
 }
