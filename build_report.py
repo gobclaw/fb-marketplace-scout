@@ -68,7 +68,7 @@ def parse_line(line):
     raw_price = parts[1].strip() if len(parts) > 1 else ''
     title = parts[2].strip() if len(parts) > 2 else ''
     location = parts[3].strip() if len(parts) > 3 else ''
-    image_url = parts[4].strip() if len(parts) > 4 else ''
+    image_url = parts[4].strip().replace('__Q__', '?') if len(parts) > 4 else ''
     if title.startswith('$'):
         price = parse_price(raw_price)
         return {
@@ -261,7 +261,7 @@ if image_urls:
     failed = len(image_urls) - cached
     print(f"Images cached: {cached}/{len(image_urls)} ({failed} failed)")
     for l in all_listings:
-        if l.get('image_url') and l['image_url'] in image_cache:
+        if l.get('image_url') and l['image_url'] in image_cache and image_cache[l['image_url']]:
             l['image_url'] = image_cache[l['image_url']]
 
 # --- Classify parts vs vehicles ---
