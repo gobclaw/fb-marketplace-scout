@@ -319,7 +319,7 @@ def listing_row(l, show_badge=None, show_deal=False):
     img_url = l.get('image_url', '')
     thumb_html = ''
     if img_url:
-        thumb_html = f'''<details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display=\'none\'" src="{img_url}"></details>'''
+        thumb_html = f'<span class="thumb-toggle" onclick="var img=this.nextElementSibling;img.style.display=img.style.display===\'block\'?\'none\':\'block\'">&#128247;</span><img class="thumb-img" loading="lazy" style="display:none" onerror="this.style.display=\'none\'" src="{img_url}">'
     return f'''<tr class="listing-row" data-search="{searches}" data-type="{is_part}" data-price="{l['price']}" data-title="{(l.get('title') or '').lower()}" data-location="{(l.get('location') or '').lower()}">
         <td>{badge} <a href="{l['url']}" target="_blank">{l['title'] or '(untitled)'}</a>{thumb_html}</td>
         <td class="price">{price_html}</td>
@@ -405,12 +405,9 @@ html = f'''<!DOCTYPE html>
     .badge.sold {{ background: #3b0764; color: #c084fc; }}
     .dom {{ color: #555; font-size: 0.8em; white-space: nowrap; }}
     .empty {{ color: #555; font-style: italic; padding: 12px 0; }}
-    .thumb-toggle {{ display: inline-block; margin-left: 6px; }}
-    .thumb-toggle:not([open]) > .thumb-img {{ display: none; }}
-    .thumb-summary {{ display: inline; cursor: pointer; font-size: 0.8em; color: #555; list-style: none; }}
-    .thumb-summary::-webkit-details-marker {{ display: none; }}
-    .thumb-summary:hover {{ color: #60a5fa; }}
-    .thumb-img {{ display: block; margin-top: 6px; max-width: 180px; max-height: 140px; border-radius: 6px; border: 1px solid #333; object-fit: cover; }}
+    .thumb-toggle {{ margin-left: 6px; cursor: pointer; font-size: 0.8em; color: #555; }}
+    .thumb-toggle:hover {{ color: #60a5fa; }}
+    .thumb-img {{ display: none; margin-top: 6px; max-width: 180px; max-height: 140px; border-radius: 6px; border: 1px solid #333; object-fit: cover; }}
     .day-one-note {{ background: #1a1a2e; border: 1px solid #2a2a4e; border-radius: 8px; padding: 14px 18px; margin-bottom: 24px; color: #a0a0d0; font-size: 0.9em; }}
     @media (max-width: 768px) {{
         .stats-bar {{ gap: 8px; }}
@@ -574,13 +571,6 @@ function filterAll() {
     document.getElementById('filterCount').textContent = count + ' shown';
 }
 filterAll();
-document.querySelectorAll('.thumb-summary').forEach(function(s) {
-  s.addEventListener('click', function(e) {
-    e.preventDefault();
-    var d = this.parentElement;
-    d.hasAttribute('open') ? d.removeAttribute('open') : d.setAttribute('open', '');
-  });
-});
 </script>
 
 <p class="dim" style="margin-top: 40px; text-align: center; font-size: 0.75em;">
