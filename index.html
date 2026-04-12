@@ -97,25 +97,413 @@
 </div>
 
 <div class="stats-bar">
-    <div class="stat new clickable" onclick="scrollToSection('section-new')"><div class="num">0</div><div class="label">New Today</div></div>
-    <div class="stat drop clickable" onclick="scrollToSection('section-drops')"><div class="num">0</div><div class="label">Price Drops</div></div>
-    <div class="stat stale clickable" onclick="scrollToSection('section-stale')"><div class="num">172</div><div class="label">Stale (5d+)</div></div>
-    <div class="stat sold clickable" onclick="scrollToSection('section-sold')"><div class="num">0</div><div class="label">Sold</div></div>
+    <div class="stat new clickable" onclick="scrollToSection('section-new')"><div class="num">62</div><div class="label">New Today</div></div>
+    <div class="stat drop clickable" onclick="scrollToSection('section-drops')"><div class="num">11</div><div class="label">Price Drops</div></div>
+    <div class="stat stale clickable" onclick="scrollToSection('section-stale')"><div class="num">178</div><div class="label">Stale (5d+)</div></div>
+    <div class="stat sold clickable" onclick="scrollToSection('section-sold')"><div class="num">38</div><div class="label">Sold</div></div>
     <div class="stat"><div class="num">274</div><div class="label">Vehicles</div></div>
     <div class="stat"><div class="num">26</div><div class="label">Parts</div></div>
 </div>
 <div class="section" id="section-new">
-<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> New Today <span class="count">(0 vehicles)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> New Today <span class="count">(53 vehicles)</span></h2>
 <div style="display:none">
-<p class="empty">Day 1 baseline — everything is new. Check back tomorrow for true new listings.</p>
+<table class="listing-table">
+        <thead><tr><th>Listing</th><th>Price</th><th>Location</th><th>Age</th></tr></thead>
+        <tbody><tr class="listing-row" data-search="toyota land cruiser" data-type="vehicle" data-price="1.0" data-title="1967 toyota land cruiser" data-location="congress">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1543096133432515/" target="_blank">1967 Toyota land cruiser</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/616803423_1600760800959601_6472320726330760128_n.jpg"></details></td>
+        <td class="price">$1</td>
+        <td>Congress</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="69 camaro" data-type="vehicle" data-price="180.0" data-title="67-69 camaro/firebird mt 3-row alum" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1254537306891509/" target="_blank">67-69 CAMARO/FIREBIRD MT 3-ROW ALUM</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668819851_1710029610360065_282409641753683655_n.jpg"></details></td>
+        <td class="price">$180</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="69 camaro" data-type="vehicle" data-price="200.0" data-title="69 camaros 2 one unretored" data-location="maricopa">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/2199610520779331/" target="_blank">69 Camaros 2 one unretored</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669658385_2737914449919557_1108687574551864005_n.jpg"></details></td>
+        <td class="price">$200</td>
+        <td>Maricopa</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="land rover defender" data-type="vehicle" data-price="600.0" data-title="(listing 25836502...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/2583650258699017/" target="_blank">(Listing 25836502...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/570096783_1261684222664070_2454532157920918594_n.jpg"></details></td>
+        <td class="price">$600</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="land rover defender" data-type="vehicle" data-price="650.0" data-title="(listing 13016365...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1301636578538133/" target="_blank">(Listing 13016365...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/659801553_1295170499191262_3888785128847707346_n.jpg"></details></td>
+        <td class="price">$650</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bus" data-type="vehicle" data-price="800.0" data-title="1972 volkswagen otro bus" data-location="phoenix">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1584174362687351/" target="_blank">1972 Volkswagen otro Bus</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669816744_34988973817384263_5789647019807884215_n.jpg"></details></td>
+        <td class="price">$800</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bus" data-type="vehicle" data-price="880.0" data-title="(listing 20239586...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/2023958681512561/" target="_blank">(Listing 20239586...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t45.5328-4/622844232_2066464640800142_9116748350845279132_n.jpg"></details></td>
+        <td class="price">$880</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw karmann ghia" data-type="vehicle" data-price="1200.0" data-title="1969 volkswagen karmann ghia" data-location="maricopa">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1454388726484924/" target="_blank">1969 Volkswagen karmann ghia</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668389878_2981187558744512_2590658633147792766_n.jpg"></details></td>
+        <td class="price">$1,200</td>
+        <td>Maricopa</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="land rover defender" data-type="vehicle" data-price="1250.0" data-title="(listing 84704795...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/847047954974939/" target="_blank">(Listing 84704795...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/608717995_898451263131196_3501832342055119427_n.jpg"></details></td>
+        <td class="price">$1,250</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="1500.0" data-title="1974 volkswagen beetle 1.8t s hatch" data-location="tempe">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1366242972207667/" target="_blank">1974 Volkswagen beetle 1.8T S Hatch</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/657461360_1498994798291916_2614630533809746572_n.jpg"></details></td>
+        <td class="price">$1,500</td>
+        <td>Tempe</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="2200.0" data-title="1972 volkswagen beetle" data-location="peoria">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1306403938064937/" target="_blank">1972 Volkswagen beetle</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669295881_1683669692665435_1743864114952735416_n.jpg"></details></td>
+        <td class="price">$2,200</td>
+        <td>Peoria</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="2400.0" data-title="2021 toyota corolla le sedan 4d" data-location="casa grande">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1702163331147845/" target="_blank">2021 Toyota corolla LE Sedan 4D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669711968_122183573306780921_5674672006652877277_n.jpg"></details></td>
+        <td class="price">$2,400</td>
+        <td>Casa Grande</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jet boat" data-type="vehicle" data-price="2700.0" data-title="1994 bayliner jazz jet boat" data-location="buckeye">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1508686224221814/" target="_blank">1994 Bayliner jazz jet boat</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670176169_122242790006113003_705814186496344684_n.jpg"></details></td>
+        <td class="price">$2,700</td>
+        <td>Buckeye</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="sandrail" data-type="vehicle" data-price="2999.0" data-title="sand rail dune buggy" data-location="chandler">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1498511451643051/" target="_blank">sand rail dune buggy</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669784029_27106282462306411_7327538166590114622_n.jpg"></details></td>
+        <td class="price">$2,999</td>
+        <td>Chandler</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="3000.0" data-title="1998 toyota tacoma regular cab pick" data-location="tempe">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1608081447068921/" target="_blank">1998 Toyota tacoma regular cab Pick</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661063843_1672082720494731_1296331539318876694_n.jpg"></details></td>
+        <td class="price">$3,000</td>
+        <td>Tempe</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford bronco" data-type="vehicle" data-price="3500.0" data-title="2021 ford bronco badlands sport uti" data-location="phoenix">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/924415317047560/" target="_blank">2021 Ford bronco Badlands Sport Uti</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655652754_3061003444084503_4328260390846204953_n.jpg"></details></td>
+        <td class="price">$3,500</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep wagoneer" data-type="vehicle" data-price="3500.0" data-title="2022 jeep wagoneer series iii sport" data-location="phoenix">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1386426476131884/" target="_blank">2022 Jeep wagoneer Series III Sport</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/631666758_3467141663424854_1083395510946227685_n.jpg"></details></td>
+        <td class="price">$3,500</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="3500.0" data-title="1992 honda civic" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1561402851626846/" target="_blank">1992 Honda Civic</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656740049_26227673186887185_1519381341345399552_n.jpg"></details></td>
+        <td class="price">$3,500</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="datsun 510" data-type="vehicle" data-price="3600.0" data-title="1969 datsun 510" data-location="phoenix">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1075285961390809/" target="_blank">1969 Datsun 510</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/616851767_1770727546933893_5677473143383665063_n.jpg"></details></td>
+        <td class="price">$3,600</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jet boat" data-type="vehicle" data-price="3700.0" data-title="(listing 44792378...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/4479237878963725/" target="_blank">(Listing 44792378...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667786813_1976015326376303_7239268111398605604_n.jpg"></details></td>
+        <td class="price">$3,700</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="3850.0" data-title="1976 volkswagen beetle 1.8t classic" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/942626538733362/" target="_blank">1976 Volkswagen beetle 1.8T Classic</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670091405_1334133461913496_3450674546657424465_n.jpg"></details></td>
+        <td class="price">$3,850</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep wagoneer" data-type="vehicle" data-price="4000.0" data-title="2022 jeep wagoneer series ii sport" data-location="phoenix">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1134748835489246/" target="_blank">2022 Jeep wagoneer Series II Sport</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/587239677_25196995466629539_5281385876299442231_n.jpg"></details></td>
+        <td class="price">$4,000</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="volkswagen rabbit" data-type="vehicle" data-price="4000.0" data-title="2005 volkswagen golf gti hatchback" data-location="chandler">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1333120671966847/" target="_blank">2005 Volkswagen golf GTI Hatchback</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668589379_122150689388966536_7325360448096916291_n.jpg"></details></td>
+        <td class="price">$4,000</td>
+        <td>Chandler</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="4300.0" data-title="2001 honda civic" data-location="tempe">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1220573310159968/" target="_blank">2001 Honda Civic</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660510382_1462846735533611_4124679532733038828_n.jpg"></details></td>
+        <td class="price">$4,300</td>
+        <td>Tempe</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="4650.0" data-title="1999 jeep cherokee sport utility 4d" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/945321738427713/" target="_blank">1999 Jeep cherokee Sport Utility 4D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669765764_122179482842783296_3248876053333212849_n.jpg"></details></td>
+        <td class="price">$4,650</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="4950.0" data-title="2011 honda civic lx-s" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/954471140305711/" target="_blank">2011 Honda civic lx-s</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/671311874_1617233029332697_5706893176909629593_n.jpg"></details></td>
+        <td class="price">$4,950</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="5000.0" data-title="1983 volkswagen beetle" data-location="buckeye">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/2006964096568541/" target="_blank">1983 Volkswagen beetle</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670304425_122128236117069670_1871633120796361390_n.jpg"></details></td>
+        <td class="price">$5,000</td>
+        <td>Buckeye</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="5000.0" data-title="chevrolet cheyenne 1972" data-location="tonopah">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/25362585406715789/" target="_blank">Chevrolet Cheyenne 1972</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/583129923_4084481125102417_684905436125661976_n.jpg"></details></td>
+        <td class="price">$5,000</td>
+        <td>Tonopah</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="volkswagen rabbit" data-type="vehicle" data-price="5000.0" data-title="1979 volkswagen beetle 1.8t convert" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1993540704559513/" target="_blank">1979 Volkswagen beetle 1.8T Convert</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/628173782_1240443244955859_5562959412036730353_n.jpg"></details></td>
+        <td class="price">$5,000</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="5500.0" data-title="2011 toyota tacoma xtracab pickup" data-location="tempe">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/970292192177355/" target="_blank">2011 Toyota tacoma xtracab Pickup</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667851499_2036053766975997_1185518122862066332_n.jpg"></details></td>
+        <td class="price">$5,500</td>
+        <td>Tempe</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="5800.0" data-title="2005 honda civic" data-location="glendale">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/810765754884507/" target="_blank">2005 Honda Civic</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661959394_886352697778572_5181410851173232626_n.jpg"></details></td>
+        <td class="price">$5,800</td>
+        <td>Glendale</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="5900.0" data-title="1979 dodge w200 m880" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1470987361248836/" target="_blank">1979 Dodge w200 m880</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668986608_10238002271947724_8008955735716081132_n.jpg"></details></td>
+        <td class="price">$5,900</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="5999.0" data-title="2006 honda civic lx sedan 4d" data-location="chandler">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/26583772801252783/" target="_blank">2006 Honda civic LX Sedan 4D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668477641_122377266488202936_1676180829199978718_n.jpg"></details></td>
+        <td class="price">$5,999</td>
+        <td>Chandler</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="6000.0" data-title="1967 ford f1" data-location="casa grande">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1526853195735842/" target="_blank">1967 Ford f1</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668660724_2190115291395078_2203380479430868073_n.jpg"></details></td>
+        <td class="price">$6,000</td>
+        <td>Casa Grande</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="6200.0" data-title="2016 toyota corolla le" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/2120482502019294/" target="_blank">2016 Toyota corolla LE</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/656072373_1490778195723503_8991417190865328054_n.jpg"></details></td>
+        <td class="price">$6,200</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cj" data-type="vehicle" data-price="6500.0" data-title="1978 jeep cj7 75th anniversary spor" data-location="cave creek">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/874706078914691/" target="_blank">1978 Jeep cj7 75th Anniversary Spor</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669341646_27369406139316258_7851733051078352229_n.jpg"></details></td>
+        <td class="price">$6,500</td>
+        <td>Cave Creek</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="6500.0" data-title="1994 jeep cherokee sport 4d" data-location="peoria">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/948512574550111/" target="_blank">1994 Jeep cherokee Sport 4D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/670396243_2362236700911658_8059030564609638000_n.jpg"></details></td>
+        <td class="price">$6,500</td>
+        <td>Peoria</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota land cruiser" data-type="vehicle" data-price="7000.0" data-title="(listing 94116731...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/941167312097120/" target="_blank">(Listing 94116731...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/661165247_1594480758290991_2436650153410044289_n.jpg"></details></td>
+        <td class="price">$7,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota land cruiser" data-type="vehicle" data-price="7000.0" data-title="(listing 13556409...)" data-location="">
+        <td><span class="badge new">NEW</span><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1355640902929095/" target="_blank">(Listing 13556409...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/610871290_122165809388607727_4543055319043249268_n.jpg"></details></td>
+        <td class="price">$7,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="69 camaro" data-type="vehicle" data-price="7000.0" data-title="1969 chevrolet malibu" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1888530762039092/" target="_blank">1969 Chevrolet malibu</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/602369906_1168337885465124_3068657408572263931_n.jpg"></details></td>
+        <td class="price">$7,000</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy k10" data-type="vehicle" data-price="7500.0" data-title="1972 gmc 1500 regular cab long bed" data-location="coolidge">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1623824968820781/" target="_blank">1972 GMC 1500 regular cab Long Bed</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661281854_10163100636416589_1086137158192575576_n.jpg"></details></td>
+        <td class="price">$7,500</td>
+        <td>Coolidge</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="8000.0" data-title="1965 volkswagen beetle hatchback 2d" data-location="queen creek">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/2373335499816171/" target="_blank">1965 Volkswagen beetle Hatchback 2D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669710555_10122010527348651_4115405790287961357_n.jpg"></details></td>
+        <td class="price">$8,000</td>
+        <td>Queen Creek</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="8200.0" data-title="1998 jeep cherokee xj" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/767982309463068/" target="_blank">1998 Jeep cherokee xj</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/651190716_26251845744480114_4415743640166179033_n.jpg"></details></td>
+        <td class="price">$8,200</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy k10" data-type="vehicle" data-price="8500.0" data-title="1977 chevy k10" data-location="san tan valley">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1361490388812222/" target="_blank">1977 chevy k10</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/584750053_2664333897264360_7833212198161046218_n.jpg"></details></td>
+        <td class="price">$8,500</td>
+        <td>San Tan Valley</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="69 camaro" data-type="vehicle" data-price="9500.0" data-title="1976 chevrolet camaro coupe 2d" data-location="tucson">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1367765715159885/" target="_blank">1976 Chevrolet camaro Coupe 2D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/668000995_959409546557550_8030069254259159726_n.jpg"></details></td>
+        <td class="price">$9,500</td>
+        <td>Tucson</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="10000.0" data-title="2006 toyota tacoma trd sport pickup" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1252311306427627/" target="_blank">2006 Toyota tacoma TRD Sport Pickup</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/667337083_919793781051545_1268623109519945467_n.jpg"></details></td>
+        <td class="price">$10,000</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="10800.0" data-title="2022 toyota corolla" data-location="buckeye">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1503742234434939/" target="_blank">2022 Toyota corolla</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668727953_1473664791147021_2147961622919316154_n.jpg"></details></td>
+        <td class="price">$10,800</td>
+        <td>Buckeye</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw karmann ghia" data-type="vehicle" data-price="11000.0" data-title="1972 vw karmann ghia" data-location="scottsdale">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/2045542122950833/" target="_blank">1972 VW Karmann Ghia</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/648906626_3020495898145628_3737608202442284251_n.jpg"></details></td>
+        <td class="price">$11,000</td>
+        <td>Scottsdale</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="11500.0" data-title="1969 chevrolet 1500 regular cab sho" data-location="mesa">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1836992130557713/" target="_blank">1969 Chevrolet 1500 regular cab Sho</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/662625818_35146445364971098_575541557222719364_n.jpg"></details></td>
+        <td class="price">$11,500</td>
+        <td>Mesa</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jet boat" data-type="vehicle" data-price="11500.0" data-title="2005 sea doo 150 jet boat 4 tech" data-location="peoria">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1625029035208605/" target="_blank">2005 Sea Doo 150 Jet Boat 4 tech</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669361596_4317785238433145_3996893297534008270_n.jpg"></details></td>
+        <td class="price">$11,500</td>
+        <td>Peoria</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jet boat" data-type="vehicle" data-price="12500.0" data-title="1983 apache jet boat" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/797370579730287/" target="_blank">1983 apache jet boat</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/668886543_1443375336820503_7230620980158322023_n.jpg"></details></td>
+        <td class="price">$12,500</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="12500.0" data-title="1991 honda civic dx hatchback 2d" data-location="phoenix">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/965287212506769/" target="_blank">1991 Honda civic DX Hatchback 2D</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/665981663_1264177672565227_7739479590757646537_n.jpg"></details></td>
+        <td class="price">$12,500</td>
+        <td>Phoenix</td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota land cruiser" data-type="vehicle" data-price="13800.0" data-title="(listing 16098365...)" data-location="">
+        <td><span class="badge new">NEW</span> <a href="https://www.facebook.com/marketplace/item/1609836593600721/" target="_blank">(Listing 16098365...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658834631_10107834538060103_119922564362665731_n.jpg"></details></td>
+        <td class="price">$13,800</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr></tbody>
+    </table>
 </div>
 </div><div class="section" id="section-drops">
-<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Price Drops <span class="count">(0)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Price Drops <span class="count">(11)</span></h2>
 <div style="display:none">
-<p class="empty">No price drops detected yet — tracking starts after day 1.</p>
+<table class="listing-table">
+        <thead><tr><th>Listing</th><th>Price</th><th>Location</th><th>Age</th></tr></thead>
+        <tbody><tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="3000.0" data-title="(listing 13295614...)" data-location="">
+        <td><span class="badge drop">↓25%</span> <a href="https://www.facebook.com/marketplace/item/1329561449015617/" target="_blank">(Listing 13295614...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659906560_1481029936713177_6033552132232691922_n.jpg"></details></td>
+        <td class="price">$3,000 <s class="old-price">$4,000</s></td>
+        <td></td>
+        <td><span class="dom">7d</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="5900.0" data-title="(listing 95647592...)" data-location="">
+        <td><span class="badge drop">↓16%</span> <a href="https://www.facebook.com/marketplace/item/956475923476788/" target="_blank">(Listing 95647592...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651559501_1425701692043519_2623835697724652476_n.jpg"></details></td>
+        <td class="price">$5,900 <s class="old-price">$7,000</s></td>
+        <td></td>
+        <td><span class="dom">12d</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="4200.0" data-title="(listing 73801599...)" data-location="">
+        <td><span class="badge drop">↓14%</span> <a href="https://www.facebook.com/marketplace/item/738015992506383/" target="_blank">(Listing 73801599...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/633949110_4252935481649921_7370901870171432999_n.jpg"></details></td>
+        <td class="price">$4,200 <s class="old-price">$4,900</s></td>
+        <td></td>
+        <td><span class="dom">12d</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw karmann ghia" data-type="vehicle" data-price="6000.0" data-title="1970 vw karmann ghia" data-location="phoenix">
+        <td><span class="badge drop">↓14%</span> <a href="https://www.facebook.com/marketplace/item/1875654089995279/" target="_blank">1970 VW Karmann Ghia</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/583335118_869610265405634_567944828779397218_n.jpg"></details></td>
+        <td class="price">$6,000 <s class="old-price">$7,000</s></td>
+        <td>Phoenix</td>
+        <td><span class="dom">11d</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy k10" data-type="vehicle" data-price="6500.0" data-title="(listing 21415215...)" data-location="">
+        <td><span class="badge drop">↓13%</span> <a href="https://www.facebook.com/marketplace/item/2141521569935007/" target="_blank">(Listing 21415215...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666261364_1509783747146763_8779483180391967006_n.jpg"></details></td>
+        <td class="price">$6,500 <s class="old-price">$7,500</s></td>
+        <td></td>
+        <td><span class="dom">7d</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="7500.0" data-title="(listing 17127004...)" data-location="">
+        <td><span class="badge drop">↓12%</span> <a href="https://www.facebook.com/marketplace/item/1712700456386252/" target="_blank">(Listing 17127004...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660573001_1482091273300110_944078536607840915_n.jpg"></details></td>
+        <td class="price">$7,500 <s class="old-price">$8,500</s></td>
+        <td></td>
+        <td><span class="dom">10d</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="5000.0" data-title="(listing 14973982...)" data-location="">
+        <td><span class="badge drop">↓9%</span> <a href="https://www.facebook.com/marketplace/item/1497398265100093/" target="_blank">(Listing 14973982...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669053494_1483858579926917_4375486557987306581_n.jpg"></details></td>
+        <td class="price">$5,000 <s class="old-price">$5,500</s></td>
+        <td></td>
+        <td><span class="dom">4d</span></td>
+    </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="5900.0" data-title="(listing 14088437...)" data-location="">
+        <td><span class="badge drop">↓9%</span> <a href="https://www.facebook.com/marketplace/item/1408843777650960/" target="_blank">(Listing 14088437...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/636254750_10237055164510630_4446911340143949902_n.jpg"></details></td>
+        <td class="price">$5,900 <s class="old-price">$6,500</s></td>
+        <td></td>
+        <td><span class="dom">10d</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug, vw thing" data-type="vehicle" data-price="5500.0" data-title="(listing 12581295...)" data-location="">
+        <td><span class="badge drop">↓8%</span> <a href="https://www.facebook.com/marketplace/item/1258129569629923/" target="_blank">(Listing 12581295...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661905300_3919439118359317_7497668315428915044_n.jpg"></details></td>
+        <td class="price">$5,500 <s class="old-price">$6,000</s></td>
+        <td></td>
+        <td><span class="dom">3d</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug, vw thing" data-type="vehicle" data-price="5600.0" data-title="(listing 21639200...)" data-location="">
+        <td><span class="badge drop">↓5%</span> <a href="https://www.facebook.com/marketplace/item/2163920064357259/" target="_blank">(Listing 21639200...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669036705_925346973831748_8257352176191544014_n.jpg"></details></td>
+        <td class="price">$5,600 <s class="old-price">$5,900</s></td>
+        <td></td>
+        <td><span class="dom">2d</span></td>
+    </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="6900.0" data-title="1966 dodge power wagon 4x4 truck" data-location="tempe">
+        <td><span class="badge drop">↓1%</span> <a href="https://www.facebook.com/marketplace/item/4133254720151310/" target="_blank">1966 Dodge Power Wagon 4x4 Truck</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/659778562_966020529700082_957819852411890469_n.jpg"></details></td>
+        <td class="price">$6,900 <s class="old-price">$7,000</s></td>
+        <td>Tempe</td>
+        <td><span class="dom">10d</span></td>
+    </tr></tbody>
+    </table>
 </div>
 </div><div class="section" id="section-stale">
-<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Getting Stale (5+ days) <span class="count">(158)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Getting Stale (5+ days) <span class="count">(163)</span></h2>
 <div style="display:none">
 <table class="listing-table">
         <thead><tr><th>Listing</th><th>Price</th><th>Location</th><th>Age</th></tr></thead>
@@ -247,7 +635,7 @@
     </tr>
 <tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="4200.0" data-title="(listing 73801599...)" data-location="">
         <td><span class="badge stale">12d</span> <a href="https://www.facebook.com/marketplace/item/738015992506383/" target="_blank">(Listing 73801599...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/633949110_4252935481649921_7370901870171432999_n.jpg"></details></td>
-        <td class="price">$4,200</td>
+        <td class="price">$4,200 <s class="old-price">$4,900</s></td>
         <td></td>
         <td><span class="dom">12d</span></td>
     </tr>
@@ -265,7 +653,7 @@
     </tr>
 <tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="5900.0" data-title="(listing 95647592...)" data-location="">
         <td><span class="badge stale">12d</span> <a href="https://www.facebook.com/marketplace/item/956475923476788/" target="_blank">(Listing 95647592...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651559501_1425701692043519_2623835697724652476_n.jpg"></details></td>
-        <td class="price">$5,900</td>
+        <td class="price">$5,900 <s class="old-price">$7,000</s></td>
         <td></td>
         <td><span class="dom">12d</span></td>
     </tr>
@@ -419,6 +807,12 @@
         <td></td>
         <td><span class="dom">11d</span></td>
     </tr>
+<tr class="listing-row" data-search="vw bus" data-type="vehicle" data-price="400.0" data-title="(listing 93500145...)" data-location="">
+        <td><span class="badge stale">11d</span> <a href="https://www.facebook.com/marketplace/item/935001459011547/" target="_blank">(Listing 93500145...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/647252759_1815303912723531_3129673578890703520_n.jpg"></details></td>
+        <td class="price">$400</td>
+        <td></td>
+        <td><span class="dom">11d</span></td>
+    </tr>
 <tr class="listing-row" data-search="toyota land cruiser" data-type="vehicle" data-price="13000.0" data-title="(listing 91458492...)" data-location="">
         <td><span class="badge stale">11d</span> <a href="https://www.facebook.com/marketplace/item/914584927821711/" target="_blank">(Listing 91458492...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/655927603_26385679367717661_5143402717957645514_n.jpg"></details></td>
         <td class="price">$13,000</td>
@@ -473,6 +867,12 @@
         <td>Prescott Valley</td>
         <td><span class="dom">11d</span></td>
     </tr>
+<tr class="listing-row" data-search="chevy k10" data-type="vehicle" data-price="4500.0" data-title="(listing 12296652...)" data-location="">
+        <td><span class="badge stale">11d</span> <a href="https://www.facebook.com/marketplace/item/1229665295902992/" target="_blank">(Listing 12296652...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652716469_10240994057044779_520870789332670843_n.jpg"></details></td>
+        <td class="price">$4,500</td>
+        <td></td>
+        <td><span class="dom">11d</span></td>
+    </tr>
 <tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="7000.0" data-title="(listing 14235577...)" data-location="">
         <td><span class="badge stale">11d</span> <a href="https://www.facebook.com/marketplace/item/1423557749113871/" target="_blank">(Listing 14235577...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/622840526_1261733169354202_1868942045553163249_n.jpg"></details></td>
         <td class="price">$7,000</td>
@@ -491,9 +891,15 @@
         <td>Phoenix</td>
         <td><span class="dom">11d</span></td>
     </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="12000.0" data-title="(listing 26759770...)" data-location="">
+        <td><span class="badge stale">11d</span> <a href="https://www.facebook.com/marketplace/item/2675977066134823/" target="_blank">(Listing 26759770...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646442249_26078512075147495_2645984886645449383_n.jpg"></details></td>
+        <td class="price">$12,000</td>
+        <td></td>
+        <td><span class="dom">11d</span></td>
+    </tr>
 <tr class="listing-row" data-search="vw karmann ghia" data-type="vehicle" data-price="6000.0" data-title="1970 vw karmann ghia" data-location="phoenix">
         <td><span class="badge stale">11d</span> <a href="https://www.facebook.com/marketplace/item/1875654089995279/" target="_blank">1970 VW Karmann Ghia</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/583335118_869610265405634_567944828779397218_n.jpg"></details></td>
-        <td class="price">$6,000</td>
+        <td class="price">$6,000 <s class="old-price">$7,000</s></td>
         <td>Phoenix</td>
         <td><span class="dom">11d</span></td>
     </tr>
@@ -541,7 +947,7 @@
     </tr>
 <tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="7500.0" data-title="(listing 17127004...)" data-location="">
         <td><span class="badge stale">10d</span> <a href="https://www.facebook.com/marketplace/item/1712700456386252/" target="_blank">(Listing 17127004...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660573001_1482091273300110_944078536607840915_n.jpg"></details></td>
-        <td class="price">$7,500</td>
+        <td class="price">$7,500 <s class="old-price">$8,500</s></td>
         <td></td>
         <td><span class="dom">10d</span></td>
     </tr>
@@ -555,6 +961,12 @@
         <td><span class="badge stale">10d</span> <a href="https://www.facebook.com/marketplace/item/1490457496038258/" target="_blank">(Listing 14904574...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/657247589_1421500319279369_1609423578531592574_n.jpg"></details></td>
         <td class="price">$4,500</td>
         <td></td>
+        <td><span class="dom">10d</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cj" data-type="vehicle" data-price="6500.0" data-title="1977 jeep cj-5" data-location="prescott valley">
+        <td><span class="badge stale">10d</span> <a href="https://www.facebook.com/marketplace/item/1214440390459714/" target="_blank">1977 Jeep CJ-5</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651279062_1820962785533316_8421401616756411100_n.jpg"></details></td>
+        <td class="price">$6,500</td>
+        <td>Prescott Valley</td>
         <td><span class="dom">10d</span></td>
     </tr>
 <tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="3000.0" data-title="94 jeep cherokee xj" data-location="surprise">
@@ -619,7 +1031,7 @@
     </tr>
 <tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="6900.0" data-title="1966 dodge power wagon 4x4 truck" data-location="tempe">
         <td><span class="badge stale">10d</span> <a href="https://www.facebook.com/marketplace/item/4133254720151310/" target="_blank">1966 Dodge Power Wagon 4x4 Truck</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/659778562_966020529700082_957819852411890469_n.jpg"></details></td>
-        <td class="price">$6,900</td>
+        <td class="price">$6,900 <s class="old-price">$7,000</s></td>
         <td>Tempe</td>
         <td><span class="dom">10d</span></td>
     </tr>
@@ -649,7 +1061,7 @@
     </tr>
 <tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="5900.0" data-title="(listing 14088437...)" data-location="">
         <td><span class="badge stale">10d</span> <a href="https://www.facebook.com/marketplace/item/1408843777650960/" target="_blank">(Listing 14088437...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/636254750_10237055164510630_4446911340143949902_n.jpg"></details></td>
-        <td class="price">$5,900</td>
+        <td class="price">$5,900 <s class="old-price">$6,500</s></td>
         <td></td>
         <td><span class="dom">10d</span></td>
     </tr>
@@ -887,6 +1299,12 @@
         <td>Apache Junction</td>
         <td><span class="dom">9d</span></td>
     </tr>
+<tr class="listing-row" data-search="datsun 510" data-type="vehicle" data-price="6000.0" data-title="1972 datsun 510" data-location="mesa">
+        <td><span class="badge stale">9d</span> <a href="https://www.facebook.com/marketplace/item/1400680728529167/" target="_blank">1972 Datsun 510</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658953006_26756353337334509_7859196069237960803_n.jpg"></details></td>
+        <td class="price">$6,000</td>
+        <td>Mesa</td>
+        <td><span class="dom">9d</span></td>
+    </tr>
 <tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="3300.0" data-title="2005 toyota corolla" data-location="phoenix">
         <td><span class="badge stale">9d</span> <a href="https://www.facebook.com/marketplace/item/1618270359197059/" target="_blank">2005 Toyota Corolla</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/627165926_1493238849092747_6014072262298416520_n.jpg"></details></td>
         <td class="price">$3,300</td>
@@ -961,13 +1379,13 @@
     </tr>
 <tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="3000.0" data-title="(listing 13295614...)" data-location="">
         <td><span class="badge stale">7d</span> <a href="https://www.facebook.com/marketplace/item/1329561449015617/" target="_blank">(Listing 13295614...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659906560_1481029936713177_6033552132232691922_n.jpg"></details></td>
-        <td class="price">$3,000</td>
+        <td class="price">$3,000 <s class="old-price">$4,000</s></td>
         <td></td>
         <td><span class="dom">7d</span></td>
     </tr>
 <tr class="listing-row" data-search="chevy k10" data-type="vehicle" data-price="6500.0" data-title="(listing 21415215...)" data-location="">
         <td><span class="badge stale">7d</span> <a href="https://www.facebook.com/marketplace/item/2141521569935007/" target="_blank">(Listing 21415215...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666261364_1509783747146763_8779483180391967006_n.jpg"></details></td>
-        <td class="price">$6,500</td>
+        <td class="price">$6,500 <s class="old-price">$7,500</s></td>
         <td></td>
         <td><span class="dom">7d</span></td>
     </tr>
@@ -1070,9 +1488,239 @@
     </table>
 </div>
 </div><div class="section" id="section-sold">
-<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Recently Sold <span class="count">(0)</span></h2>
+<h2 class="collapsible" onclick="this.querySelector('.arrow').classList.toggle('open');this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span class="arrow">&#9654;</span> Recently Sold <span class="count">(38)</span></h2>
 <div style="display:none">
-<p class="empty">No sold listings detected yet — needs 2+ days of tracking.</p>
+<table class="listing-table">
+        <thead><tr><th>Listing</th><th>Price</th><th>Location</th><th>Age</th></tr></thead>
+        <tbody><tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="6000.0" data-title="2003 volkswagen beetle" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2416042338868448/" target="_blank">2003 Volkswagen beetle</a></td>
+        <td class="price">$6,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="8000.0" data-title="74 vw beetle" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/933232623018517/" target="_blank">74 VW Beetle</a></td>
+        <td class="price">$8,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="3500.0" data-title="vw beetle 1971" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1659410558543910/" target="_blank">Vw beetle 1971</a></td>
+        <td class="price">$3,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw bug" data-type="vehicle" data-price="3700.0" data-title="2007 volkswagen beetle" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1486580273099545/" target="_blank">2007 Volkswagen Beetle</a></td>
+        <td class="price">$3,700</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford bronco" data-type="vehicle" data-price="5800.0" data-title="1988 ford bronco sport utility 2d" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/35436202892637775/" target="_blank">1988 Ford bronco Sport Utility 2D</a></td>
+        <td class="price">$5,800</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="4500.0" data-title="1991 toyota pickup" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1216008467278846/" target="_blank">1991 Toyota pickup</a></td>
+        <td class="price">$4,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="10500.0" data-title="1989 toyota xtra cab sr5 pickup" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1728135401895181/" target="_blank">1989 Toyota xtra cab SR5 Pickup</a></td>
+        <td class="price">$10,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="9500.0" data-title="1999 toyota tacoma truck" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1659071451763752/" target="_blank">1999 Toyota Tacoma Truck</a></td>
+        <td class="price">$9,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="5000.0" data-title="1989 jeep cherokee briarwood sport" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/24613744581656333/" target="_blank">1989 Jeep cherokee Briarwood Sport</a></td>
+        <td class="price">$5,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="15000.0" data-title="2000 jeep cherokee sport 4d" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/790972860752761/" target="_blank">2000 Jeep cherokee Sport 4D</a></td>
+        <td class="price">$15,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="10000.0" data-title="1975 ford f100" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1284448419749824/" target="_blank">1975 Ford f100</a></td>
+        <td class="price">$10,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="9000.0" data-title="1988 dodge d150 regular cab" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/26841413802116813/" target="_blank">1988 Dodge d150 regular cab</a></td>
+        <td class="price">$9,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="4500.0" data-title="(listing 95043590...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/950435904018650/" target="_blank">(Listing 95043590...)</a></td>
+        <td class="price">$4,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="sandrail" data-type="vehicle" data-price="530.0" data-title="sandrail frame" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1555851458855393/" target="_blank">Sandrail frame</a></td>
+        <td class="price">$530</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="800.0" data-title="grey toyota corolla sedan" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/3935964096537852/" target="_blank">Grey Toyota Corolla Sedan</a></td>
+        <td class="price">$800</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="4000.0" data-title="(listing 16180584...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1618058436187301/" target="_blank">(Listing 16180584...)</a></td>
+        <td class="price">$4,000</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="3500.0" data-title="1998 honda civic dx hatchback 2d" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1991965128361343/" target="_blank">1998 Honda civic DX Hatchback 2D</a></td>
+        <td class="price">$3,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="4200.0" data-title="(listing 19050341...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1905034104220996/" target="_blank">(Listing 19050341...)</a></td>
+        <td class="price">$4,200</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="69 camaro" data-type="vehicle" data-price="7500.0" data-title="1973 chevrolet nova" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/993838979874063/" target="_blank">1973 Chevrolet Nova</a></td>
+        <td class="price">$7,500</td>
+        <td></td>
+        <td><span class="dom">new</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota land cruiser" data-type="vehicle" data-price="12900.0" data-title="(listing 90019429...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/900194292920910/" target="_blank">(Listing 90019429...)</a></td>
+        <td class="price">$12,900</td>
+        <td></td>
+        <td><span class="dom">1d</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="11500.0" data-title="1986 toyota xtra cab" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/969346702088290/" target="_blank">1986 Toyota xtra cab</a></td>
+        <td class="price">$11,500</td>
+        <td></td>
+        <td><span class="dom">1d</span></td>
+    </tr>
+<tr class="listing-row" data-search="jet boat" data-type="vehicle" data-price="5000.0" data-title="(listing 23661129...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2366112920460167/" target="_blank">(Listing 23661129...)</a></td>
+        <td class="price">$5,000</td>
+        <td></td>
+        <td><span class="dom">1d</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="3000.0" data-title="(listing 14754500...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1475450033540362/" target="_blank">(Listing 14754500...)</a></td>
+        <td class="price">$3,000</td>
+        <td></td>
+        <td><span class="dom">1d</span></td>
+    </tr>
+<tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="2600.0" data-title="1978 chev c10 4x4" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/792925960204343/" target="_blank">1978 Chev C10 4x4</a></td>
+        <td class="price">$2,600</td>
+        <td></td>
+        <td><span class="dom">2d</span></td>
+    </tr>
+<tr class="listing-row" data-search="toyota corolla" data-type="vehicle" data-price="5250.0" data-title="2007 toyota corolla le sedan 4d" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2178999889539032/" target="_blank">2007 Toyota corolla LE Sedan 4D</a></td>
+        <td class="price">$5,250</td>
+        <td></td>
+        <td><span class="dom">3d</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw karmann ghia" data-type="vehicle" data-price="9900.0" data-title="1974 vw "sunbug" superbeetle" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2077815136127876/" target="_blank">1974 VW "Sunbug" Superbeetle</a></td>
+        <td class="price">$9,900</td>
+        <td></td>
+        <td><span class="dom">3d</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford bronco" data-type="vehicle" data-price="9500.0" data-title="1996 ford bronco xl" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1270997207784096/" target="_blank">1996 Ford bronco XL</a></td>
+        <td class="price">$9,500</td>
+        <td></td>
+        <td><span class="dom">4d</span></td>
+    </tr>
+<tr class="listing-row" data-search="honda civic classic" data-type="vehicle" data-price="9000.0" data-title="2000 honda domani" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/3651753158464102/" target="_blank">2000 Honda domani</a></td>
+        <td class="price">$9,000</td>
+        <td></td>
+        <td><span class="dom">4d</span></td>
+    </tr>
+<tr class="listing-row" data-search="vw thing" data-type="vehicle" data-price="5000.0" data-title="vw baja volkswagen" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1469389817741395/" target="_blank">VW Baja Volkswagen</a></td>
+        <td class="price">$5,000</td>
+        <td></td>
+        <td><span class="dom">4d</span></td>
+    </tr>
+<tr class="listing-row" data-search="datsun 510" data-type="vehicle" data-price="6000.0" data-title="1979 nissan datsun 280zx" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1441963611262555/" target="_blank">1979 Nissan datsun 280zx</a></td>
+        <td class="price">$6,000</td>
+        <td></td>
+        <td><span class="dom">7d</span></td>
+    </tr>
+<tr class="listing-row" data-search="69 camaro" data-type="vehicle" data-price="8000.0" data-title="(listing 19888861...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1988886102007822/" target="_blank">(Listing 19888861...)</a></td>
+        <td class="price">$8,000</td>
+        <td></td>
+        <td><span class="dom">7d</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cj" data-type="vehicle" data-price="4300.0" data-title="(listing 17190176...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/1719017692870956/" target="_blank">(Listing 17190176...)</a></td>
+        <td class="price">$4,300</td>
+        <td></td>
+        <td><span class="dom">8d</span></td>
+    </tr>
+<tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="6800.0" data-title="1993 ford f-250" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2035651740693277/" target="_blank">1993 Ford f-250</a></td>
+        <td class="price">$6,800</td>
+        <td></td>
+        <td><span class="dom">8d</span></td>
+    </tr>
+<tr class="listing-row" data-search="jet boat" data-type="vehicle" data-price="650.0" data-title="1970 biesmeyer jet boat" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/25706372869041808/" target="_blank">1970 Biesmeyer jet boat</a></td>
+        <td class="price">$650</td>
+        <td></td>
+        <td><span class="dom">8d</span></td>
+    </tr>
+<tr class="listing-row" data-search="sandrail" data-type="vehicle" data-price="2500.0" data-title="sandrail- volkswagon" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/4199616513702273/" target="_blank">Sandrail- volkswagon</a></td>
+        <td class="price">$2,500</td>
+        <td></td>
+        <td><span class="dom">8d</span></td>
+    </tr>
+<tr class="listing-row" data-search="jeep cj" data-type="vehicle" data-price="3500.0" data-title="(listing 24211415...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2421141588314114/" target="_blank">(Listing 24211415...)</a></td>
+        <td class="price">$3,500</td>
+        <td></td>
+        <td><span class="dom">10d</span></td>
+    </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="8000.0" data-title="(listing 20570766...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/2057076625245666/" target="_blank">(Listing 20570766...)</a></td>
+        <td class="price">$8,000</td>
+        <td></td>
+        <td><span class="dom">10d</span></td>
+    </tr>
+<tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="11000.0" data-title="(listing 96347487...)" data-location="">
+        <td><span class="badge sold">SOLD</span> <a href="https://www.facebook.com/marketplace/item/963474873296178/" target="_blank">(Listing 96347487...)</a></td>
+        <td class="price">$11,000</td>
+        <td></td>
+        <td><span class="dom">10d</span></td>
+    </tr></tbody>
+    </table>
 </div>
 </div><div class="section"><h2>All Listings by Category</h2></div><div class="category">
     <h3>Original <span class="count">(83 vehicles, 2 parts)</span></h3>
@@ -1136,13 +1784,13 @@
     </tr>
 <tr class="listing-row" data-search="vw bug, vw thing" data-type="vehicle" data-price="5500.0" data-title="(listing 12581295...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/1258129569629923/" target="_blank">(Listing 12581295...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/661905300_3919439118359317_7497668315428915044_n.jpg"></details></td>
-        <td class="price">$5,500</td>
+        <td class="price">$5,500 <s class="old-price">$6,000</s></td>
         <td></td>
         <td><span class="dom">3d</span></td>
     </tr>
 <tr class="listing-row" data-search="vw bug, vw thing" data-type="vehicle" data-price="5600.0" data-title="(listing 21639200...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/2163920064357259/" target="_blank">(Listing 21639200...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669036705_925346973831748_8257352176191544014_n.jpg"></details></td>
-        <td class="price">$5,600</td>
+        <td class="price">$5,600 <s class="old-price">$5,900</s></td>
         <td></td>
         <td><span class="dom">2d</span></td>
     </tr>
@@ -1189,7 +1837,7 @@
         <td> <a href="https://www.facebook.com/marketplace/item/935001459011547/" target="_blank">(Listing 93500145...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/647252759_1815303912723531_3129673578890703520_n.jpg"></details></td>
         <td class="price">$400</td>
         <td></td>
-        <td><span class="dom">new</span></td>
+        <td><span class="dom">11d</span></td>
     </tr>
 <tr class="listing-row" data-search="vw bus" data-type="vehicle" data-price="800.0" data-title="1972 volkswagen otro bus" data-location="phoenix">
         <td><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1584174362687351/" target="_blank">1972 Volkswagen otro Bus</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/669816744_34988973817384263_5789647019807884215_n.jpg"></details></td>
@@ -1289,7 +1937,7 @@
         <td> <a href="https://www.facebook.com/marketplace/item/1899865257323377/" target="_blank">VW bus bong</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/653967370_1437948567979723_5213658652358824470_n.jpg"></details></td>
         <td class="price">$30</td>
         <td>Phoenix</td>
-        <td><span class="dom">new</span></td>
+        <td><span class="dom">12d</span></td>
     </tr>
 <tr class="listing-row" data-search="vw bus" data-type="parts" data-price="5000.0" data-title="1975 volkswagen baywindow bus" data-location="tucson">
         <td> <a href="https://www.facebook.com/marketplace/item/2341741676346637/" target="_blank">1975 Volkswagen baywindow bus</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/658146660_1630634108084509_6672387623747440075_n.jpg"></details></td>
@@ -1624,7 +2272,7 @@
     </tr>
 <tr class="listing-row" data-search="toyota pickup" data-type="vehicle" data-price="7500.0" data-title="(listing 17127004...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/1712700456386252/" target="_blank">(Listing 17127004...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/660573001_1482091273300110_944078536607840915_n.jpg"></details></td>
-        <td class="price">$7,500</td>
+        <td class="price">$7,500 <s class="old-price">$8,500</s></td>
         <td></td>
         <td><span class="dom">10d</span></td>
     </tr>
@@ -1710,7 +2358,7 @@
         <td> <a href="https://www.facebook.com/marketplace/item/1214440390459714/" target="_blank">1977 Jeep CJ-5</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651279062_1820962785533316_8421401616756411100_n.jpg"></details></td>
         <td class="price">$6,500</td>
         <td>Prescott Valley</td>
-        <td><span class="dom">new</span></td>
+        <td><span class="dom">10d</span></td>
     </tr>
 <tr class="listing-row" data-search="jeep cj" data-type="vehicle" data-price="7100.0" data-title="(listing 12422950...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/1242295071096481/" target="_blank">(Listing 12422950...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/611581392_1232574818733742_3358559155406444437_n.jpg"></details></td>
@@ -1753,7 +2401,7 @@
     </tr>
 <tr class="listing-row" data-search="jeep cherokee xj" data-type="vehicle" data-price="3000.0" data-title="(listing 13295614...)" data-location="">
         <td><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1329561449015617/" target="_blank">(Listing 13295614...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659906560_1481029936713177_6033552132232691922_n.jpg"></details></td>
-        <td class="price">$3,000</td>
+        <td class="price">$3,000 <s class="old-price">$4,000</s></td>
         <td></td>
         <td><span class="dom">7d</span></td>
     </tr>
@@ -1961,7 +2609,7 @@
         <td><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/1229665295902992/" target="_blank">(Listing 12296652...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/652716469_10240994057044779_520870789332670843_n.jpg"></details></td>
         <td class="price">$4,500</td>
         <td></td>
-        <td><span class="dom">new</span></td>
+        <td><span class="dom">11d</span></td>
     </tr>
 <tr class="listing-row" data-search="chevy k10, chevy c10" data-type="vehicle" data-price="6000.0" data-title="(listing 16602300...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/1660230021844206/" target="_blank">(Listing 16602300...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/659655257_122098182500850992_5516959704297700268_n.jpg"></details></td>
@@ -1977,7 +2625,7 @@
     </tr>
 <tr class="listing-row" data-search="chevy k10" data-type="vehicle" data-price="6500.0" data-title="(listing 21415215...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/2141521569935007/" target="_blank">(Listing 21415215...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/666261364_1509783747146763_8779483180391967006_n.jpg"></details></td>
-        <td class="price">$6,500</td>
+        <td class="price">$6,500 <s class="old-price">$7,500</s></td>
         <td></td>
         <td><span class="dom">7d</span></td>
     </tr>
@@ -2052,7 +2700,7 @@
     </tr>
 <tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="4200.0" data-title="(listing 73801599...)" data-location="">
         <td><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/738015992506383/" target="_blank">(Listing 73801599...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/633949110_4252935481649921_7370901870171432999_n.jpg"></details></td>
-        <td class="price">$4,200</td>
+        <td class="price">$4,200 <s class="old-price">$4,900</s></td>
         <td></td>
         <td><span class="dom">12d</span></td>
     </tr>
@@ -2064,7 +2712,7 @@
     </tr>
 <tr class="listing-row" data-search="ford f100" data-type="vehicle" data-price="5000.0" data-title="(listing 14973982...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/1497398265100093/" target="_blank">(Listing 14973982...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/669053494_1483858579926917_4375486557987306581_n.jpg"></details></td>
-        <td class="price">$5,000</td>
+        <td class="price">$5,000 <s class="old-price">$5,500</s></td>
         <td></td>
         <td><span class="dom">4d</span></td>
     </tr>
@@ -2175,13 +2823,13 @@
     </tr>
 <tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="5900.0" data-title="(listing 14088437...)" data-location="">
         <td> <a href="https://www.facebook.com/marketplace/item/1408843777650960/" target="_blank">(Listing 14088437...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/636254750_10237055164510630_4446911340143949902_n.jpg"></details></td>
-        <td class="price">$5,900</td>
+        <td class="price">$5,900 <s class="old-price">$6,500</s></td>
         <td></td>
         <td><span class="dom">10d</span></td>
     </tr>
 <tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="6900.0" data-title="1966 dodge power wagon 4x4 truck" data-location="tempe">
         <td> <a href="https://www.facebook.com/marketplace/item/4133254720151310/" target="_blank">1966 Dodge Power Wagon 4x4 Truck</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/659778562_966020529700082_957819852411890469_n.jpg"></details></td>
-        <td class="price">$6,900</td>
+        <td class="price">$6,900 <s class="old-price">$7,000</s></td>
         <td>Tempe</td>
         <td><span class="dom">10d</span></td>
     </tr>
@@ -2195,7 +2843,7 @@
         <td> <a href="https://www.facebook.com/marketplace/item/2675977066134823/" target="_blank">(Listing 26759770...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/646442249_26078512075147495_2645984886645449383_n.jpg"></details></td>
         <td class="price">$12,000</td>
         <td></td>
-        <td><span class="dom">new</span></td>
+        <td><span class="dom">11d</span></td>
     </tr>
 <tr class="listing-row" data-search="dodge power wagon" data-type="vehicle" data-price="12200.0" data-title="1951 dodge ram wagon b350" data-location="san tan valley">
         <td> <a href="https://www.facebook.com/marketplace/item/673680769123014/" target="_blank">1951 Dodge ram wagon b350</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/582043769_1347587587033733_3491270022141813593_n.jpg"></details></td>
@@ -2256,7 +2904,7 @@
     </tr>
 <tr class="listing-row" data-search="chevy c10" data-type="vehicle" data-price="5900.0" data-title="(listing 95647592...)" data-location="">
         <td><span class="badge deal">DEAL</span> <a href="https://www.facebook.com/marketplace/item/956475923476788/" target="_blank">(Listing 95647592...)</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/651559501_1425701692043519_2623835697724652476_n.jpg"></details></td>
-        <td class="price">$5,900</td>
+        <td class="price">$5,900 <s class="old-price">$7,000</s></td>
         <td></td>
         <td><span class="dom">12d</span></td>
     </tr>
@@ -2566,7 +3214,7 @@
         <td> <a href="https://www.facebook.com/marketplace/item/1400680728529167/" target="_blank">1972 Datsun 510</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/658953006_26756353337334509_7859196069237960803_n.jpg"></details></td>
         <td class="price">$6,000</td>
         <td>Mesa</td>
-        <td><span class="dom">new</span></td>
+        <td><span class="dom">9d</span></td>
     </tr>
 <tr class="listing-row" data-search="datsun 510" data-type="vehicle" data-price="15000.0" data-title="1972 datsun 510" data-location="tucson">
         <td> <a href="https://www.facebook.com/marketplace/item/618610651210401/" target="_blank">1972 Datsun 510</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/481251673_10236096748027748_8923457489088886191_n.jpg"></details></td>
@@ -3024,7 +3672,7 @@
     </tr>
 <tr class="listing-row" data-search="vw karmann ghia" data-type="vehicle" data-price="6000.0" data-title="1970 vw karmann ghia" data-location="phoenix">
         <td> <a href="https://www.facebook.com/marketplace/item/1875654089995279/" target="_blank">1970 VW Karmann Ghia</a><details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display='none'" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.84726-6/583335118_869610265405634_567944828779397218_n.jpg"></details></td>
-        <td class="price">$6,000</td>
+        <td class="price">$6,000 <s class="old-price">$7,000</s></td>
         <td>Phoenix</td>
         <td><span class="dom">11d</span></td>
     </tr>
