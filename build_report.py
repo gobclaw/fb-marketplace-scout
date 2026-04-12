@@ -319,7 +319,7 @@ def listing_row(l, show_badge=None, show_deal=False):
     img_url = l.get('image_url', '')
     thumb_html = ''
     if img_url:
-        thumb_html = f'<span class="thumb-toggle" onclick="var img=this.nextElementSibling;img.style.display=img.style.display===\'block\'?\'none\':\'block\'">&#128247;</span><img class="thumb-img" loading="lazy" style="display:none" onerror="this.style.display=\'none\'" src="{img_url}">'
+        thumb_html = f'<span class="thumb-toggle" onclick="var img=this.nextElementSibling;img.style.display=img.style.display===\'block\'?\'none\':\'block\'">&#128247;</span><img class="thumb-img" loading="lazy" style="display:none" src="{img_url}">'
     return f'''<tr class="listing-row" data-search="{searches}" data-type="{is_part}" data-price="{l['price']}" data-title="{(l.get('title') or '').lower()}" data-location="{(l.get('location') or '').lower()}">
         <td>{badge} <a href="{l['url']}" target="_blank">{l['title'] or '(untitled)'}</a>{thumb_html}</td>
         <td class="price">{price_html}</td>
