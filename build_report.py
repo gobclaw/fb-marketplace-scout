@@ -15,6 +15,7 @@ CATEGORIES = {
     "Boats & Off-Road": ["jet boat", "sandrail"],
     "Small / Economy": ["datsun 510", "volkswagen rabbit", "toyota corolla", "honda civic classic"],
     "VW Adjacent": ["vw thing", "vw karmann ghia"],
+    "Muscle / Classic": ["69 camaro"],
 }
 
 # Title-relevance keywords: a listing must contain at least one keyword to stay under a search term
@@ -40,6 +41,7 @@ RELEVANCE_KEYWORDS = {
     "honda civic classic": ["honda", "civic"],
     "vw thing": ["thing", "vw", "volkswagen"],
     "vw karmann ghia": ["karmann", "ghia", "vw", "volkswagen"],
+    "69 camaro": ["camaro", "chevy", "chevrolet"],
 }
 
 def parse_price(raw):
@@ -64,18 +66,21 @@ def parse_line(line):
     raw_price = parts[1].strip() if len(parts) > 1 else ''
     title = parts[2].strip() if len(parts) > 2 else ''
     location = parts[3].strip() if len(parts) > 3 else ''
+    image_url = parts[4].strip() if len(parts) > 4 else ''
     if title.startswith('$'):
         price = parse_price(raw_price)
         return {
             'id': lid, 'price': price, 'price_raw': raw_price,
             'title': f'(Listing {lid[:8]}...)',
             'location': location if not location.startswith('$') else '',
+            'image_url': image_url,
             'url': f'https://www.facebook.com/marketplace/item/{lid}/'
         }
     price = parse_price(raw_price)
     return {
         'id': lid, 'price': price, 'price_raw': raw_price,
         'title': title, 'location': location,
+        'image_url': image_url,
         'url': f'https://www.facebook.com/marketplace/item/{lid}/'
     }
 
@@ -171,6 +176,8 @@ for l in all_listings:
             price_drops.append(l)
         l['first_seen'] = prev_seen[lid].get('first_seen', today)
         l['days_on_market'] = (datetime.now() - datetime.strptime(l['first_seen'], '%Y-%m-%d')).days
+        if not l.get('image_url'):
+            l['image_url'] = prev_seen[lid].get('image_url', '')
     else:
         new_listings.append(l)
         l['first_seen'] = today
@@ -196,6 +203,7 @@ for lid, data in prev_seen.items():
                 'days_on_market': days_on,
                 'url': f'https://www.facebook.com/marketplace/item/{lid}/',
                 'search_terms': data.get('search_terms', []),
+                'image_url': data.get('image_url', ''),
                 'is_parts': False, 'sold': True
             })
 sold_vehicles = [l for l in sold_listings if not is_parts_listing(l)]
@@ -205,11 +213,14 @@ sold_vehicles.sort(key=lambda x: x.get('days_on_market', 0))
 new_seen = {}
 # Active listings
 for l in all_listings:
+    prev_image = prev_seen.get(l['id'], {}).get('image_url', '')
+    new_image = l.get('image_url', '')
     new_seen[l['id']] = {
         'price': l['price'], 'title': l['title'],
         'first_seen': l.get('first_seen', today),
         'last_seen': today,
-        'search_terms': l.get('search_terms', [])
+        'search_terms': l.get('search_terms', []),
+        'image_url': new_image if new_image else prev_image,
     }
 # Carry forward missing listings (not yet 2 days gone) so we can detect sold later
 for lid, data in prev_seen.items():
@@ -305,8 +316,12 @@ def listing_row(l, show_badge=None, show_deal=False):
     is_part = 'parts' if l.get('is_parts') else 'vehicle'
     dom = l.get('days_on_market', 0)
     dom_html = f'<span class="dom">{dom}d</span>' if dom > 0 else '<span class="dom">new</span>'
+    img_url = l.get('image_url', '')
+    thumb_html = ''
+    if img_url:
+        thumb_html = f'''<details class="thumb-toggle"><summary class="thumb-summary">&#128247;</summary><img class="thumb-img" loading="lazy" onerror="this.style.display=\'none\'" src="{img_url}"></details>'''
     return f'''<tr class="listing-row" data-search="{searches}" data-type="{is_part}" data-price="{l['price']}" data-title="{(l.get('title') or '').lower()}" data-location="{(l.get('location') or '').lower()}">
-        <td>{badge} <a href="{l['url']}" target="_blank">{l['title'] or '(untitled)'}</a></td>
+        <td>{badge} <a href="{l['url']}" target="_blank">{l['title'] or '(untitled)'}</a>{thumb_html}</td>
         <td class="price">{price_html}</td>
         <td>{l['location']}</td>
         <td>{dom_html}</td>
@@ -390,6 +405,11 @@ html = f'''<!DOCTYPE html>
     .badge.sold {{ background: #3b0764; color: #c084fc; }}
     .dom {{ color: #555; font-size: 0.8em; white-space: nowrap; }}
     .empty {{ color: #555; font-style: italic; padding: 12px 0; }}
+    .thumb-toggle {{ display: inline-block; margin-left: 6px; }}
+    .thumb-summary {{ display: inline; cursor: pointer; font-size: 0.8em; color: #555; list-style: none; }}
+    .thumb-summary::-webkit-details-marker {{ display: none; }}
+    .thumb-summary:hover {{ color: #60a5fa; }}
+    .thumb-img {{ display: block; margin-top: 6px; max-width: 180px; max-height: 140px; border-radius: 6px; border: 1px solid #333; object-fit: cover; }}
     .day-one-note {{ background: #1a1a2e; border: 1px solid #2a2a4e; border-radius: 8px; padding: 14px 18px; margin-bottom: 24px; color: #a0a0d0; font-size: 0.9em; }}
     @media (max-width: 768px) {{
         .stats-bar {{ gap: 8px; }}
