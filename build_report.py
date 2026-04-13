@@ -76,20 +76,21 @@ def parse_line(line):
             image_url = raw_img.replace('__Q__', '?')
     else:
         image_url = ''
+    mileage = parts[5].strip() if len(parts) > 5 else ''
     if title.startswith('$'):
         price = parse_price(raw_price)
         return {
             'id': lid, 'price': price, 'price_raw': raw_price,
             'title': f'(Listing {lid[:8]}...)',
             'location': location if not location.startswith('$') else '',
-            'image_url': image_url,
+            'image_url': image_url, 'mileage': mileage,
             'url': f'https://www.facebook.com/marketplace/item/{lid}/'
         }
     price = parse_price(raw_price)
     return {
         'id': lid, 'price': price, 'price_raw': raw_price,
         'title': title, 'location': location,
-        'image_url': image_url,
+        'image_url': image_url, 'mileage': mileage,
         'url': f'https://www.facebook.com/marketplace/item/{lid}/'
     }
 
@@ -230,6 +231,7 @@ for l in all_listings:
         'last_seen': today,
         'search_terms': l.get('search_terms', []),
         'image_url': new_image if new_image else prev_image,
+        'mileage': l.get('mileage', '') or prev_seen.get(l['id'], {}).get('mileage', ''),
     }
 # Carry forward missing listings (not yet 2 days gone) so we can detect sold later
 for lid, data in prev_seen.items():
@@ -361,7 +363,7 @@ def listing_row(l, show_badge=None, show_deal=False):
     return f'''<tr class="listing-row" data-search="{searches}" data-type="{is_part}" data-price="{l['price']}" data-title="{(l.get('title') or '').lower()}" data-location="{(l.get('location') or '').lower()}">
         <td>{badge} <a href="{l['url']}" target="_blank">{l['title'] or '(untitled)'}</a>{thumb_html}</td>
         <td class="price">{price_html}</td>
-        <td>{l['location']}</td>
+        <td>{l['location'] + (' · ' + l['mileage'] if l.get('mileage') else '')}</td>
         <td>{dom_html}</td>
     </tr>'''
 
