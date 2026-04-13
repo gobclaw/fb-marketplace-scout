@@ -445,7 +445,7 @@ html = f'''<!DOCTYPE html>
     .badge.sold {{ background: #3b0764; color: #c084fc; }}
     .dom {{ color: #555; font-size: 0.8em; white-space: nowrap; }}
     .empty {{ color: #555; font-style: italic; padding: 12px 0; }}
-    .thumb-toggle {{ margin-left: 6px; cursor: pointer; font-size: 0.8em; color: #555; }}
+    .thumb-toggle {{ margin-left: 6px; cursor: pointer; font-size: 1.4em; color: #555; display: inline-block; min-width: 36px; min-height: 36px; line-height: 36px; text-align: center; }}
     .thumb-toggle:hover {{ color: #60a5fa; }}
     .thumb-img {{ display: none; margin-top: 6px; max-width: 180px; max-height: 140px; border-radius: 6px; border: 1px solid #333; object-fit: cover; }}
     .day-one-note {{ background: #1a1a2e; border: 1px solid #2a2a4e; border-radius: 8px; padding: 14px 18px; margin-bottom: 24px; color: #a0a0d0; font-size: 0.9em; }}
