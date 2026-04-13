@@ -68,7 +68,14 @@ def parse_line(line):
     raw_price = parts[1].strip() if len(parts) > 1 else ''
     title = parts[2].strip() if len(parts) > 2 else ''
     location = parts[3].strip() if len(parts) > 3 else ''
-    image_url = parts[4].strip().replace('__Q__', '?') if len(parts) > 4 else ''
+    raw_img = parts[4].strip() if len(parts) > 4 else ''
+    if raw_img:
+        try:
+            image_url = base64.b64decode(raw_img).decode('utf-8')
+        except Exception:
+            image_url = raw_img.replace('__Q__', '?')
+    else:
+        image_url = ''
     if title.startswith('$'):
         price = parse_price(raw_price)
         return {
